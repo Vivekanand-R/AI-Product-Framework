@@ -109,39 +109,54 @@ Stakeholders: CEO, VP, PM, Technical Teams
 
 If it is a success, Heavy Auto Manufacturer, Inc. has a chance to lead the market for AI and trucks.
 
-Analysis:
-Risks you will face:
-•	<>
-•	<>
-•	<>
+**Task Analysis:**
+
+Risks:
+•	Regulatory Challenges
+
+•	AI Privacy Laws
+
+•	Ethical Considerations
+
+•	Safety Concerns
+
+Rewards:
+•	Stay Ahead of Competition
+
+•	Revenue Growth (High ROI)
+
+•	Improved Customer Satisfaction
+
+•	Next Generation Transportation
+
+Challenges:
+•	Compliances
+
+•	Regional Laws, if applicable
+
+•	Local and International Competitions
+
 •	<>
 
-Rewards you will get:
-•	<>
-•	<>
-•	<>
-•	<>
+Collaborate:
+•	External: Government, Channel Partners, Transport Agencies
 
-Challenges you will face:
-•	<>
-•	<>
-•	<>
-•	<>
+•	Internal: Engineering, Sales, Marketing, Product Management, Leadership
 
-People with whom you would need to collaborate:
-•	<>
-•	<>
-•	<>
-•	<>
-
-Scope of your work:
-•	<>
-•	<>
-•	<>
-•	<>
+•	Others: Investors and other external colloborations
 
 
-Skills list:
+Scope of work:
+•	New Product Introduction,  
+
+•	Automation, 
+
+•	Market Analysis, and
+
+•	Competitor Analysis.
+
+
+Skillsets:
 •	Collaboration
 •	Scoping and prioritization
 •	Engineering
