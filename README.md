@@ -7,9 +7,10 @@
       A. Machine Learning Foundations for Product Managers
 
 2. IBM Product Manager Professional (From IBM)
-      B. Generative AI for Product Manager
+
+      A. Generative AI for Product Manager
    
-3. Xbox Product Manager(From Xbox)
+3. Xbox Product Manager
 
 
 **Major Focus:**
@@ -57,7 +58,7 @@ Stakeholders: CEO, VP, PM, Technical Teams
 
 If it is a success, Heavy Auto Manufacturer, Inc. has a chance to lead the market for AI and trucks.
 
-Self Response:
+Analysis:
 Risks you will face:
 •	<>
 •	<>
