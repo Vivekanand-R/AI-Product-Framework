@@ -110,6 +110,7 @@ If it is a success, Heavy Auto Manufacturer, Inc. has a chance to lead the marke
 **Task Analysis:**
 
 Risks:
+
 •	Regulatory Challenges
 
 •	AI Privacy Laws
@@ -119,6 +120,7 @@ Risks:
 •	Safety Concerns
 
 Rewards:
+
 •	Stay Ahead of Competition
 
 •	Revenue Growth (High ROI)
@@ -128,15 +130,15 @@ Rewards:
 •	Next Generation Transportation
 
 Challenges:
+
 •	Compliances
 
 •	Regional Laws, if applicable
 
 •	Local and International Competitions
 
-•	<>
-
 Collaborate:
+
 •	External: Government, Channel Partners, Transport Agencies
 
 •	Internal: Engineering, Sales, Marketing, Product Management, Leadership
@@ -180,9 +182,8 @@ Skillsets:
 •	Project Management Skills
 
 
-
 **References**: 
-1. https://professional.dce.harvard.edu/programs/product-management-from-design-to-launch/#overview-of-product-management-online-course
-2. https://online.stanford.edu/programs/advanced-product-management-program
-3. https://www.coursera.org/
+1. https://www.coursera.org/
+2. https://professional.dce.harvard.edu/programs/product-management-from-design-to-launch/#overview-of-product-management-online-course
+3. https://online.stanford.edu/programs/advanced-product-management-program
 4. https://executive.berkeley.edu/programs/product-management-studio-program
