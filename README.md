@@ -62,7 +62,9 @@
    
 -----------------------------------------
 
-**Major Focus & Workouts:**
+**Key Takeaways from Course No.2: IBM Product Manager Professional**
+
+**PM Major Focus & Few Workouts:**
 
 1.  Business Acumen and Leadership: All Aspects including Financials, Analytical, Marketing, Strategy and Influencial Communications.
    
@@ -93,70 +95,74 @@
 
 ![image](https://github.com/user-attachments/assets/8be5d22c-9aaa-4fea-bc73-d9febafddd7a)
 
-
+----------------------------------------------------
 
 **Example Scinario 1:**
 
-In Short,
+In Short, assume we have a new vision and a task:
 
-Vision/Goal: To design a new AI feature for semi-trucks, and enhancement To stand out from a competitors. 
+**Vision/Goal:** To design a **new AI feature for semi-trucks** for the transfort company **"Heavy Auto Manufacturer"** , as an enhancement, so to stand out from a competitors. 
 
-Industry: Heavy Auto Manufacturer
+**Industry:** Heavy Auto Manufacturer
 
-Stakeholders: CEO, VP, PM, Technical Teams
+**Stakeholders Involved:** CEO, VP, PM, Technical Teams
 
-If it is a success, Heavy Auto Manufacturer, Inc. has a chance to lead the market for AI and trucks.
+If it is a success, Heavy Auto Manufacturer, Inc. has a chance to lead the market for AI and truck Industries. What are the risks, rewards and challenges involved in this scinario ?. 
 
-**Task Analysis:**
+**Task Analysis Response:**
 
-Risks:
+Risks Involved:
 
-•	Regulatory Challenges
+•	Market Adoption Risks (high upfront costs for a new truck, lack of trust in the automation, Regulatory Challenges, Driver Pushback like job security fear due to Automation)
 
-•	AI Privacy Laws
+•	Technology feasibility challenges (as due to extreme weather conditions, load weight, traffic and AI in truck business might be complex) , AI Privacy Laws
 
-•	Ethical Considerations
+•	High Competition (from a big players), Ethical Considerations
 
-•	Safety Concerns
+•	Driver Safety Concerns, High R&D Costs, Financial and execution risks. 
 
 Rewards:
 
-•	Stay Ahead of Competition
+•	First Mover Advantage, If successful Stay Ahead of Competition
 
-•	Revenue Growth (High ROI)
+•	Increased Revenue Growth (High ROI)
 
-•	Improved Customer Satisfaction
+•	Improved Safety, Customer Satisfaction
 
 •	Next Generation Transportation
 
-Challenges:
+Challenges: (Obstacles to Overcome)
 
-•	Compliances
+•	Massive Real time datasets, AI Models, Model Training, AI Reliability in Real World Applications. 
 
-•	Regional Laws, if applicable
+•	Compliances, Regional Frameworks
 
 •	Local and International Competitions
 
 Collaborate:
 
-•	External: Government, Channel Partners, Transport Agencies
+•	Internal: Engineering, Sales, Marketing, Product Management, Leadership, Brand Strategy, Supply Chain, Manufacturing, Hardware and Finance.
 
-•	Internal: Engineering, Sales, Marketing, Product Management, Leadership
+•	External: AI Researchers & Universities, Chip Manufacturers, Cloud Providers, Logistic, Insurance Provider, Government, Channel Partners and Transport Agencies
 
-•	Others: Investors and other external colloborations
+•	Others: Investors, Board of Directors, Research Grands, Venture Capitals and External colloborations
 
 
 Scope of work:
-•	New Product Introduction,  
+•	Idea Phase (Design and Discovery Phase) - Data Collection, Identifying Pain Points, Market Analysis, Competitor Analysis.
 
-•	Automation, 
+•	AI System Design And review Phase 
 
-•	Market Analysis, and
+•	Testing and Reviews
 
-•	Competitor Analysis.
+•	Product Launch, New Product Introduction, Industry Distruption, 
+
+•	Product/Truck Maintenance, 
+
+•	End of Life (EOL)
 
 
-Skillsets:
+Overall Skillsets:
 •	Collaboration
 •	Scoping and prioritization
 •	Engineering
