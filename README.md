@@ -7,7 +7,7 @@
 
       A. Machine Learning Foundations for Product Managers
 
-2. IBM Product Manager Professional (From IBM)
+2. IBM Product Manager Professional
 
       A. Generative AI for Product Manager
    
