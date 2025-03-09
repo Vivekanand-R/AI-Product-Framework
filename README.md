@@ -99,7 +99,7 @@
 
 **Example Scinario 1:**
 
-In Short, Let's assume we have a new vision and task:
+In Short, Let's assume we have a new challenging vision and a priority:
 
 **Vision/Goal:** To design a **new AI feature for semi-trucks** for the transport company **"Heavy Auto Manufacturer"** , as an enhancement, so that we can stand out from a competitors. 
 
@@ -150,7 +150,7 @@ If it is a success, Heavy Auto Manufacturer, Inc. has a chance to lead the marke
 
 •	Internal: Engineering, Sales, Marketing, Product Management, Leadership, Brand Strategy, Supply Chain, Manufacturing, Hardware and Finance.
 
-•	External: AI Researchers, Chip Manufacturers, Cloud Providers, Logistic, Insurance Provider, Government, Channel Partners and Transport Agencies
+•	External: Chip Manufacturers, Cloud Providers, Logistic, Insurance Provider, Government, Channel Partners and Transport Agencies
 
 •	Others: Investors, Board of Directors, Research Grands, Venture Capitals and External colloborations
 
