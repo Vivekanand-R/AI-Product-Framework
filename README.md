@@ -113,6 +113,7 @@ If it is a success, Heavy Auto Manufacturer, Inc. has a chance to lead the marke
 **Task Analysis Response:**
 
 **1. Risks Involved:**
+
 •	Market Adoption Risks (high upfront costs for a new truck, lack of trust in the automation, Regulatory Challenges, Driver Pushback like job security fear due to Automation)
 
 •	Technology feasibility challenges (as due to extreme weather conditions, load weight, traffic and AI in truck business might be complex) , AI Privacy Laws
@@ -124,6 +125,7 @@ If it is a success, Heavy Auto Manufacturer, Inc. has a chance to lead the marke
 
 
 **2. Rewards:**
+
 •	First Mover Advantage, If successful Stay Ahead of Competition
 
 •	Increased Revenue Growth (High ROI)
@@ -148,7 +150,7 @@ If it is a success, Heavy Auto Manufacturer, Inc. has a chance to lead the marke
 
 •	Internal: Engineering, Sales, Marketing, Product Management, Leadership, Brand Strategy, Supply Chain, Manufacturing, Hardware and Finance.
 
-•	External: AI Researchers & Universities, Chip Manufacturers, Cloud Providers, Logistic, Insurance Provider, Government, Channel Partners and Transport Agencies
+•	External: AI Researchers, Chip Manufacturers, Cloud Providers, Logistic, Insurance Provider, Government, Channel Partners and Transport Agencies
 
 •	Others: Investors, Board of Directors, Research Grands, Venture Capitals and External colloborations
 
