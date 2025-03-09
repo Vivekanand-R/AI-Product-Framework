@@ -93,7 +93,7 @@
 5. User experience & Others Product Focused Requirements. 
 
 
-![image](https://github.com/user-attachments/assets/e44e96db-d09a-43cd-94ae-f367ca3ff8de)
+![image](https://github.com/user-attachments/assets/8be5d22c-9aaa-4fea-bc73-d9febafddd7a)
 
 
 
@@ -172,9 +172,3 @@ Skills list:
 1. https://professional.dce.harvard.edu/programs/product-management-from-design-to-launch/#overview-of-product-management-online-course
 2. https://online.stanford.edu/programs/advanced-product-management-program
 3. https://www.coursera.org/
-4. 
-
-
-
-
-
