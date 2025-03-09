@@ -185,3 +185,4 @@ Skillsets:
 1. https://professional.dce.harvard.edu/programs/product-management-from-design-to-launch/#overview-of-product-management-online-course
 2. https://online.stanford.edu/programs/advanced-product-management-program
 3. https://www.coursera.org/
+4. https://executive.berkeley.edu/programs/product-management-studio-program
