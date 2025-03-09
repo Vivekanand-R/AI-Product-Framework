@@ -32,9 +32,9 @@
 
 6. Product Management (mygreatlearning)
 
-7. Becoming a Product Manager (Linkedin - Address real user needs, approach customer development, run MVP experiments)
+7. Address real user needs, approach customer development, run MVP experiments (Becoming a Product Manager, Linkedin)
 
-8. Product Management Essentials ( Product Ideation, Design, and Management Specialization)
+8. Product Ideation, Design, and Management Specialization (Product Management Essentials)
 
 9. Agentic AI and AI Agents for Leaders Specialization (Vanderbilt University) (Strategic Insights for Leaders on Agentic AI. Gain the knowledge to lead AI innovation in your organization by understanding Agentic AI and AI Agents.)
 
