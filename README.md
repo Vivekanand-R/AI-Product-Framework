@@ -109,10 +109,10 @@ In Short, Let's assume we have a new vision and task:
 
 If it is a success, Heavy Auto Manufacturer, Inc. has a chance to lead the market for AI and truck Industries. What are the risks, rewards and challenges involved in this scinario ?. 
 
+
 **Task Analysis Response:**
 
-Risks Involved:
-
+**1. Risks Involved:**
 •	Market Adoption Risks (high upfront costs for a new truck, lack of trust in the automation, Regulatory Challenges, Driver Pushback like job security fear due to Automation)
 
 •	Technology feasibility challenges (as due to extreme weather conditions, load weight, traffic and AI in truck business might be complex) , AI Privacy Laws
@@ -121,8 +121,9 @@ Risks Involved:
 
 •	Driver Safety Concerns, High R&D Costs, Financial and execution risks. 
 
-Rewards:
 
+
+**2. Rewards:**
 •	First Mover Advantage, If successful Stay Ahead of Competition
 
 •	Increased Revenue Growth (High ROI)
@@ -131,7 +132,9 @@ Rewards:
 
 •	Next Generation Transportation
 
-Challenges: (Obstacles to Overcome)
+
+
+**3. Challenges: (Obstacles to Overcome)**
 
 •	Massive Real time datasets, AI Models, Model Training, AI Reliability in Real World Applications. 
 
@@ -139,7 +142,9 @@ Challenges: (Obstacles to Overcome)
 
 •	Local and International Competitions
 
-Collaborate:
+
+
+**4. Collaborate:**
 
 •	Internal: Engineering, Sales, Marketing, Product Management, Leadership, Brand Strategy, Supply Chain, Manufacturing, Hardware and Finance.
 
@@ -148,9 +153,10 @@ Collaborate:
 •	Others: Investors, Board of Directors, Research Grands, Venture Capitals and External colloborations
 
 
-Scope of work:
 
-•	Phase 1: Idea Phase (Design and Discovery Phase) - Data Collection, Identifying Pain Points, Market Analysis, Competitor Analysis.
+**5. Scope of work:**
+
+•	Phase 1: Idea Phase (Design and Discovery Phase) - Data Collection Phase, Identifying Customers Pain Points (i.e. Truck Drivers), Market Analysis, Competitor Analysis.
 
 •	Phase 2: AI System Design And review Phase 
 
