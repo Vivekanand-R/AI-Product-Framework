@@ -105,7 +105,7 @@ Let’s consider a new ambitious vision that has become a strategic priority:
 
 **Industry:** Heavy Auto Manufacturer
 
-**Stakeholders Involved:** CEO, VP, PM, Technical Teams
+**Stakeholders Involved:** SME's, CEO, VP, PM, Technical Teams
 
 If it is a success, Heavy Auto Manufacturer, Inc. has a chance to lead the market for AI and truck Industries. What are the risks, rewards and challenges involved in this scinario ?. 
 
