@@ -30,18 +30,16 @@
       Financial Management for Product Leaders
       Course 5, 9 hours
 
-6. Product Management (mygreatlearning)
+6. Address real user needs, approach customer development, run MVP experiments (Becoming a Product Manager, Linkedin)
 
-7. Address real user needs, approach customer development, run MVP experiments (Becoming a Product Manager, Linkedin)
+7. Product Ideation, Design, and Management Specialization (Product Management Essentials)
 
-8. Product Ideation, Design, and Management Specialization (Product Management Essentials)
+8. Agentic AI and AI Agents for Leaders Specialization (Vanderbilt University) (Strategic Insights for Leaders on Agentic AI. Gain the knowledge to lead AI innovation in your organization by understanding Agentic AI and AI Agents.)
 
-9. Agentic AI and AI Agents for Leaders Specialization (Vanderbilt University) (Strategic Insights for Leaders on Agentic AI. Gain the knowledge to lead AI innovation in your organization by understanding Agentic AI and AI Agents.)
-
-10. Digital Product Management Specialization (Implement a modern approach to product management. Master the fundamentals that create great teams and products)
+9. Digital Product Management Specialization (Implement a modern approach to product management. Master the fundamentals that create great teams and products)
 
 
-**Advanced**:
+**Advanced Roadmap**:
 1. Product Management: Capstone Project (IBM)
 
 2. Innovation and entrepreneurship Specialization (Develop innovation projects. Develop innovation projects in your organization, Tecnológico de Monterrey)
