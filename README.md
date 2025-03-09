@@ -93,7 +93,7 @@
 5. User experience & Others Product Focused Requirements. 
 
 
-![image](https://github.com/user-attachments/assets/1a3d185d-855d-4f90-8a04-b7a676b9c9a8)
+![image](https://github.com/user-attachments/assets/e44e96db-d09a-43cd-94ae-f367ca3ff8de)
 
 
 
