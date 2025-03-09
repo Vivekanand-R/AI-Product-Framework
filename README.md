@@ -99,9 +99,9 @@
 
 **Example Scinario 1:**
 
-In Short, assume we have a new vision and a task:
+In Short, Let's assume we have a new vision and task:
 
-**Vision/Goal:** To design a **new AI feature for semi-trucks** for the transfort company **"Heavy Auto Manufacturer"** , as an enhancement, so to stand out from a competitors. 
+**Vision/Goal:** To design a **new AI feature for semi-trucks** for the transport company **"Heavy Auto Manufacturer"** , as an enhancement, so that we can stand out from a competitors. 
 
 **Industry:** Heavy Auto Manufacturer
 
@@ -149,17 +149,18 @@ Collaborate:
 
 
 Scope of work:
-•	Idea Phase (Design and Discovery Phase) - Data Collection, Identifying Pain Points, Market Analysis, Competitor Analysis.
 
-•	AI System Design And review Phase 
+•	Phase 1: Idea Phase (Design and Discovery Phase) - Data Collection, Identifying Pain Points, Market Analysis, Competitor Analysis.
 
-•	Testing and Reviews
+•	Phase 2: AI System Design And review Phase 
 
-•	Product Launch, New Product Introduction, Industry Distruption, 
+•	Phase 3: Testing and Reviews Phase
 
-•	Product/Truck Maintenance, 
+•	Phase 4: Product Launch, New Product Introduction, Industry Distruption, 
 
-•	End of Life (EOL)
+•	Phase 4: Product Maintenance (Trucks), 
+
+•	Phase 5: End of Life (EOL)
 
 
 Overall Skillsets:
