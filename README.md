@@ -15,24 +15,34 @@
 **Major Focus:**
 
 1.  Business Acumen and Leadership: All Aspects including Financials, Analytical, Marketing, Strategy and Influencial Communications.
-          Financials: Cash Flow, Profit, Return on Investment, Internal Rate of Return, Net Present Value and Payback. 
-          Analytical: Product Insights, Forecasting, BI, Programming, Cloud, AI and Market Research. 
-          Marketing: Insects with Sales, Customer Focused. 
-          Strategy: Alignment, Realities (Government Regulations, Compliance, Resource Allocations and Unforeseen Factors)  
+   
+          Financials: Cash Flow, Profit, Return on Investment, Internal Rate of Return, Net Present Value and Payback.
+    
+          Analytical: Product Insights, Forecasting, BI, Programming, Cloud, AI and Market Research.
+    
+          Marketing: Insects with Sales, Customer Focused.
+    
+          Strategy: Alignment, Realities (Government Regulations, Compliance, Resource Allocations and Unforeseen Factors)
+    
           Generic: Empathy, Business Challenges, Curiousity, Well Versed, Competition, and Key KPI's.
+    
           Others: Pricing, Strategic Planning, End to End Business Model and Monitization. 
 
 3.  Problem Solving & Decision Making: Analytical, Strategic Thinking and Team edifications. (SMART)
 
-Filling a gap between what currently exisit already and what market needs.
-
-External Product Management: Developing a vision.
+          Filling a gap between what currently exisit already and what market needs.
+      
+          External Product Management: Developing a vision.
 
 3.  Knowledge: Customer Needs, Process, Competitions, Market Research, Political, Customers, Investers Perspective, Negotiations.
 
 4. Project Management: Scrum and Agile, Timelines and Guidance. 
 
-5. User experience
+5. User experience & Others Product Focused Requirements. 
+
+
+![image](https://github.com/user-attachments/assets/1a3d185d-855d-4f90-8a04-b7a676b9c9a8)
+
 
 
 **Example Scinario 1:**
