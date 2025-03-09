@@ -171,6 +171,13 @@ If it is a success, Heavy Auto Manufacturer, Inc. has a chance to lead the marke
 •	Phase 5: End of Life (EOL)
 
 
+Can We Call It a Blue Ocean Strategy?
+
+Yes, If the AI feature redefines trucking operations and safety in a way that competitors have not considered → It’s a Blue Ocean Strategy.
+
+Nope., If it’s just a better version of what already exists (e.g., slightly smarter autopilot, better fuel efficiency monitoring) → It’s still a Red Ocean move.
+
+
 Overall Skillsets:
 •	Collaboration
 •	Scoping and prioritization
