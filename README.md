@@ -82,7 +82,7 @@
 
 3.  Problem Solving & Decision Making: Analytical, Strategic Thinking and Team edifications. (SMART)
 
-          Filling a gap between what currently exisit already and what market needs.
+          Filling a gap between what currently exist already and what market needs.
       
           External Product Management: Developing a vision.
 
