@@ -178,7 +178,7 @@ Yes, If the AI feature redefines trucking operations and safety in a way that co
 Nope., If it’s just a better version of what already exists (e.g., slightly smarter autopilot, better fuel efficiency monitoring) → It’s still a Red Ocean move.
 
 
-Overall Skillsets:
+Generic Skillsets Involved:
 •	Collaboration
 •	Scoping and prioritization
 •	Engineering
