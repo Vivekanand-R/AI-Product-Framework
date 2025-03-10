@@ -158,7 +158,7 @@ If it is a success, Heavy Auto Manufacturer, Inc. has a chance to lead the marke
 
 **5. Scope of work:**
 
-•	Phase 1: Idea Phase (Design and Discovery Phase) - Data Collection Phase, Identifying Customers Pain Points (i.e. Truck Drivers), Market Analysis, Competitor Analysis.
+•	Phase 1: Idea Phase (Design and Discovery Phase) - Data Collection Phase, Identifying Customers Pain Points, Market Analysis, and Competitor Analysis.
 
 •	Phase 2: AI System Design And review Phase 
 
