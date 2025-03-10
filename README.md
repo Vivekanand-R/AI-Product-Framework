@@ -2,7 +2,7 @@
 
 **Essential Insights from Product Management Courses and Real-World Applications**
 
-**Beginning**:
+**To get started**:
 1. Product Management (From Duke University)
 
       A. Machine Learning Foundations for Product Managers
@@ -56,9 +56,9 @@
       Corporate Entrepreneurship
       Course 4, 27 hours
 
-3. Product Management: From Design to Launch (Online, Harvard, Paid Version)
+3. Product Management: From Design to Launch (Online, Harvard, Paid)
    
-4. Advanced-product-management-program (Online, Stanford, Paid Paid)
+4. Advanced-product-management-program (Online, Stanford, Paid)
    
 -----------------------------------------
 
