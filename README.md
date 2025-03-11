@@ -79,7 +79,7 @@
     
           Generic: Empathy, Business Challenges, Curiousity, Well Versed, Competition, and Key KPI's.
     
-          Others: Pricing, Strategic Planning, Monitization and End to End Business Model. 
+          Other Focus: Pricing, Strategic Planning, Monitization and End to End Business Model. 
 
 3.  Problem Solving & Decision Making: Analytical, Strategic Thinking and Team edifications. (SMART)
 
