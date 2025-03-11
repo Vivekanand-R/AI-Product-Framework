@@ -37,6 +37,7 @@
 8. Agentic AI and AI Agents for Leaders Specialization (Vanderbilt University) (Strategic Insights for Leaders on Agentic AI. Gain the knowledge to lead AI innovation in your organization by understanding Agentic AI and AI Agents.)
 
 9. Digital Product Management Specialization (Implement a modern approach to product management. Master the fundamentals that create great teams and products)
+10. Advanced Digital Transformation Specialization (IIM India, create advanced strategies and business models to leverage digital technologies.)
 
 
 **Advanced Roadmap**:
@@ -208,3 +209,5 @@ Generic Skillsets Involved:
 2. https://professional.dce.harvard.edu/programs/product-management-from-design-to-launch/#overview-of-product-management-online-course
 3. https://online.stanford.edu/programs/advanced-product-management-program
 4. https://executive.berkeley.edu/programs/product-management-studio-program
+5. https://www.coursera.org/specializations/advanced-digital-transformation-iima
+
