@@ -13,7 +13,7 @@
    
 3. Xbox Product Manager (Coursera)
 
-4. Product Ideation, Design, and Management Specialization (Learn to discover, design, and deliver products that customers love)(University of Maryland, College Park)
+4. Product Ideation, Design, and Management Specialization (Learn to discover, design, and deliver products)(University of Maryland, College Park)
    
       Developing Innovative Ideas for Product Leaders
       Course 1, 12 hours
