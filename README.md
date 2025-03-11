@@ -2,7 +2,7 @@
 
 **Essential Insights and Product Management Strategy, Execution & Impact for Real-World Applications**
 
-**Kicking things off...**:
+**Kicking things off...**
 1. Product Management (From Duke University)
 
       A. Machine Learning Foundations for Product Managers
@@ -16,19 +16,19 @@
 4. Product Ideation, Design, and Management Specialization (Learn to discover, design, and deliver products)(University of Maryland, College Park)
    
       Developing Innovative Ideas for Product Leaders
-      Course 1, 12 hours
+      Part 1, 12 hours
       
       Product Management Essentials
-      Course 2, 6 hours
+      Part 2, 6 hours
       
       Establishing Product-Market Fit
-      Course 3, 8 hours
+      Part 3, 8 hours
       
       Creative Design, Prototyping, and Testing
-      Course 4, 11 hours
+      Part 4, 11 hours
       
       Financial Management for Product Leaders
-      Course 5, 9 hours
+      Part 5 5, 9 hours
 
 6. Address real user needs, approach customer development, run MVP experiments (Becoming a Product Manager, Linkedin)
 
