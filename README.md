@@ -162,13 +162,13 @@ If it is a success, Heavy Auto Manufacturer, Inc. has a chance to lead the marke
 
 •	Phase 2: AI System Design And review Phase 
 
-•	Phase 3: Testing and Reviews Phase
+•	Phase 3: Testing on a controlled roads with no traffic, lab environments, and Reviews Phase
 
 •	Phase 4: Product Launch, New Product Introduction, Industry Distruption, 
 
-•	Phase 4: Product Maintenance (Trucks), 
+•	Phase 4: Product Trucks, Vehicle Maintenance, 
 
-•	Phase 5: End of Life (EOL)
+•	Phase 5: End of Life (EOL) - Retirement
 
 
 Conceptually, can this be considered a Blue Ocean Strategy?
