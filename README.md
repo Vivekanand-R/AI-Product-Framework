@@ -28,7 +28,7 @@
       Part 4, 11 hours
       
       Financial Management for Product Leaders
-      Part 5 5, 9 hours
+      Part 5 , 9 hours
 
 6. Address real user needs, approach customer development, run MVP experiments (Becoming a Product Manager, Linkedin)
 
@@ -46,16 +46,16 @@
 2. Innovation and entrepreneurship Specialization (Develop innovation projects. Develop innovation projects in your organization, Tecnológico de Monterrey)
 
       Entrepreneurial Mindset
-      Course 1, 27 hours
+      Part 1, 27 hours
       
       Organizational innovation and creativity
-      Course 2, 26 hours
+      Part 2, 26 hours
       
       Design and innovation of business model
-      Course 3, 27 hours
+      Part 3, 27 hours
       
       Corporate Entrepreneurship
-      Course 4, 27 hours
+      Part 4, 27 hours
 
 3. Product Management: From Design to Launch (Online, Harvard, Paid)
    
@@ -63,7 +63,7 @@
    
 -----------------------------------------
 
-**Key Takeaways from Course No.2: IBM Product Manager Professional**
+**Key Takeaways from IBM Product Manager Professional Coursework**
 
 **PM Major Focus & Few Workouts:**
 
