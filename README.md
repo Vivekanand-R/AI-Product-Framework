@@ -1,6 +1,6 @@
 # AI Product Management Roadmap:
 
-**Essential Insights from Product Management Courses and Real-World Applications**
+**Essential Insights and Product Management Strategy, Execution & Impact for Real-World Applications**
 
 **To get started**:
 1. Product Management (From Duke University)
