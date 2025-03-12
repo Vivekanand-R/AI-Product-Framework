@@ -167,10 +167,12 @@ If it is a success, Heavy Auto Manufacturer, Inc. has a chance to lead the marke
 
 •	Phase 4: Product Launch, New Product Introduction, Industry Distruption, 
 
-•	Phase 4: Product Trucks, Vehicle Maintenance, 
+•	Phase 5: Product Trucks, Vehicle Maintenance, 
 
-•	Phase 5: End of Life (EOL) - Retirement
+•	Phase 6: End of Life (EOL) - Retirement
 
+
+Other Generic Concepts:
 
 Conceptually, can this be considered a Blue Ocean Strategy?
 Yes, If the AI feature redefines trucking operations and safety in a way that competitors have not considered → It’s a Blue Ocean Strategy.
