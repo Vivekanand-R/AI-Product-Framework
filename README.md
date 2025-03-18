@@ -30,7 +30,7 @@
       Financial Management for Product Leaders
       Part 5 , 9 hours
 
-6. Address real user needs, approach customer development, run MVP experiments (Becoming a Product Manager, Linkedin)
+6. Address real user needs, approach customer development, run MVP experiments (Becoming a Product Manager)
 
 7. Product Ideation, Design, and Management Specialization (Product Management Essentials)
 
@@ -57,9 +57,9 @@
       Corporate Entrepreneurship
       Part 4, 27 hours
 
-3. Product Management: From Design to Launch (Online, Harvard, Paid)
+3. Product Management: From Design to Launch (Online, Harvard)
    
-4. Advanced-product-management-program (Online, Stanford, Paid)
+4. Advanced-product-management-program (Online, Stanford)
    
 -----------------------------------------
 
