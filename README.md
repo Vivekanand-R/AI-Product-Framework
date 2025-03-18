@@ -102,7 +102,7 @@
 
 Let’s consider a new ambitious vision that has become a strategic priority:
 
-**Objective:** Develop a **cutting-edge AI feature for semi-trucks** to enhance the capabilities of Heavy Auto Manufacturer, setting the company apart from competitors.
+**Objective:** Develop a advanced AI feature for semi-trucks to enhance the capabilities of Heavy Auto Manufacturer, setting the company apart from competitors.
 
 **Industry:** Heavy Auto Manufacturer
 
