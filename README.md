@@ -212,4 +212,5 @@ Generic Skillsets Involved:
 3. https://online.stanford.edu/programs/advanced-product-management-program
 4. https://executive.berkeley.edu/programs/product-management-studio-program
 5. https://www.coursera.org/specializations/advanced-digital-transformation-iima
+6. LLM's (For content review and refinement)
 
