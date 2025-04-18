@@ -179,16 +179,6 @@ Yes, If the AI feature redefines trucking operations and safety in a way that co
 
 Nope., If it’s just a better version of what already exists (e.g., slightly smarter autopilot, better fuel efficiency monitoring) → It’s still a Red Ocean move.
 
-
-Org Foundations, leadership styles and career advancements/movements:
-
-![image](https://github.com/user-attachments/assets/fcc90b01-aca1-4ad8-b245-7140ee0254fb)
-
-![image](https://github.com/user-attachments/assets/d8c582ac-c39e-4d78-894d-590774100f52)
-
-![image](https://github.com/user-attachments/assets/14c3fdff-6a03-42db-acba-97e7c7474c64)
-
-
 Generic Skillsets Involved:
 •	Collaboration
 •	Scoping and prioritization
@@ -213,6 +203,15 @@ Generic Skillsets Involved:
 •	Strategic Thinking
 •	Communication Skills
 •	Project Management Skills
+
+
+**Part 2- Self Study : Org Foundations, leadership styles and career movements:**
+
+![image](https://github.com/user-attachments/assets/fcc90b01-aca1-4ad8-b245-7140ee0254fb)
+
+![image](https://github.com/user-attachments/assets/d8c582ac-c39e-4d78-894d-590774100f52)
+
+![image](https://github.com/user-attachments/assets/14c3fdff-6a03-42db-acba-97e7c7474c64)
 
 
 **References**: 
