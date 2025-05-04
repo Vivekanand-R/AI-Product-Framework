@@ -209,8 +209,6 @@ Generic Skillsets Involved:
 
 ![image](https://github.com/user-attachments/assets/fcc90b01-aca1-4ad8-b245-7140ee0254fb)
 
-![image](https://github.com/user-attachments/assets/d8c582ac-c39e-4d78-894d-590774100f52)
-
 ![image](https://github.com/user-attachments/assets/14c3fdff-6a03-42db-acba-97e7c7474c64)
 
 
