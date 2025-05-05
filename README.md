@@ -211,6 +211,7 @@ Generic Skillsets Involved:
 
 ![image](https://github.com/user-attachments/assets/14c3fdff-6a03-42db-acba-97e7c7474c64)
 
+-----------------------------------------------------------
 
 **Pricing Strategies:**
 
@@ -235,6 +236,30 @@ GROW Framework: Gauge market needs, Research models, Optimize for growth, to win
 SMART Framework: Align Strategy, Monetization mode, Adjustments, Retention-focused upselling, Tracking metrics.
 
 PRO, EDGE, FIT, and TEST Frameworks: Each focuses on different aspects like customer-centricity, market agility, feature bundling, and experimentation
+
+-----------------------------------------------------------
+
+**Other Concepts:**
+
+**Monopoly: Core Concept**
+
+A monopoly is a market structure where a **single seller dominates** the entire market for a product or service with no close substitutes. Price maker, meaning it has substantial control over pricing, output, and market conditions—something that’s impossible in more competitive markets.
+
+1. Natural Monopoly: Utilities (e.g., Electricity, Water) -  Local electric utilities, Regulated.
+2. Legal Monopoly: Pharmaceuticals.
+   
+Example: Pfizer’s monopoly on Lipitor (cholesterol drug) before its patent expired. Why It’s a Monopoly: Patent laws grant exclusive rights to sell a drug for a period (usually 20 years).
+
+3. Platform Monopoly (Near-Monopoly): Google in Search.
+   
+   Example 1: Google controls over 90% of global search engine market share. Why It’s a Monopoly: Network effects (more users = better data = better product), high switching costs, and dominance in ads.
+   Example 2: Used OS dominance to restrict competition in browser market
+   
+4. Resource Monopoly: De Beers and Diamonds. De Beers once controlled 85–90% of the global rough diamond supply.
+
+**Real World Examples:**
+
+![image](https://github.com/user-attachments/assets/1b2f380f-11f7-455b-ac2d-2268cd43ae67)
 
 
 **References**: 
