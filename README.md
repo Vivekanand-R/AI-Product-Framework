@@ -262,6 +262,11 @@ Example: Pfizer’s monopoly on Lipitor (cholesterol drug) before its patent exp
 ![image](https://github.com/user-attachments/assets/1b2f380f-11f7-455b-ac2d-2268cd43ae67)
 
 
+**2025:**
+
+![image](https://github.com/user-attachments/assets/df93a88e-5e3b-4ebc-b3d8-7596bb4f443c)
+
+
 **References**: 
 1. https://www.coursera.org/
 2. https://professional.dce.harvard.edu/programs/product-management-from-design-to-launch/#overview-of-product-management-online-course
