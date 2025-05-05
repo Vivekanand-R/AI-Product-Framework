@@ -212,6 +212,31 @@ Generic Skillsets Involved:
 ![image](https://github.com/user-attachments/assets/14c3fdff-6a03-42db-acba-97e7c7474c64)
 
 
+**Pricing Strategies:**
+
+**Pricing Strategy Frameworks:**
+
+Common frameworks to optimize pricing-and thus improve margins-include:
+
+Cost-Plus Pricing: Adding a markup to the cost.
+
+Value-Based Pricing: Pricing based on perceived customer value.
+
+Competitor-Based Pricing: Setting prices relative to competitors.
+
+Customer Segmentation & Willingness to Pay: Tailoring prices to different customer groups.
+
+**Specialized Pricing Frameworks:**
+
+Recent business literature highlights structured frameworks such as:
+
+GROW Framework: Gauge market needs, Research models, Optimize for growth, to win more revenue.
+
+SMART Framework: Align Strategy, Monetization mode, Adjustments, Retention-focused upselling, Tracking metrics.
+
+PRO, EDGE, FIT, and TEST Frameworks: Each focuses on different aspects like customer-centricity, market agility, feature bundling, and experimentation
+
+
 **References**: 
 1. https://www.coursera.org/
 2. https://professional.dce.harvard.edu/programs/product-management-from-design-to-launch/#overview-of-product-management-online-course
