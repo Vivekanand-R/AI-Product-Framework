@@ -259,7 +259,7 @@ Example: Pfizer’s monopoly on Lipitor (cholesterol drug) before its patent exp
 
 **Real World Examples:**
 
-![image](https://github.com/user-attachments/assets/1b2f380f-11f7-455b-ac2d-2268cd43ae67)
+![image](https://github.com/user-attachments/assets/d5daa482-c2cb-4880-bd8d-747b5d2bea6e)
 
 
 **2025:**
