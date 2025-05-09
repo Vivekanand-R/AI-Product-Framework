@@ -176,6 +176,9 @@ If it is a success, Heavy Auto Manufacturer, Inc. has a chance to lead the marke
 
 ![image](https://github.com/user-attachments/assets/fcc90b01-aca1-4ad8-b245-7140ee0254fb)
 
+![image](https://github.com/user-attachments/assets/fefb954d-5127-4729-803b-ec1e59ef6a67)
+
+
 -----------------------------------------------------------
 
 **Pricing Strategies:**
