@@ -172,44 +172,9 @@ If it is a success, Heavy Auto Manufacturer, Inc. has a chance to lead the marke
 •	Phase 6: End of Life (EOL) - Retirement
 
 
-Other Generic Concepts:
-
-Conceptually, can this be considered a Blue Ocean Strategy?
-Yes, If the AI feature redefines trucking operations and safety in a way that competitors have not considered → It’s a Blue Ocean Strategy.
-
-Nope., If it’s just a better version of what already exists (e.g., slightly smarter autopilot, better fuel efficiency monitoring) → It’s still a Red Ocean move.
-
-Generic Skillsets Involved:
-•	Collaboration
-•	Scoping and prioritization
-•	Engineering
-•	Operations
-•	Market research
-•	Focus groups
-•	Marketing
-•	Reliability engineering
-•	Quality systems management
-•	Relationship building techniques
-•	Testing
-•	Change management
-•	Product lifecycle management
-•	Sales
-•	Advertising
-•	Artificial Intelligence and data analytics
-•	Assembly
-•	UX (User Experience) Design
-•	Business Acumen
-•	Analytical Skills
-•	Strategic Thinking
-•	Communication Skills
-•	Project Management Skills
-
-
 **Part 2- Self Study : Org Foundations, leadership styles and career movements:**
 
 ![image](https://github.com/user-attachments/assets/fcc90b01-aca1-4ad8-b245-7140ee0254fb)
-
-![image](https://github.com/user-attachments/assets/14c3fdff-6a03-42db-acba-97e7c7474c64)
 
 -----------------------------------------------------------
 
