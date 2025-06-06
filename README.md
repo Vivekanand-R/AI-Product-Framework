@@ -172,7 +172,7 @@ If it is a success, Heavy Auto Manufacturer, Inc. has a chance to lead the marke
 •	Phase 6: End of Life (EOL) - Retirement
 
 
-**Part 2- Self Study : Org Foundations, leadership styles and career path:**
+**Part 2- Org Foundations, leadership styles and career path:**
 
 ![image](https://github.com/user-attachments/assets/fcc90b01-aca1-4ad8-b245-7140ee0254fb)
 
