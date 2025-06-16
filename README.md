@@ -179,7 +179,7 @@ If it is a success, Heavy Auto Manufacturer, Inc. has a chance to lead the marke
 -----------------------------------------------------------
 
 
-**Product management concepts**
+**Area of Focus:**
 
 1. Product-Market Fit (PMF)
 
