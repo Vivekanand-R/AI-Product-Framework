@@ -298,7 +298,7 @@ A monopoly is a market structure where a **single seller dominates** the entire 
 1. Natural Monopoly: Utilities (e.g., Electricity, Water) -  Local electric utilities, Regulated.
 2. Legal Monopoly: Pharmaceuticals.
    
-Example: Pfizer’s monopoly on Lipitor (cholesterol drug) before its patent expired. Why It’s a Monopoly: Patent laws grant exclusive rights to sell a drug for a period (usually 20 years).
+Example: Pharma company on xyz product (cholesterol drug) before its patent expired. Why It’s a Monopoly: Patent laws grant exclusive rights to sell a drug for a period (usually 20 years).
 
 3. Platform Monopoly (Near-Monopoly): Google in Search.
    
