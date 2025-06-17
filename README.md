@@ -293,7 +293,7 @@ PRO, EDGE, FIT, and TEST Frameworks: Each focuses on different aspects like cust
 
 **Monopoly: Core Concept**
 
-A monopoly is a market structure where a **single seller dominates** the entire market for a product or service with no close substitutes. Price maker, meaning it has substantial control over pricing, output, and market conditions—something that’s impossible in more competitive markets.
+A monopoly is a market structure where a single seller dominates the entire market for a product or service with no close substitutes. Price maker, meaning it has substantial control over pricing, output, and market conditions—something that’s impossible in more competitive markets.
 
 1. Natural Monopoly: Utilities (e.g., Electricity, Water) -  Local electric utilities, Regulated.
 2. Legal Monopoly: Pharmaceuticals.
