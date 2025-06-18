@@ -183,7 +183,7 @@ If it is a success, Heavy Auto Manufacturer, Inc. has a chance to lead the marke
 
 1. Product-Market Fit (PMF)
 
-2. Minimum Viable Product (MVP)
+2. Minimum Viable Product (MVP) - Built to quickly test assumptions, validate market demand, and gather feedback with minimal resources.
 
 3. User-Centered Design / UX Thinking
 
@@ -191,7 +191,7 @@ If it is a success, Heavy Auto Manufacturer, Inc. has a chance to lead the marke
 
 5. Jobs to Be Done (JTBD)
 
-6. Agile Methodology (Scrum, Kanban)
+6. Agile Methodology (Scrum, Kanban) - Learn fast and iterate, Software developments, Scrum Methods, Kanban, Iterative development, and Respond to Change Quickly. 
 
 7. Lean Product Development
 
