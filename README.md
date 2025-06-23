@@ -191,7 +191,7 @@ If it is a success, Heavy Auto Manufacturer, Inc. has a chance to lead the marke
 
 5. Jobs to Be Done (JTBD)
 
-6. Agile Methodology (Scrum, Kanban) - Learn fast and iterate, Software developments, Scrum Methods, Kanban, Iterative development, accessible digital and SW Iterations.  Testing Agile Scalability for Product Owners or Digital Architects.
+6. Agile Methodology (Scrum, Kanban) - Learn fast and iterate, Software developments, Scrum Methods, Kanban, Iterative development, accessible digital and SW Iterations.  Testing Agile Scalability for Digital Product Managers.
 
 7. Lean Product Development
 
