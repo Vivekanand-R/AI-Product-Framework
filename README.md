@@ -235,7 +235,7 @@ If it is a success, Heavy Auto Manufacturer, Inc. has a chance to lead the marke
 
 **Develop a successful digital product - And Successful Validation:** 
 
-1. **“Success Theater”:** Presentations often exaggerate wins, masking product failures or market feedback. Cut through the theater, focusing on hard truths to drive meaningful improvement.
+1. **“Success Theater”:** Presentations often exaggerate wins, masking product failures or market feedback. Focusing on hard truths to drive meaningful improvement.
 
 2. **The Difference Between MVP** - MVPs test feasibility, but products only succeed when users likes them. Aim beyond bare functionality — design products that spark engagement.
 
