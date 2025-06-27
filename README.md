@@ -187,6 +187,9 @@ If it is a success, Heavy Auto Manufacturer, Inc. has a chance to lead the marke
 
 3. User-Centered Design / UX Thinking
 
+            A. Understand real user needs before building, B. Engage users early and often, C. Design simple, intuitive experiences, D. Use data and empathy together, E. Prototype quickly, learn continuously.
+            F. Prioritize , G. Collaborate, H. Iterate based on real user feedback.
+
 4. Customer Discovery & Validation
 
 5. Jobs to Be Done (JTBD)
@@ -195,13 +198,27 @@ If it is a success, Heavy Auto Manufacturer, Inc. has a chance to lead the marke
 
 7. Lean Product Development
 
-8. Product Roadmapping
+8, 9. Product Roadmapping
 
-9. Product Vision & Strategy
+10. Product Vision & Strategy
 
-10. Feature Prioritization Frameworks (RICE, MoSCoW, Kano)
+            A. Market Problem Definition – Articulate the core user needs.
+            
+            B. Long-Term Product Mission – Define the product’s aspirational, future-state goal.
+            
+            C. Unique Value Proposition – Establish how product stands apart competitively.
+            
+            D. Strategic Differentiators – Highlight key features or capabilities that create advantage.
+            
+            E. Alignment with Company Goals – Ensure product vision supports broader business objectives.
+            
+            F. Vision Communication Plan – Consistently share vision across teams and stakeholders.
+            
+            G. Vision-Driven Decision Making – Use the vision as a filter for prioritization and trade-offs.
 
-11. Go-to-Market (GTM) Strategy
+12. Feature Prioritization Frameworks (RICE, MoSCoW, Kano)
+
+13. Go-to-Market (GTM) Strategy
     
       A. Target Market Segmentation – Identify and prioritize customer segments based on need and fit.
       
@@ -213,23 +230,23 @@ If it is a success, Heavy Auto Manufacturer, Inc. has a chance to lead the marke
       
       E. Sales Enablement & Customer Onboarding – Provide tools, training, and onboarding flows to drive conversions and retention.
 
-13. A/B Testing & Experimentation
+14. A/B Testing & Experimentation
 
-14. Product Analytics & KPIs (AARRR, DAU/MAU, NPS)
+15. Product Analytics & KPIs (AARRR, DAU/MAU, NPS)
 
-15. User Feedback Loops
+16. User Feedback Loops
 
-16. Stakeholder Management
+17. Stakeholder Management
 
-17. Cross-functional Collaboration
+18. Cross-functional Collaboration
 
-18. Competitive Analysis
+19. Competitive Analysis
 
-19. Product Lifecycle Management
+20. Product Lifecycle Management
 
-20. OKRs (Objectives and Key Results) for Product Teams
+21. OKRs (Objectives and Key Results) for Product Teams
 
-21. Technical Understanding & Feasibility Assessment
+22. Technical Understanding & Feasibility Assessment
 
 ---------------------------------
 
