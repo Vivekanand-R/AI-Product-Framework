@@ -187,16 +187,17 @@ If it is a success, Heavy Auto Manufacturer, Inc. has a chance to lead the marke
 
 3. User-Centered Design / UX Thinking
 
-            A. Understand real user needs before building, B. Engage users early and often, C. Design simple, intuitive experiences, D. Use data and empathy together, E. Prototype quickly, learn continuously.
-            F. Prioritize , G. Collaborate, H. Iterate based on real user feedback.
+             A. Understand real user needs before building, B. Engage users early and often,
+             C. Design simple, intuitive experiences, D. Use data and empathy together, E. Prototype quickly, learn continuously.
+             F. Prioritize , G. Collaborate, H. Iterate based on real user feedback.
 
-4. Customer Discovery & Validation
+5. Customer Discovery & Validation
 
-5. Jobs to Be Done (JTBD)
+6. Jobs to Be Done (JTBD)
 
-6. Agile Methodology (Scrum, Kanban) - Learn fast and iterate, Software developments, Scrum Methods, Kanban, Iterative development, accessible digital and SW Iterations.  Testing Agile Scalability for Digital Product Manager.
+7. Agile Methodology (Scrum, Kanban) - Learn fast and iterate, Software developments, Scrum Methods, Kanban, Iterative development, accessible digital and SW Iterations.  Testing Agile Scalability for Digital Product Manager.
 
-7. Lean Product Development
+8. Lean Product Development
 
 8, 9. Product Roadmapping
 
