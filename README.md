@@ -259,7 +259,12 @@ Develop a successful digital product - Biases and Successful Validation:
 
 3. The Illusion of “Data-Driven” Decisions: Data rarely speaks clearly — it's messy, biased, and incomplete. Balance data with intuition, qualitative insights, and context, rather than hiding behind dashboards.
 
+Example: Nokia’s Market Research Before iPhone: Nokia relied on internal market data showing dominant handset sales and assumed no imminent disruption.
+Focus: The data reflected the past, not emerging consumer desires for smartphones with apps and touchscreens. Nokia missed to see the shift, clinging to misleading comfort in market share metrics while **Apple reshaped the landscape**.
+
 4. Shiny Object Syndrome”:  Team often get distracted by new trends (AI, Web3, etc.). Filter noise from real opportunities, guiding leadership back to strategic focus without dropping enthusiasm.
+
+Example: Meta’s Pivot to the Metaverse: While immersive environments are intriguing, Meta's heavy investment in VR/AR metaverse spaces diverted focus from core product improvements. Adoption lagged, early hardware reviews underwhelmed, and real user traction is still elusive. Meanwhile, **competitors captured attention elsewhere.**
 
 5. Product-Market Fit is a Moving Target - Continuously validate fit, not assuming it's locked in.
 
