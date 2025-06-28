@@ -323,23 +323,26 @@ C. Talent reshuffling, Big Pipeline or long term contracts, Stock Buyback or Val
 
 Common frameworks to optimize pricing-and thus improve margins-include:
 
-Cost-Plus Pricing: Adding a markup to the cost.
+      A. Cost-Plus Pricing: Adding a markup to the cost.
+      
+      B. Value-Based Pricing: Pricing based on perceived customer value.
+      
+      C. Competitor-Based Pricing: Setting prices relative to competitors.
+      
+      D. Customer Segmentation & Willingness to Pay: Tailoring prices to different customer groups.
 
-Value-Based Pricing: Pricing based on perceived customer value.
+![image](https://github.com/user-attachments/assets/677e3cf5-5f65-4cd9-8df2-8c896f570f2d)
 
-Competitor-Based Pricing: Setting prices relative to competitors.
-
-Customer Segmentation & Willingness to Pay: Tailoring prices to different customer groups.
 
 **Specialized Pricing Frameworks:**
 
 Recent business literature highlights structured frameworks such as:
 
-GROW Framework: Gauge market needs, Research models, Optimize for growth, to win more revenue.
-
-SMART Framework: Align Strategy, Monetization mode, Adjustments, Retention-focused upselling, Tracking metrics.
-
-PRO, EDGE, FIT, and TEST Frameworks: Each focuses on different aspects like customer-centricity, market agility, feature bundling, and experimentation
+      A. GROW Framework: Gauge market needs, Research models, Optimize for growth, to win more revenue.
+      
+      B. SMART Framework: Align Strategy, Monetization mode, Adjustments, Retention-focused upselling, Tracking metrics.
+      
+      C. PRO, EDGE, FIT, and TEST Frameworks: Each focuses on different aspects like customer-centricity, market agility, feature bundling, and experimentation
 
 -----------------------------------------------------------
 
