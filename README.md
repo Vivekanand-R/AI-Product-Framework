@@ -185,8 +185,6 @@ If it is a success, Heavy Auto Manufacturer, Inc. has a chance to lead the marke
 
 2. Minimum Viable Product (MVP) - Built to quickly test assumptions, validate market demand, and gather feedback with minimal resources.
 
-Best Example: Facebook (Harvard-only Launch) - Started as a basic student directory for Harvard — profiles, and connections. Result: Proved demand for online social networks in a controlled environment before expanding globally.
-
 3. User-Centered Design / UX Thinking
 
              A. Understand real user needs before building, B. Engage users early and often,
@@ -272,11 +270,11 @@ Develop a successful digital product - Biases and Successful Validation:
 3. The Illusion of “Data-Driven” Decisions: Data rarely speaks clearly — it's messy, biased, and incomplete. Balance data with intuition, qualitative insights, and context, rather than hiding behind dashboards.
 
 Example: Nokia’s Market Research Before iPhone: Nokia relied on internal market data showing dominant handset sales and assumed no imminent disruption.
-Focus: The data reflected the past, not emerging consumer desires for smartphones with apps and touchscreens. Nokia missed to see the shift, clinging to misleading comfort in market share metrics while **Apple reshaped the landscape**.
+Focus: The data reflected the past, not emerging consumer desires for smartphones with apps and touchscreens. Nokia missed to see the shift, clinging to misleading comfort in market share metrics while Apple reshaped the landscape.
 
 4. Shiny Object Syndrome”:  Team often get distracted by new trends (AI, Web3, etc.). Filter noise from real opportunities, guiding leadership back to strategic focus without dropping enthusiasm.
 
-Example: Meta’s Pivot to the Metaverse: While immersive environments are intriguing, Meta's heavy investment in VR/AR metaverse spaces diverted focus from core product improvements. Adoption lagged, early hardware reviews underwhelmed, and real user traction is still elusive. Meanwhile, **competitors captured attention elsewhere.**
+Example: Meta’s Pivot to the Metaverse: While immersive environments are intriguing, Meta's heavy investment in VR/AR metaverse spaces diverted focus from core product improvements. Adoption lagged, early hardware reviews underwhelmed, and real user traction is still elusive. Meanwhile, competitors captured attention elsewhere.
 
 5. Product-Market Fit is a Moving Target - Continuously validate fit, not assuming it's locked in.
 
