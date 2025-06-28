@@ -185,6 +185,8 @@ If it is a success, Heavy Auto Manufacturer, Inc. has a chance to lead the marke
 
 2. Minimum Viable Product (MVP) - Built to quickly test assumptions, validate market demand, and gather feedback with minimal resources.
 
+Best Example: Facebook (Harvard-only Launch) - Started as a basic student directory for Harvard — profiles, photos, and connections. Result: Proved demand for online social networks in a controlled environment before expanding globally.
+
 3. User-Centered Design / UX Thinking
 
              A. Understand real user needs before building, B. Engage users early and often,
@@ -192,7 +194,7 @@ If it is a success, Heavy Auto Manufacturer, Inc. has a chance to lead the marke
              E. Prototype quickly, learn continuously,
              F. Prioritize , G. Collaborate, H. Iterate based on real user feedback.
 
-   Industry Example: Duolingo — Addictive Learning Through UX (Best USer Centered Design): Language learning apps have existed forever, but most feel like homework. Duolingo flipped the model with relentless User-Centered Design, focusing on: Gamification that Actually Works and Inclusive, Accessible Design. Duolingo turned language learning **for over 80 million monthly active users**. Their design-led approach didn't just drive downloads; it fueled real habit formation and retention.
+   Best Example: Duolingo — Addictive Learning Through UX (Best USer Centered Design): Language learning apps have existed forever, but most feel like homework. Duolingo flipped the model with relentless User-Centered Design, focusing on: Gamification that Actually Works and Inclusive, Accessible Design. Duolingo turned language learning **for over 80 million monthly active users**. Their design-led approach didn't just drive downloads; it fueled real habit formation and retention.
 
 5. Customer Discovery & Validation
 
