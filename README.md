@@ -194,7 +194,7 @@ Best Example: Facebook (Harvard-only Launch) - Started as a basic student direct
              E. Prototype quickly, learn continuously,
              F. Prioritize , G. Collaborate, H. Iterate based on real user feedback.
 
-   Best Example: Duolingo — Addictive Learning Through UX (**Best USer Centered Design**): Language learning apps have existed forever, but most feel like homework. Duolingo flipped the model with relentless User-Centered Design, focusing on: Gamification that Actually Works and Inclusive, Accessible Design. Duolingo turned language learning for over 80 million monthly active users. Their design-led approach didn't just drive downloads; it fueled real habit formation and retention.
+   Best Example: Duolingo — Learning Through UX (**Best USer Centered Design**): Language learning apps have existed forever, but most feel like homework. Duolingo flipped the model with relentless User-Centered Design, focusing on: Gamification that Actually Works and Inclusive, Accessible Design. Duolingo turned language learning for over 80 million monthly active users. Their design-led approach didn't just drive downloads; it fueled real habit formation and retention.
 
 5. Customer Discovery & Validation
 
