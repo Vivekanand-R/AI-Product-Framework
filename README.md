@@ -198,7 +198,7 @@ If it is a success, Heavy Auto Manufacturer, Inc. has a chance to lead the marke
 
 6. Jobs to Be Done (JTBD)
 
-7. Agile Methodology (Scrum, Kanban) - Learn fast and iterate, Software developments, Scrum Methods, Kanban, Iterative development, accessible digital and SW Iterations.  Testing Agile Scalability which NEver heard of, UNblocking Works, WIsh agile works best for Digital Product Managers. Main Agile Concept of Discover, Define, Design and Deliver. CUrious Product Users and frameworks.
+7. Agile Methodology (Scrum, Kanban) - Learn fast and iterate, Software developments, Scrum Methods, Kanban, Iterative development, accessible digital and SW Iterations.  Testing Agile Scalability, WIsh agile works best for Digital Product Managers. Main Agile Concept of Discover, Define, Design and Deliver. CUrious Product Users and frameworks.
 
 Example: Agile/Lean approach, famously known as the Spotify Squad Framework. Spotify scaled globally while maintaining rapid feature releases — Discover Weekly, Wrapped, Podcasts, and social features emerged from this empowered, Agile-driven culture. They avoided typical “big company” slowdowns by keeping teams lean and user-focused.
 
