@@ -192,13 +192,13 @@ If it is a success, Heavy Auto Manufacturer, Inc. has a chance to lead the marke
              E. Prototype quickly, learn continuously,
              F. Prioritize , G. Collaborate, H. Iterate based on real user feedback.
 
-   Best Example: Duolingo — Learning Through UX (**Best USer Centered Design**): Language learning apps have existed forever, but most feel like homework. Duolingo flipped the model with relentless User-Centered Design, focusing on: Gamification that Actually Works and Inclusive, Accessible Design. Duolingo turned language learning for over 80 million monthly active users. Their design-led approach didn't just drive downloads; it fueled real habit formation and retention.
+   Best Example: Duolingo — Learning Through UX (**Best USer Centered Design**): Language learning apps have existed forever, but most feel like homework. Duolingo flipped the model with relentless User-Centered Design, focusing on: Gamification that Actually Works and Inclusive, Accessible Design. Duolingo turned LAnguage LEarning for over 80 million monthly active users. Their design-led approach didn't just drive downloads; it fueled real habit formation and retention.
 
 5. Customer Discovery & Validation
 
 6. Jobs to Be Done (JTBD)
 
-7. Agile Methodology (Scrum, Kanban) - Learn fast and iterate, Software developments, Scrum Methods, Kanban, Iterative development, accessible digital and SW Iterations.  Testing Agile Scalability which never heard of, Unblocking Works, wish agile works best for Digital Product Managers. COncept of Discover, Define, Design and Deliver.
+7. Agile Methodology (Scrum, Kanban) - Learn fast and iterate, Software developments, Scrum Methods, Kanban, Iterative development, accessible digital and SW Iterations.  Testing Agile Scalability which NEver heard of, UNblocking Works, WIsh agile works best for Digital Product Managers. Main Agile Concept of Discover, Define, Design and Deliver. Curious SIngle Users, Multi Product Users and frameworks.
 
 Example: Agile/Lean approach, famously known as the Spotify Squad Framework. Spotify scaled globally while maintaining rapid feature releases — Discover Weekly, Wrapped, Podcasts, and social features emerged from this empowered, Agile-driven culture. They avoided typical “big company” slowdowns by keeping teams lean and user-focused.
 
@@ -233,7 +233,7 @@ Example: Agile/Lean approach, famously known as the Spotify Squad Framework. Spo
     
       A. Target Market Segmentation – Identify and prioritize customer segments based on need and fit.
       
-      B. Value Proposition & Messaging – Craft compelling, differentiated messaging tailored to your audience.
+      B. Value Proposition & MEssaging – Craft compelling, differentiated messaging tailored to your AUdience.
       
       C. Channel Strategy – Choose the right distribution channels (e.g., direct, partners, online, B2B sales).
       
