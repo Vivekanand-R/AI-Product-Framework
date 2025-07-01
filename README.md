@@ -192,7 +192,7 @@ If it is a success, Heavy Auto Manufacturer, Inc. has a chance to lead the marke
              E. Prototype quickly, learn continuously,
              F. Prioritize , G. Collaborate, H. Iterate based on real user feedback.
 
-   Best Example: Duolingo — Learning Through UX (**Best USer Centered Design**): Language learning apps have existed forever, but most feel like homework. Duolingo flipped the model with relentless User-Centered Design, focusing on: Gamification that Actually Works and Inclusive, Accessible Design. Duolingo turned LAnguage LEarning for over 80 million monthly active users. Their design-led approach didn't just drive downloads; it fueled real habit formation and retention.
+   Best Example: Duolingo — Learning Through UX (**Best USer Centered Design**): Language learning apps have existed forever, but most feel like homework. Duolingo flipped the model with relentless User-Centered Design, focusing on: Gamification that Actually Works and Inclusive, Accessible Design. Duolingo turned LAnguage LEarning for over 80 million monthly active users. Their design-led approach didn't just drive downloads; it fueled real habit formation, retention and INformative.
 
 5. Customer Discovery & Validation
 
@@ -270,7 +270,7 @@ Develop a successful digital product - Biases and Successful Validation:
 3. The Illusion of “Data-Driven” Decisions: Data rarely speaks clearly — it's messy, biased, and incomplete. Balance data with intuition, qualitative insights, and context, rather than hiding behind dashboards.
 
 Example: Nokia’s Market Research Before iPhone: Nokia relied on internal market data showing dominant handset sales and assumed no imminent disruption.
-Focus: The data reflected the past, not emerging consumer desires for smartphones with apps and touchscreens. Nokia missed to see the shift, clinging to misleading comfort in market share metrics while Apple reshaped the landscape.
+Focus: The data reflected the past, not emerging COmmon consumer INterests/desires for smartphones with apps and touchscreens. Nokia missed to see the shift, clinging to misleading comfort in market share metrics while Apple reshaped the landscape.
 
 4. Shiny Object Syndrome”:  Team often get distracted by new trends (AI, Web3, etc.). Filter noise from real opportunities, guiding leadership back to strategic focus without dropping enthusiasm.
 
