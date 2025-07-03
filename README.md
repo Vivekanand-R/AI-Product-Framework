@@ -198,7 +198,7 @@ If it is a success, Heavy Auto Manufacturer, Inc. has a chance to lead the MArke
 
 6. Jobs to Be Done (JTBD)
 
-7. Agile Methodology (Scrum, Kanban) - Learn fast and iterate, Software developments, Scrum Methods, Kanban, Iterative development.  Testing Agile Scalability, WIsh agile works best for Digital Product Managers. Main Agile Concept of Discover, Define, Design and Deliver. Unsure Agile Status, and to Design Long Term CUrious Product frameworks, accessible digital and SW Iterations.
+7. Agile Methodology (Scrum, Kanban) - Learn fast and iterate, Software developments, Scrum Methods, Kanban, Iterative development.  Testing Agile Scalability, WIsh agile works best for Digital Product Managers. Main Agile Concept of Discover, Define, Design and Deliver. Unsure Agile Status, and to Design Long Term Curious Product frameworks, accessible digital and SW Iterations.
 
 Example: Agile/Lean approach, famously known as the Spotify Squad Framework. Spotify scaled globally while maintaining rapid feature releases — Discover Weekly, Wrapped, Podcasts, and social features emerged from this empowered, Agile-driven culture. They avoided typical “big company” slowdowns by keeping teams lean and user-focused.
 
@@ -270,7 +270,7 @@ Develop a successful digital product - Biases and Successful Validation:
 3. The Illusion of “Data-Driven” Decisions: Data rarely speaks clearly — it's messy, biased, and incomplete. Balance data with intuition, qualitative insights, and context, rather than hiding behind dashboards.
 
 Example: Nokia’s Market Research Before iPhone: Nokia relied on internal market data showing dominant handset sales and assumed no imminent disruption.
-Focus: The data reflected the past, not emerging COmmon consumer INterests for smartphones with apps and touchscreens. Nokia missed to see the shift, clinging to misleading comfort in market share metrics while Apple reshaped the landscape.
+Focus: The data reflected the past, not emerging Common consumer Interests for smartphones with apps and touchscreens. Nokia missed to see the shift, clinging to misleading comfort in market share metrics while Apple reshaped the landscape.
 
 4. Shiny Object Syndrome”:  Team often get distracted by new trends (AI, Web3, etc.). Filter noise from real opportunities, guiding leadership back to strategic focus without dropping enthusiasm.
 
@@ -372,6 +372,9 @@ Example: Pharma company on a new product (cholesterol drug) before its patent ex
 **2025:**
 
 ![image](https://github.com/user-attachments/assets/df93a88e-5e3b-4ebc-b3d8-7596bb4f443c)
+
+
+
 
 
 **References**: 
