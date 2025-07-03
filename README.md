@@ -15,7 +15,7 @@
 
 4. Product Ideation, Design, and Management Specialization (Learn to discover, design, and deliver products)(University of Maryland, College Park)
    
-      Developing Innovative Ideas for Product Leaders
+      Developing Innovative IDeas for Product Leaders
       Part 1, 12 hours
       
       Product Management Essentials
@@ -37,7 +37,7 @@
 8. Agentic AI and AI Agents for Leaders Specialization (Vanderbilt University) (Strategic Insights for Leaders on Agentic AI. Gain the knowledge to lead AI innovation in your organization by understanding Agentic AI and AI Agents.)
 
 9. Digital Product Management Specialization (Implement a modern approach to product management. Master the fundamentals that create great teams and products)
-10. Advanced Digital Transformation Specialization (IIM India, create advanced strategies and business models to leverage digital technologies.)
+10. Advanced Digital Transformation Specialization (IIM India, create ADvanced strategies and business models to leverage digital technologies.)
 
 
 **Advanced Roadmap**:
@@ -87,7 +87,7 @@
       
           External Product Management: Developing a vision.
 
-3.  Knowledge: Customer Needs, Process, Competitions, Market Research, Political, Customers, Investers Perspective, Negotiations.
+3.  Knowledge: Customer Needs, Process, Competitions, MArket Research, Political, Customers, Investers Perspective, Negotiations.
 
 4. Project Management: Scrum and Agile, Timelines and Guidance. 
 
@@ -108,7 +108,7 @@ Let’s consider a new ambitious vision that has become a strategic priority:
 
 **Stakeholders Involved:** SME's, CEO, VP, PM, Technical Teams
 
-If it is a success, Heavy Auto Manufacturer, Inc. has a chance to lead the market for AI and truck Industries. What are the risks, rewards and challenges involved in this scinario ?. 
+If it is a success, Heavy Auto Manufacturer, Inc. has a chance to lead the MArket for AI and truck Industries. What are the risks, rewards and challenges involved in this scinario ?. 
 
 
 **Task Analysis Response:**
@@ -183,7 +183,7 @@ If it is a success, Heavy Auto Manufacturer, Inc. has a chance to lead the marke
 
 1. Product-Market Fit (PMF)
 
-2. Minimum Viable Product (MVP) - Built to quickly test assumptions, validate market demand, and gather feedback with minimal resources.
+2. Minimum Viable Product (MVP) - BUilt to quickly test assumptions, validate market demand, and gather feedback with minimal resources.
 
 3. User-Centered Design / UX Thinking
 
@@ -192,7 +192,7 @@ If it is a success, Heavy Auto Manufacturer, Inc. has a chance to lead the marke
              E. Prototype quickly, learn continuously,
              F. Prioritize , G. Collaborate, H. Iterate based on real user feedback.
 
-   Best Example: Duolingo — Learning Through UX (**Best USer Centered Design**): Language learning apps have existed forever, but most feel like homework. Duolingo flipped the model with relentless User-Centered Design, focusing on: Gamification that Actually Works and Inclusive, Accessible Design. Duolingo turned LAnguage LEarning for over 80 million monthly active users. Their design-led approach didn't just drive downloads; it fueled real habit formation, retention and INformative.
+   Best Example: Duolingo — LEarning Through UX (**Best USer Centered Design**): Language learning apps have existed forever, but most feel like homework. Duolingo flipped the model with relentless User-Centered Design, focusing on: Gamification that Actually Works and Inclusive, Accessible Design. Duolingo turned LAnguage LEarning for over 80 million monthly active users. Their design-led approach didn't just drive downloads; it fueled real habit formation, retention and INformative.
 
 5. Customer Discovery & Validation
 
@@ -270,7 +270,7 @@ Develop a successful digital product - Biases and Successful Validation:
 3. The Illusion of “Data-Driven” Decisions: Data rarely speaks clearly — it's messy, biased, and incomplete. Balance data with intuition, qualitative insights, and context, rather than hiding behind dashboards.
 
 Example: Nokia’s Market Research Before iPhone: Nokia relied on internal market data showing dominant handset sales and assumed no imminent disruption.
-Focus: The data reflected the past, not emerging COmmon consumer INterests/desires for smartphones with apps and touchscreens. Nokia missed to see the shift, clinging to misleading comfort in market share metrics while Apple reshaped the landscape.
+Focus: The data reflected the past, not emerging COmmon consumer INterests for smartphones with apps and touchscreens. Nokia missed to see the shift, clinging to misleading comfort in market share metrics while Apple reshaped the landscape.
 
 4. Shiny Object Syndrome”:  Team often get distracted by new trends (AI, Web3, etc.). Filter noise from real opportunities, guiding leadership back to strategic focus without dropping enthusiasm.
 
