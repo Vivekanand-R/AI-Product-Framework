@@ -196,6 +196,8 @@ If it is a success, Heavy Auto Manufacturer, Inc. has a chance to lead the MArke
 
 **AI / Data Products:**	Deep technical complexity (ML models, data pipelines), ambiguous product-market fit, heavy iteration cycles tied to data quality and availability. Explainability and ethical considerations often arise.
 
+**Global Data Privacy Acts:** GDPR (EU), UK Data Protection Act 2018, PDPB (Digital Personal Data Protection Act 2023 - India), PIPL, CCPA, CPRA, LGPD, PIPEDA, PDPA (Singapore), PDPA (Thailand), Australian Privacy Act 1988, New Zealand Privacy Act 2020, FERPA, HIPAA
+
 -----------------------------------------------------------
 
 **Area of Focus:**
