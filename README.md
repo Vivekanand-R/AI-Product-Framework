@@ -188,7 +188,7 @@ For Example: JPMorgan Chase moves a staggering amount of money every single day:
       
       B. “Processing 6,000 payments a second,” totaling about $10 trillion daily. 
 
-JPMorgan is the powerhouse behind one of the world’s largest daily payment flows—surpassing $10 trillion in transactions every day. 
+JPMorgan is the powerhouse behind one of the world’s largest daily payment flows—surpassing $10 trillion in transactions every day. Banking must possess strong domain expertise, ensure seamless coordination across stakeholders, and maintain unwavering focus on regulatory compliance are important to managing risk and driving successful product outcomes.
 
 **Tech/SaaS/Software:** Heavy on feature definition, agile iterations, UX optimization, engineering collaboration. **Technical understanding** is a must.
 
