@@ -186,9 +186,9 @@ For Example: JPMorgan Chase moves a staggering amount of money every single day:
 
       A. Over $10 trillion in payments and transfers globally across more than 120 currencies and 160+ countries. 
       
-      B. Jamie Dimon confirmed: “We’re processing 6,000 payments a second,” totaling about $10 trillion daily. 
+      B. “Processing 6,000 payments a second,” totaling about $10 trillion daily. 
 
-In summary, JPMorgan is the powerhouse behind one of the world’s largest daily payment flows—surpassing $10 trillion in transactions every day. 
+JPMorgan is the powerhouse behind one of the world’s largest daily payment flows—surpassing $10 trillion in transactions every day. 
 
 **Tech/SaaS/Software:** Heavy on feature definition, agile iterations, UX optimization, engineering collaboration. **Technical understanding** is a must.
 
