@@ -196,6 +196,18 @@ If it is a success, Heavy Auto Manufacturer, Inc. has a chance to lead the MArke
 
 **AI / Data Products:**	Deep technical complexity (ML models, data pipelines), ambiguous product-market fit, heavy iteration cycles tied to data quality and availability. Explainability and ethical considerations often arise.
 
+**Importance of Global Data Privacy:**
+
+A. Data privacy laws (GDPR, CCPA, DPDP) to ensure product compliance.
+
+B. Privacy-by-Design is essential, influencing data collection, consent, and user control features.
+
+C. Non-compliance damages brand reputation and restricts market access.
+
+D. Clear privacy practices build user trust and can be a competitive edge.
+
+E. Key role in cross-functional teams handling legal, technical, and marketing aspects of privacy.
+
 **Global Data Privacy Acts:** GDPR (EU), UK Data Protection Act 2018, PDPB (Digital Personal Data Protection Act 2023 - India), PIPL, CCPA, CPRA, LGPD, PIPEDA, PDPA (Singapore), PDPA (Thailand), Australian Privacy Act 1988, New Zealand Privacy Act 2020, FERPA, HIPAA
 
 -----------------------------------------------------------
@@ -393,9 +405,6 @@ Example: Pharma company on a new product (cholesterol drug) before its patent ex
 **2025:**
 
 ![image](https://github.com/user-attachments/assets/df93a88e-5e3b-4ebc-b3d8-7596bb4f443c)
-
-
-
 
 
 **References**: 
