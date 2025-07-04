@@ -214,7 +214,7 @@ C. Non-compliance damages brand reputation and restricts market access.
 
 D. Clear privacy practices build user trust and can be a competitive edge.
 
-E. Key role in cross-functional teams handling legal, technical, and marketing aspects of privacy.
+E. Key role in cross-functional teams handling technical, and marketing aspects of privacy.
 
 **Global Data Privacy Acts:** GDPR (EU), UK Data Protection Act 2018, PDPB (Digital Personal Data Protection Act 2023 - India), PIPL, CCPA, CPRA, LGPD, PIPEDA, PDPA (Singapore), PDPA (Thailand), Australian Privacy Act 1988, New Zealand Privacy Act 2020, FERPA, HIPAA
 
