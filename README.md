@@ -304,11 +304,11 @@ Example: Agile/Lean approach, famously known as the Spotify Squad Framework. Spo
 
 Develop a successful digital product - Biases and Successful Validation:
 
-1. Success Theater: Presentations often exaggerate wins, masking product failures or market feedback. Focusing on hard truths to drive meaningful improvement.
+1. Success Theater: Presentations often exaggerate wins, sometimes masking product failures or market feedback. Focusing on hard truths to drive meaningful improvement.
 
 2. The Difference Between MVP - MVPs test feasibility, but products only succeed when users likes them. Aim beyond bare functionality — design products that spark engagement.
 
-3. The Illusion of “Data-Driven” Decisions: Data rarely speaks clearly — it's messy, biased, and incomplete. Balance data with intuition, qualitative insights, and context, rather than hiding behind dashboards.
+3. The Illusion of “Data-Driven” Decisions: Data rarely speaks clearly — sometimes it could be biased, and maybe incomplete. Balance data with intuition, qualitative insights, and context, rather than hiding behind dashboards.
 
 Example: Nokia’s Market Research Before iPhone: Nokia relied on internal market data showing dominant handset sales and assumed no imminent disruption.
 Focus: The data reflected the past, not emerging Common consumer Interests for smartphones with apps and touchscreens. Nokia missed to see the shift, clinging to misleading comfort in market share metrics while Apple reshaped the landscape.
