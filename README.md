@@ -2,7 +2,7 @@
 
 **Essential Insights and Product Management Strategy, Execution & Impact for Real-World Applications**
 
-**intermediate Roadmap**
+**Intermediate Roadmap**
 1. Product Management (From Duke University)
 
       A. Machine Learning Foundations for Product Managers
