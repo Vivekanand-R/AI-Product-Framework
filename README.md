@@ -304,7 +304,7 @@ Example: Agile/Lean approach, famously known as the Spotify Squad Framework. Spo
 
 Develop a successful digital product - Biases and Successful Validation:
 
-1. Success Theater: Presentations often exaggerate wins, sometimes masking product failures or market feedback. Focusing on hard truths to drive meaningful improvement.
+1. Presentations often exaggerate wins, sometimes lack of analysis on product failures or market feedback. Focusing on hard truths to drive meaningful improvement.
 
 2. The Difference Between MVP - MVPs test feasibility, but products only succeed when users likes them. Aim beyond bare functionality — design products that spark engagement.
 
