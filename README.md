@@ -210,7 +210,7 @@ JPMorgan is one of the world’s largest daily payment flows—surpassing $10 
 
 1. Product-Market Fit (PMF)
 
-2. Minimum Viable Product (MVP) - BUilt to quickly test assumptions, validate market demand, and gather feedback with minimal resources.
+2. Minimum Viable Product (MVP) - BUilt to quickly test assumptions, validate market demand, and gather feedback with minimal resources. Basic, functional version of a product that allows teams to test critical hypotheses with real users — without overcommitting resources upfront.
 
 3. User-Centered Design / UX Thinking
 
@@ -225,7 +225,7 @@ JPMorgan is one of the world’s largest daily payment flows—surpassing $10 
 
 6. Jobs to Be Done (JTBD)
 
-7. Agile Methodology (Scrum, Kanban) - Learn fast and iterate, Software developments, Scrum Methods, Kanban, Iterative development.  Testing Agile Scalability, WIsh agile works best for Digital Product Managers. Main Agile Concept of Discover, Define, Design and Deliver. Unsure Agile Status, and to Design Long Term Curious Product frameworks, accessible digital and SW Iterations.
+7. Agile Methodology (Scrum, Kanban) - Learn fast and iterate, Software developments, Scrum Methods, Kanban, Iterative development.  Testing Agile Scalability, WIsh agile works best for Digital Product Managers. Main Agile Concept of Discover, Define, Design and Deliver. Unsure Agile Status, and to Design Long Term Curious Product frameworks, accessible digital and SW Iterations. Agile isn’t always about smooth workflows — sometimes, a process gets blocked, that’s part of SW iterations, a quick unblock to resume the flow. Scrum for structured sprints or Kanban for visual workflow clarity, the core principle stays the same—learn fast, iterate faster, and never stop refining what matters stories the most.
 
 Example: Agile/Lean approach, famously known as the Spotify Squad Framework. Spotify scaled globally while maintaining rapid feature releases — Discover Weekly, Wrapped, Podcasts, and social features emerged from this empowered, Agile-driven culture. They avoided typical “big company” slowdowns by keeping teams lean and user-focused.
 
@@ -236,7 +236,7 @@ Example: Agile/Lean approach, famously known as the Spotify Squad Framework. Spo
 
 7. Lean Product Development
 
-8, 9. Product Roadmapping
+8, 9. Product Roadmapping - Process that links a product’s vision and goals to a clear plan of execution over time.
 
 10. Product Vision & Strategy
 
