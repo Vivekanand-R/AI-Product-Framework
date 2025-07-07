@@ -204,20 +204,6 @@ JPMorgan is one of the world’s largest daily payment flows—surpassing $10 
 
 **AI / Data Products:**	Deep technical complexity (ML models, data pipelines), ambiguous product-market fit, heavy iteration cycles tied to data quality and availability. Explainability and ethical considerations often arise.
 
-**Importance of Global Data Privacy:**
-
-A. Data privacy laws (GDPR, CCPA, DPDP) to ensure product compliance.
-
-B. Privacy-by-Design is essential, influencing data collection, consent, and user control features.
-
-C. Non-compliance damages brand reputation and restricts market access.
-
-D. Clear privacy practices build user trust and can be a competitive edge.
-
-E. Key role in cross-functional teams handling technical, and marketing aspects of privacy.
-
-**Global Data Privacy Acts:** GDPR (EU), UK Data Protection Act 2018, PDPB (Digital Personal Data Protection Act 2023 - India), PIPL, CCPA, CPRA, LGPD, PIPEDA, PDPA (Singapore), PDPA (Thailand), Australian Privacy Act 1988, New Zealand Privacy Act 2020, FERPA, HIPAA
-
 -----------------------------------------------------------
 
 **Area of Focus:**
@@ -384,6 +370,22 @@ Recent business literature highlights structured frameworks such as:
       B. SMART Framework: Align Strategy, Monetization mode, Adjustments, Retention-focused upselling, Tracking metrics.
       
       C. PRO, EDGE, FIT, and TEST Frameworks: Each focuses on different aspects like customer-centricity, market agility, feature bundling, and experimentation
+
+-----------------------------------------------------------
+
+**Global Data Privacy:**
+
+A. Data privacy laws (GDPR, CCPA, DPDP) to ensure product compliance.
+
+B. Privacy-by-Design is essential, influencing data collection, consent, and user control features.
+
+C. Non-compliance damages brand reputation and restricts market access.
+
+D. Clear privacy practices build user trust and can be a competitive edge.
+
+E. Key role in cross-functional teams handling technical, and marketing aspects of privacy.
+
+**Global Data Privacy Acts:** GDPR (EU), UK Data Protection Act 2018, PDPB (Digital Personal Data Protection Act 2023 - India), PIPL, CCPA, CPRA, LGPD, PIPEDA, PDPA (Singapore), PDPA (Thailand), Australian Privacy Act 1988, New Zealand Privacy Act 2020, FERPA, HIPAA.
 
 -----------------------------------------------------------
 
