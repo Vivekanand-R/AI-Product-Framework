@@ -180,11 +180,11 @@ If it is a success, Heavy Auto Manufacturer, Inc. has a chance to lead the MArke
 
 **Product Management Major Scope by Industry:**
 
-**Banking:** Highly regulated environment (central banks, AML/KYC, data privacy laws). PMs often **manage legacy systems, core banking products** (accounts, loans, payments), and modernization projects. Change cycles are slow, risk aversion is high, and oversight is constant.
+**Banking:** Highly regulated environment (central banks, KYC, data privacy laws). PMs often **manage legacy systems, core banking products** (accounts, loans, payments), and modernization projects. Change cycles are slow, risk aversion is high, and oversight is constant.
 
-For Example: JPMorgan Chase moves a staggering amount of money every single day:
+For Example: JPMorgan Chase moves a staggering amount every single day:
 
-      A. Over $10 trillion in payments and transfers globally across more than 120 currencies and 160+ countries. 
+      A. Over trillion in payments and transfers globally across more than 120 currencies and 160+ countries. 
       
       B. “Processing 6,000 payments a second,” totaling about $10 trillion daily. 
 
