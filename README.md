@@ -323,7 +323,7 @@ Example: Meta’s Pivot to the Metaverse: While immersive environments are intri
 
 7. The Hidden Cost of Technical Debt: Tech debt silently slows down future development, increases bugs, and destroys velocity.
 
-8. The Build-First Bias: Shipping features does not equal delivering value. Organizations confuse output with outcomes, falling into the "build bias" — where teams keep building without validating impact.****
+8. The Build-First Bias: Shipping features does not equal delivering value. Organizations confuse output with outcomes, falling into the "build bias" — where teams keep building without validating impact.
 
 ---------------------------
 
