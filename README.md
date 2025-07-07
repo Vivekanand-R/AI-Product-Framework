@@ -268,7 +268,7 @@ Example: Agile/Lean approach, famously known as the Spotify Squad Framework. Spo
       
       E. Sales Enablement & Customer Onboarding – Provide tools, training, and onboarding flows to drive conversions and retention.
 
-14. A/B Testing & Experimentation
+14. A/B Testing & Experimentation - A/B Testing is a cornerstone of modern product development — a structured way to compare two variations (A and B) to see which performs better based on real user data. Instead of relying on assumptions, teams run controlled experiments to test different features, designs, or messaging, gathering insights before scaling.
 
 15. Product Analytics & KPIs (AARRR, DAU/MAU, NPS)
 
