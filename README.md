@@ -210,11 +210,11 @@ JPMorgan is one of the world’s largest daily payment flows—surpassing $10 
 
 1. Product-Market Fit (PMF)
 
-2. Minimum Viable Product (MVP) - BUilt to quickly test assumptions, validate market demand, and gather feedback with minimal resources. Basic, functional version of a product that allows teams to test critical hypotheses with real users — without overcommitting resources upfront.
+2. Minimum Viable Product (MVP) - The primary goal of an MVP is risk reduction. BUilt to quickly test assumptions, validate market demand, and gather feedback with minimal resources. Basic, functional version of a product that allows teams to test critical hypotheses with real users — without overcommitting resources upfront. In short, an MVP helps us to learn fast, fail cheap, and iterate smarter. 
 
 3. User-Centered Design / UX Thinking
 
-             A. Understand real user needs before building, B. Engage users early and often,
+             A. Understand real user needs before building, B. Engage users early and often: Before writing a single line of code, invest in understanding what problems users are actually trying to solve.
              C. Design simple, intuitive experiences, D. Use data and empathy together,
              E. Prototype quickly, learn continuously,
              F. Prioritize , G. Collaborate, H. Iterate based on real user feedback.
@@ -225,7 +225,7 @@ JPMorgan is one of the world’s largest daily payment flows—surpassing $10 
 
 6. Jobs to Be Done (JTBD)
 
-7. Agile Methodology (Scrum, Kanban) - Learn fast and iterate, Software developments, Scrum Methods, Kanban, Iterative development.  Testing Agile Scalability, WIsh agile works best for Digital Product Managers. Main Agile Concept of Discover, Define, Design and Deliver. Unsure Agile Status, and to Design Long Term Curious Product frameworks, accessible digital and SW Iterations. Agile isn’t always about smooth workflows — sometimes, a process gets blocked, that’s part of SW iterations, a quick unblock to resume the flow. Scrum for structured sprints or Kanban for visual workflow clarity, the core principle stays the same—learn fast, iterate faster, and never stop refining what matters stories the most.
+7. Agile Methodology (Scrum, Kanban) - Learn fast and iterate, Software developments, Scrum Methods, Kanban, Iterative development.  Testing Agile Scalability, WIsh agile works best for Digital Product Managers. Main Agile Concept of Discover, Define, Design and Deliver. Unsure Agile Status, and to Design Long Term Curious Product frameworks, accessible digital and SW Iterations. Agile isn’t always about smooth workflows — sometimes, a process gets blocked, that’s part of SW iterations, a quick unblock to resume the flow. In top, Whether it’s a well-seated enterprise with a relaxing results or a startup finding its footing, Agile serves as a dependable back framework — one that should always be part of hand toolkit. Scrum for structured sprints or Kanban for visual workflow clarity, the core principle stays the same—learn fast, iterate faster, and never stop refining what matters stories the most.
 
 Example: Agile/Lean approach, famously known as the Spotify Squad Framework. Spotify scaled globally while maintaining rapid feature releases — Discover Weekly, Wrapped, Podcasts, and social features emerged from this empowered, Agile-driven culture. They avoided typical “big company” slowdowns by keeping teams lean and user-focused.
 
@@ -268,7 +268,7 @@ Example: Agile/Lean approach, famously known as the Spotify Squad Framework. Spo
       
       E. Sales Enablement & Customer Onboarding – Provide tools, training, and onboarding flows to drive conversions and retention.
 
-14. A/B Testing & Experimentation - A/B Testing is a cornerstone of modern product development — a structured way to compare two variations (A and B) to see which performs better based on real user data. Instead of relying on assumptions, teams run controlled experiments to test different features, designs, or messaging, gathering insights before scaling.
+14. A/B Testing & Experimentation - A/B Testing is a cornerstone of modern product development — a structured way to compare two variations (A and B) to see which performs better based on real user data. Instead of relying on assumptions, teams run controlled experiments to test different features, designs, or messaging, gathering insights before scaling. Typically labeled “A” (the control) and “B” (the variant).
 
 15. Product Analytics & KPIs (AARRR, DAU/MAU, NPS)
 
