@@ -282,8 +282,7 @@ Example: Agile/Lean approach, famously known as the Spotify Squad Framework. Spo
 
 20. Product Lifecycle Management
 
-21. OKRs (Objectives and Key Results) for Product Teams:
-1. Objectives define what you want to achieve — ambitious, qualitative, and outcome-focused. 2. At least, Key Results specify how to measure success — quantifiable, time-bound, and trackable.
+21. OKRs (Objectives and Key Results) for Product Teams: 1. Objectives define what to achieve — ambitious, qualitative, and outcome-focused. 2. At least, Key Results specify how to measure success — quantifiable, time-bound, and trackable.
 
 
 22. Technical Understanding & Feasibility Assessment
