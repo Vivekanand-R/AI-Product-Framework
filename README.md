@@ -277,6 +277,11 @@ Lesson: Lean isn't just startup speak — it's embedded in **Japan’s industria
 
 12. Feature Prioritization Frameworks (RICE, MoSCoW, Kano)
 
+Workouts:
+
+<img width="1103" height="601" alt="image" src="https://github.com/user-attachments/assets/2e0f8859-101d-4876-91fa-0d1b5f4ea800" />
+
+
 13. Go-to-Market (GTM) Strategy
           
             A. Target Market Segmentation – Identify and prioritize customer segments based on need and fit.      
