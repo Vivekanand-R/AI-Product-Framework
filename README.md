@@ -231,24 +231,7 @@ Pricing transparency mattered more than fancy dashboards. Retail traders wanted 
 
 Their user discovery led to products built with simplicity, speed, and low cost — unlike bloated banking apps. They now have 12M+ users and are profitable with almost no advertising spend.
 
-6. Jobs to Be Done (JTBD): 
-Beyond Germany's well-known strengths in engineering and traditional beverages like beer...:
-
-Example (Germany): Erdinger / Paulaner / Bitburger – “Enjoy High-Quality, Traditional Beer as a Social Ritual”
-
-“I want to enjoy a high-quality beer that connects me to tradition, culture, and people — not just get a drink.” In Germany, beer isn’t just a beverage. It solves multiple layered jobs:
-
-Use Cases: Functional, Emotional & Social:
-
-A. Functional: “Want a reliably brewed, high-quality beer that tastes great and doesn’t feel industrial.”
-
-B. Functional: This gives drinkers confidence in ingredient integrity, taste, and craftsmanship.
-
-C. Emotional: “To feel a sense of heritage, celebration, and identity — even in everyday moments. Oktoberfest beers like Spaten or Hofbräu are globally marketed as authentic experiences, not just alcohol products."
-
-E. Social: The JTBD for German beer brands is often about trust, pride, and presence — the beer is the medium, the real job is the connection.
-
-8. Agile Methodology (Scrum, Kanban) - Learn fast and iterate, Software developments, Scrum Methods, Kanban, Iterative development.  Testing Agile Scalability, WIsh agile works best for Digital Product Managers. Main Agile Concept of Discover, Define, Design and Deliver. Unsure Agile Status, and to Design Long Term Curious Product frameworks, accessible digital and SW Iterations. Agile isn’t always about smooth workflows — sometimes, a process gets blocked, that’s part of SW iterations, a quick unblock to resume the flow. In top, Whether it’s a well-seated enterprise with a relaxing results or a startup finding its footing, Agile serves as a dependable back framework — one that should always be part of hand toolkit. Scrum for structured sprints or Kanban for visual workflow clarity, the core principle stays the same—learn fast, iterate faster, and never stop refining what matters stories the most.
+6. Agile Methodology (Scrum, Kanban) - Learn fast and iterate, Software developments, Scrum Methods, Kanban, Iterative development.  Testing Agile Scalability, WIsh agile works best for Digital Product Managers. Main Agile Concept of Discover, Define, Design and Deliver. Unsure Agile Status, and to Design Long Term Curious Product frameworks, accessible digital and SW Iterations. Agile isn’t always about smooth workflows — sometimes, a process gets blocked, that’s part of SW iterations, a quick unblock to resume the flow. In top, Whether it’s a well-seated enterprise with a relaxing results or a startup finding its footing, Agile serves as a dependable back framework — one that should always be part of hand toolkit. Scrum for structured sprints or Kanban for visual workflow clarity, the core principle stays the same—learn fast, iterate faster, and never stop refining what matters stories the most.
 
 Example: Agile/Lean approach, famously known as the Spotify Squad Framework. Spotify scaled globally while maintaining rapid feature releases — Discover Weekly, Wrapped, Podcasts, and social features emerged from this empowered, Agile-driven culture. They avoided typical “big company” slowdowns by keeping teams lean and user-focused.
 
@@ -310,14 +293,24 @@ Lesson: Lean isn't just startup speak — it's embedded in **Japan’s industria
 BYD competition Tesla’s playbook — it built a localized, bottom-up GTM strategy optimized for China’s infrastructure, market segments, and government incentives.
 
 **Key Impressive Strategies BYD used:**
-
-A. Market Entry, Not Luxury First (Models like the Qin, Dolphin, and Yuan Plus offered practical range and price, helping them dominate volume).
-
-B. Vertical Integration (BYD produces its own batteries (Blade Battery), semiconductors, and motors — enabling cost control and rapid scaling). 
-
-C. Global Expansion via Strategic Markets.
+      A. Market Entry, Not Luxury First (Models like the Qin, Dolphin, and Yuan Plus offered practical range and price, helping them dominate volume).
+      B. Vertical Integration (BYD produces its own batteries (Blade Battery), semiconductors, and motors — enabling cost control and rapid scaling). 
+      C. Global Expansion via Strategic Markets.
 
 Result: As of 2024, BYD surpassed Tesla in global EV sales volume, with over 3 million vehicles delivered annually, and is now exporting aggressively.
+
+14. Jobs to Be Done (JTBD): 
+**Beyond Germany's well-known strengths in engineering and traditional beverages like beer:**
+
+Example (Germany): Erdinger / Paulaner / Bitburger – “Enjoy High-Quality, Traditional Beer as a Social Tradition/Celebration”
+
+“I want to enjoy a high-quality beer that connects me to tradition, culture, and people — not just get a drink.” In Germany, beer isn’t just a beverage. It solves multiple layered jobs:
+
+Use Cases: Functional, Emotional & Social:
+            A. Functional: Reliably brewed, high-quality beer that tastes great and doesn’t feel industrial.
+            B. Functional: This gives drinkers confidence in ingredient integrity, taste, and craftsmanship.
+            C. Emotional: To feel a sense of heritage, celebration, and identity — even in everyday moments. Oktoberfest beers like Spaten or Hofbräu are globally marketed as authentic experiences, not just alcohol products.
+            D. Social: The JTBD for German beer brands is often about trust, pride, and presence — the beer is the medium, the real job is the connection.
 
 
 15. A/B Testing & Experimentation - A/B Testing is a cornerstone of modern product development — a structured way to compare two variations (A and B) to see which performs better based on real user data. Instead of relying on assumptions, teams run controlled experiments to test different features, designs, or messaging, gathering insights before scaling. Typically labeled “A” (the control) and “B” (the variant).
