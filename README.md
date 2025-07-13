@@ -313,7 +313,7 @@ Use Cases: Functional, Emotional & Social:
             C. Emotional: To feel a sense of heritage, celebration, and identity — even in everyday moments. Oktoberfest beers like Spaten or Hofbräu are globally marketed as authentic experiences, not just alcohol products.
             D. Social: The JTBD for German beer brands is often about trust, pride, and presence — the beer is the medium, the real job is the connection.
 
-Example 2: FlixBus – “I want to travel between cities cheaply and easily, without stress.” → Combines low-cost travel with digital booking and convenience for mass-market mobility.
+Example 2: FlixBus – “User's want to travel between cities cheaply and easily, without stress.” → Combines low-cost travel with digital booking and convenience for mass-market mobility.
 
 **JTBD Here:** A user doesn’t hire FlixBus just to book a bus — they hire it to travel affordably and stress-free between cities.
 
@@ -443,10 +443,9 @@ E. Key role in cross-functional teams handling technical, and marketing aspects 
 
 **A. Compliance is no longer optional**: 40% of EU companies reported security incidents in the past year, though only 29% feel fully prepared. 
 
-                  A. Data Breaches. 
-                  B. More Friction in Daily Digital Use: Many users face frustration or delays.
-                  C. Trust Decline in Institutions & Internet Platforms (privacy concerns have slowed adoption).
-                  D. Anxiety and Digital Fatigue: Constant alerts, warnings, and headline hacks have caused digital paranoia.
+                  A. Data Breaches, More Friction in Daily Digital Use: Many users face frustration or delays.
+                  B. Trust Decline in Institutions & Internet Platforms (privacy concerns have slowed adoption).
+                  C. Anxiety and Digital Fatigue: Constant alerts, warnings, and headline hacks have caused digital fear amoung many users. 
 
 **B. Market:** The Europe cybersecurity market is projected to grow from approximately USD 63–75 billion in 2024–2025 to over USD 105–157 billion by 2030–2033, with a **compound annual growth rate (CAGR) between 8% and 12%**.
 
