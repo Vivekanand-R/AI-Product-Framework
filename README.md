@@ -300,7 +300,7 @@ Result: As of 2024, BYD surpassed Tesla in global EV sales volume, with over 3 m
 
 14. Jobs to Be Done (JTBD):- This is a **framework and mindset** used in product management to understand why users “hire” a product — not what features they want, but **what outcome they’re trying to achieve** in a real-world context.
 
-**Beyond Germany's well-known strengths in engineering and traditional beverages like beer:**
+**Beyond Germany's well-known strengths in engineering** and traditional beverages like beer:
 
 Example 1 (Germany): Erdinger / Paulaner / Bitburger – “Enjoy High-Quality, Traditional Beer as a Social Tradition/Celebration”
 
@@ -315,9 +315,9 @@ Use Cases: Functional, Emotional & Social:
 
 Example 2: FlixBus – “I want to travel between cities cheaply and easily, without stress.” → Combines low-cost travel with digital booking and convenience for mass-market mobility.
 
-JTBD Here: A user doesn’t hire FlixBus just to book a bus — they hire it to travel affordably and stress-free between cities.
+**JTBD Here:** A user doesn’t hire FlixBus just to book a bus — they hire it to travel affordably and stress-free between cities.
 
-Example 3: BMW – “I want to enjoy driving, not just own a car.” → Offers performance, handling, and emotional satisfaction as core differentiators.
+Example 3: German Car Makers – “To enjoy driving, not just own a car.” → Offers performance, handling, and emotional satisfaction as core differentiators.
 
 15. A/B Testing & Experimentation - A/B Testing is a cornerstone of modern product development — a structured way to compare two variations (A and B) to see which performs better based on real user data. Instead of relying on assumptions, teams run controlled experiments to test different features, designs, or messaging, gathering insights before scaling. Typically labeled “A” (the control) and “B” (the variant).
 
@@ -443,13 +443,12 @@ E. Key role in cross-functional teams handling technical, and marketing aspects 
 
 **A. Compliance is no longer optional**: 40% of EU companies reported security incidents in the past year, though only 29% feel fully prepared. 
 
-                  A. Data Breaches
-                  B. More Friction in Daily Digital Use: Many users face frustration or delays
-                  C. Trust Decline in Institutions & Internet Platforms (privacy concerns have slowed adoption)
+                  A. Data Breaches. 
+                  B. More Friction in Daily Digital Use: Many users face frustration or delays.
+                  C. Trust Decline in Institutions & Internet Platforms (privacy concerns have slowed adoption).
                   D. Anxiety and Digital Fatigue: Constant alerts, warnings, and headline hacks have caused digital paranoia.
 
 **B. Market:** The Europe cybersecurity market is projected to grow from approximately USD 63–75 billion in 2024–2025 to over USD 105–157 billion by 2030–2033, with a **compound annual growth rate (CAGR) between 8% and 12%**.
-
 
 -----------------------------------------------------------
 
@@ -487,5 +486,6 @@ Example: Pharma company on a new product (cholesterol drug) before its patent ex
 3. https://online.stanford.edu/programs/advanced-product-management-program
 4. https://executive.berkeley.edu/programs/product-management-studio-program
 5. https://www.coursera.org/specializations/advanced-digital-transformation-iima
-6. LLM's (For content review and refinement)
+6. https://www.grandviewresearch.com/industry-analysis/europe-cyber-security-market-report
+7. LLM's (For content review and refinement)
 
