@@ -279,7 +279,7 @@ Lesson: Lean isn't just startup speak — it's embedded in **Japan’s industria
 
 Workouts:
 
-<img width="1103" height="601" alt="image" src="https://github.com/user-attachments/assets/2e0f8859-101d-4876-91fa-0d1b5f4ea800" />
+<img width="1126" height="607" alt="image" src="https://github.com/user-attachments/assets/0258a18e-0f7b-4182-8196-6ac8af153e4e" />
 
 
 13. Go-to-Market (GTM) Strategy
