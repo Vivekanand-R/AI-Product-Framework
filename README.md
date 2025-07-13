@@ -245,11 +245,9 @@ Example: Agile/Lean approach, famously known as the Spotify Squad Framework. Spo
 **Example (Japan): Toyota's Lean Manufacturing → Lean Product Thinking**
 Toyota’s lean philosophy didn't stop at factories — it influenced global product thinking. In Toyota’s software-driven projects (e.g., in-car infotainment systems, autonomous vehicle R&D), they adapted “Kaizen” (continuous improvement) to software:
 
-A. Start with a minimal system, 
-
-B. Gather real driver feedback from prototypes
-
-C. Improve continuously, not just release-and-forget
+            A. Start with a minimal system, 
+            B. Gather real driver feedback from prototypes
+            C. Improve continuously, not just release-and-forget
 
 For example, Toyota’s in-car voice navigation system went through dozens of iterations in Japan using real commuter behavior — focusing on accuracy, tone, and cultural cues rather than flashy UI.
 
@@ -293,9 +291,10 @@ Lesson: Lean isn't just startup speak — it's embedded in **Japan’s industria
 BYD competition Tesla’s playbook — it built a localized, bottom-up GTM strategy optimized for China’s infrastructure, market segments, and government incentives.
 
 **Key Impressive Strategies BYD used:**
-      A. Market Entry, Not Luxury First (Models like the Qin, Dolphin, and Yuan Plus offered practical range and price, helping them dominate volume).
-      B. Vertical Integration (BYD produces its own batteries (Blade Battery), semiconductors, and motors — enabling cost control and rapid scaling). 
-      C. Global Expansion via Strategic Markets.
+
+            A. Market Entry, Not Luxury First (Models like the Qin, Dolphin, and Yuan Plus offered practical range and price, helping them dominate volume).
+            B. Vertical Integration (BYD produces its own batteries (Blade Battery), semiconductors, and motors — enabling cost control and rapid scaling). 
+            C. Global Expansion via Strategic Markets.
 
 Result: As of 2024, BYD surpassed Tesla in global EV sales volume, with over 3 million vehicles delivered annually, and is now exporting aggressively.
 
@@ -307,6 +306,7 @@ Example (Germany): Erdinger / Paulaner / Bitburger – “Enjoy High-Quality, Tr
 “I want to enjoy a high-quality beer that connects me to tradition, culture, and people — not just get a drink.” In Germany, beer isn’t just a beverage. It solves multiple layered jobs:
 
 Use Cases: Functional, Emotional & Social:
+
             A. Functional: Reliably brewed, high-quality beer that tastes great and doesn’t feel industrial.
             B. Functional: This gives drinkers confidence in ingredient integrity, taste, and craftsmanship.
             C. Emotional: To feel a sense of heritage, celebration, and identity — even in everyday moments. Oktoberfest beers like Spaten or Hofbräu are globally marketed as authentic experiences, not just alcohol products.
