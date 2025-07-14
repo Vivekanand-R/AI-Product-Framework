@@ -227,8 +227,10 @@ Fitbit didn’t just ride a trend—they created a new category: everyday wellne
              A. Understand real user needs before building,
              B. Engage users early and often: Before writing a single line of code, invest in understanding what problems users are actually trying to solve.
              C. Design simple, intuitive experiences, D. Use data and empathy together,
-             E. Prototype quickly, learn continuously, F. Prioritize,
-             G. Collaborate, H. Iterate based on real user feedback.
+             E. Prototype quickly, learn continuously,
+             F. Prioritize,
+             G. Collaborate,
+             H. Iterate based on real user feedback.
 
    Best Example: Duolingo — LEarning Through UX (**Best USer Centered Design**): Language learning apps have existed forever, but most feel like homework. Duolingo flipped the model with relentless User-Centered Design, focusing on: Gamification that Actually Works and Inclusive, Accessible Design. Duolingo turned LAnguage LEarning for over 80 million monthly active users. Their design-led approach didn't just drive downloads, it fueled real habit formation, retention and INformative.
 
@@ -248,10 +250,12 @@ Zerodha, India’s largest retail stock brokerage, started by identifying a key 
 
 In software development, whether using Scrum for structured sprints or Kanban for visual clarity, the goal remains consistent: deliver value through rapid, responsive iteration. Agile thrives on its core cycle — Discover, Define, Design, and Deliver — making it especially effective for Product Managers navigating, Normally encourages a different level of thinking and also uncertain and/or evolving roadmaps for Quality, Iterations, Testing and development. Bold and engaging explorations with thought leaders. AI has strong potential to thrive within Agile environments but doesn’t take initiative on its own due to biases and constraints. With the right Agile initiatives, that potential can be enabled easily — enabling AI to contribute iteratively, adaptively, and with purpose.
 
-Example: Agile/Lean approach, famously known as the **Spotify** Squad Framework. Spotify scaled globally while maintaining rapid feature releases — Discover Weekly, Wrapped, Podcasts, and social features emerged from this empowered, Agile-driven culture. 
+Example: Agile/Lean approach, famously known as the **Spotify** Squad Framework. Spotify scaled globally while maintaining rapid feature releases — Discover Weekly, Wrapped, Podcasts, and social features emerged from this empowered, Agile-driven culture. They avoided typical “big company” slowdowns by keeping teams lean and user-focused.
 
-            A. Squads: Small, autonomous, cross-functional teams owning specific product areas.             B. Tribes & Guilds: Tribes align squads; Guilds connect shared skills across teams.
-            C. Lightweight Process: Minimal bureaucracy, rapid user-focused releases.             D. Kanban & Scrum Hybrid: Teams choose frameworks that fit — no rigid playbook.
+            A. Squads: Small, autonomous, cross-functional teams owning specific product areas.             
+            B. Tribes & Guilds: Tribes align squads; Guilds connect shared skills across teams.
+            C. Lightweight Process: Minimal bureaucracy, rapid user-focused releases. and            
+            D. Kanban & Scrum Hybrid: Teams choose frameworks that fit — no rigid playbook.
 
 7. Lean Product Development
 
