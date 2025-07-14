@@ -210,7 +210,7 @@ JPMorgan is one of the world’s largest daily payment flows—surpassing $10 
 
 1. Product-Market Fit (PMF):
 
-Fitbit achieved Product-Market Fit by tapping into rising consumer demand for personal health monitoring. Its wearable devices offered real-time insights into activity, sleep, and heart rate, creating daily habit loops and community engagement.
+Healthcare Sector Example: **Fitbit** achieved Product-Market Fit by tapping into rising consumer demand for personal health monitoring. Its wearable devices offered real-time insights into activity, sleep, and heart rate, creating daily habit loops and community engagement.
 
 Financial & scale impact:
 
@@ -233,7 +233,7 @@ Fitbit didn’t just ride a trend—they created a new category: everyday wellne
 
 5. Customer Discovery and Digital Transformation: It’s not just about adopting new tech — it's about **rethinking processes, experiences, and model**s for a digital-first world.
 
-**Example : **Zerodha’s User-Centric Fintech Approach****
+**FIntech Example : **Zerodha’s User-Centric Fintech Approach****
 
 Zerodha, India’s largest retail stock brokerage, started by identifying a key JTBD: simplify and reduce costs for retail investors. Instead of copying Western platforms, they ran discovery with Indian retail investors and learned:
             
@@ -256,7 +256,7 @@ Example: Agile/Lean approach, famously known as the Spotify Squad Framework. Spo
 
 7. Lean Product Development
 
-**Example: Toyota's Lean Manufacturing → Lean Product Thinking**
+**Auto/Manufacturing Example: Toyota's Lean Manufacturing → Lean Product Thinking**
 Toyota’s lean philosophy didn't stop at factories — it influenced global product thinking. In Toyota’s software-driven projects (e.g., in-car infotainment systems, autonomous vehicle R&D), they adapted “Kaizen” (continuous improvement) to software:
 
             A. Start with a minimal system, 
