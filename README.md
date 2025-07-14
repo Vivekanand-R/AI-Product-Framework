@@ -230,9 +230,9 @@ Fitbit didn’t just ride a trend—they created a new category: everyday wellne
              E. Prototype quickly, learn continuously, F. Prioritize,
              G. Collaborate, H. Iterate based on real user feedback.
 
-   Best Example: Duolingo — LEarning Through UX (**Best USer Centered Design**): Language learning apps have existed forever, but most feel like homework. Duolingo flipped the model with relentless User-Centered Design, focusing on: Gamification that Actually Works and Inclusive, Accessible Design. Duolingo turned LAnguage LEarning for over 80 million monthly active users. Their design-led approach didn't just drive downloads; it fueled real habit formation, retention and INformative.
+   Best Example: Duolingo — LEarning Through UX (**Best USer Centered Design**): Language learning apps have existed forever, but most feel like homework. Duolingo flipped the model with relentless User-Centered Design, focusing on: Gamification that Actually Works and Inclusive, Accessible Design. Duolingo turned LAnguage LEarning for over 80 million monthly active users. Their design-led approach didn't just drive downloads, it fueled real habit formation, retention and INformative.
 
-5. Customer Discovery and Digital Transformation: It’s not just about adopting new tech — it's about **rethinking processes, experiences, and model**s for a digital-first world.
+5. Customer Discovery and Digital Transformation: It’s not just about adopting new tech — it's about **rethinking processes, experiences, and model**s for a digital-first world. AI plays a major role in DT enablement. 
 
 **FIntech Example : **Zerodha’s User-Centric Fintech Approach****
 
@@ -246,14 +246,12 @@ Zerodha, India’s largest retail stock brokerage, started by identifying a key 
 
 6. Agile Methodology (Scrum, Kanban) - Agile isn’t just a methodology — it’s a mindset built on learning fast, iterating often, and continuously refining what matters most.
 
-In software development, whether using Scrum for structured sprints or Kanban for visual clarity, the goal remains consistent: deliver value through rapid, responsive iteration. Agile thrives on its core cycle — Discover, Define, Design, and Deliver — making it especially effective for Product Managers navigating, Normally encourages a different level of thinking and also uncertain and/or evolving roadmaps for Quality, Iterations, Testing and development. Bold and engaging explorations with thought leaders.  
+In software development, whether using Scrum for structured sprints or Kanban for visual clarity, the goal remains consistent: deliver value through rapid, responsive iteration. Agile thrives on its core cycle — Discover, Define, Design, and Deliver — making it especially effective for Product Managers navigating, Normally encourages a different level of thinking and also uncertain and/or evolving roadmaps for Quality, Iterations, Testing and development. Bold and engaging explorations with thought leaders. AI has strong potential to thrive within Agile environments but doesn’t take initiative on its own due to biases and constraints. With the right Agile initiatives, that potential can be enabled easily — enabling AI to contribute iteratively, adaptively, and with purpose.
 
-Example: Agile/Lean approach, famously known as the **Spotify** Squad Framework. Spotify scaled globally while maintaining rapid feature releases — Discover Weekly, Wrapped, Podcasts, and social features emerged from this empowered, Agile-driven culture. They avoided typical “big company” slowdowns by keeping teams lean and user-focused.
+Example: Agile/Lean approach, famously known as the **Spotify** Squad Framework. Spotify scaled globally while maintaining rapid feature releases — Discover Weekly, Wrapped, Podcasts, and social features emerged from this empowered, Agile-driven culture. 
 
-            A. Squads: Small, autonomous, cross-functional teams owning specific product areas.
-            B. Tribes & Guilds: Tribes align squads; Guilds connect shared skills across teams.
-            C. Lightweight Process: Minimal bureaucracy, rapid user-focused releases.
-            D. Kanban & Scrum Hybrid: Teams choose frameworks that fit — no rigid playbook.
+            A. Squads: Small, autonomous, cross-functional teams owning specific product areas.             B. Tribes & Guilds: Tribes align squads; Guilds connect shared skills across teams.
+            C. Lightweight Process: Minimal bureaucracy, rapid user-focused releases.             D. Kanban & Scrum Hybrid: Teams choose frameworks that fit — no rigid playbook.
 
 7. Lean Product Development
 
