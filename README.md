@@ -208,7 +208,17 @@ JPMorgan is one of the world’s largest daily payment flows—surpassing $10 
 
 **Area of Focus:**
 
-1. Product-Market Fit (PMF)
+1. Product-Market Fit (PMF):
+
+Fitbit achieved Product-Market Fit by tapping into rising consumer demand for personal health monitoring. Its wearable devices offered real-time insights into activity, sleep, and heart rate, creating daily habit loops and community engagement.
+
+Financial & scale impact:
+
+            A. Sold over 120 million devices to more than 29 million users in 100+ countries.
+            B. Reported peak annual revenue of ~$2.16 billion in 2016; most recent figures show ~$1.31 billion in 2020. 
+            C. **Acquired by Google** for $2.1 billion in 2021.
+
+Fitbit didn’t just ride a trend—they created a new category: everyday wellness wearables. Their PMF is defined by massive adoption, stickiness, and a validated commercial model.
 
 2. Minimum Viable Product (MVP) - The primary goal of an MVP is risk reduction. BUilt to quickly test assumptions, validate market demand, and gather feedback with minimal resources. Basic, functional version of a product that allows teams to test critical hypotheses with real users — without overcommitting resources upfront. In short, an MVP helps us to learn fast, fail cheap, and iterate smarter. 
 
@@ -223,7 +233,7 @@ JPMorgan is one of the world’s largest daily payment flows—surpassing $10 
 
 5. Customer Discovery and Digital Transformation: It’s not just about adopting new tech — it's about **rethinking processes, experiences, and model**s for a digital-first world.
 
-**Example (Digital Transformation): **Zerodha’s User-Centric Fintech Approach****
+**Example : **Zerodha’s User-Centric Fintech Approach****
 
 Zerodha, India’s largest retail stock brokerage, started by identifying a key JTBD: simplify and reduce costs for retail investors. Instead of copying Western platforms, they ran discovery with Indian retail investors and learned:
             
@@ -233,7 +243,9 @@ Zerodha, India’s largest retail stock brokerage, started by identifying a key 
             D. Their user discovery led to products built with simplicity, speed, and low cost — unlike bloated banking apps. 
             E. They now have 12M+ users and are profitable with almost no advertising spend.
 
-6. Agile Methodology (Scrum, Kanban) - Learn fast and iterate, Software developments, Scrum Methods, Kanban, Iterative development.  Testing Agile Scalability, WIsh agile works best for Digital Product Managers. Main Agile Concept of Discover, Define, Design and Deliver. Unsure Agile Status, and to Design Long Term Curious Product frameworks, accessible digital and SW Iterations. Agile isn’t always about smooth workflows — sometimes, a process gets blocked, that’s part of SW iterations, a quick unblock to resume the flow. In top, Whether it’s a well-seated enterprise with a relaxing results or a startup finding its footing, Agile serves as a dependable back framework — one that should always be part of hand toolkit. Scrum for structured sprints or Kanban for visual workflow clarity, the core principle stays the same—learn fast, iterate faster, and never stop refining what matters stories the most.
+6. Agile Methodology (Scrum, Kanban) - Agile isn’t just a methodology — it’s a mindset built on learning fast, iterating often, and continuously refining what matters most.
+
+In software development, whether using Scrum for structured sprints or Kanban for visual clarity, the goal remains consistent: deliver value through rapid, responsive iteration. Agile thrives on its core cycle — Discover, Define, Design, and Deliver — making it especially effective for Product Managers navigating uncertain and/or evolving roadmaps. 
 
 Example: Agile/Lean approach, famously known as the Spotify Squad Framework. Spotify scaled globally while maintaining rapid feature releases — Discover Weekly, Wrapped, Podcasts, and social features emerged from this empowered, Agile-driven culture. They avoided typical “big company” slowdowns by keeping teams lean and user-focused.
 
@@ -244,7 +256,7 @@ Example: Agile/Lean approach, famously known as the Spotify Squad Framework. Spo
 
 7. Lean Product Development
 
-**Example (Japan): Toyota's Lean Manufacturing → Lean Product Thinking**
+**Example: Toyota's Lean Manufacturing → Lean Product Thinking**
 Toyota’s lean philosophy didn't stop at factories — it influenced global product thinking. In Toyota’s software-driven projects (e.g., in-car infotainment systems, autonomous vehicle R&D), they adapted “Kaizen” (continuous improvement) to software:
 
             A. Start with a minimal system, 
@@ -273,7 +285,7 @@ Lesson: Lean isn't just startup speak — it's embedded in Japan’s industrial 
             
             G. Vision-Driven Decision Making – Use the vision as a filter for prioritization and trade-offs.
 
-12. Feature Prioritization Frameworks (RICE, MoSCoW, Kano)
+12. Feature Prioritization Frameworks (Reach, Impact, Confidence and Efforts Framework, MoSCoW, Kano)
 
 Workouts:
 
@@ -289,7 +301,7 @@ Workouts:
             E. Sales Enablement & Customer Onboarding – Provide tools, training, and onboarding flows to drive conversions and retention.
 
 
-**Example (China): BYD’s Ecosystem-Led GTM Strategy vs Tesla’s Premium-First Approach**
+**Example: BYD’s Ecosystem-Led GTM Strategy vs Tesla’s Premium-First Approach**
 
 BYD competition Tesla’s playbook — it built a localized, bottom-up GTM strategy optimized for China’s infrastructure, market segments, and government incentives.
 
