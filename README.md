@@ -465,12 +465,12 @@ A monopoly is a market structure where a single seller dominates the entire mark
    
 Example: Pharma company on a new product (cholesterol drug) before its patent expired. Why It’s a Monopoly: Patent laws grant exclusive rights to sell a drug for a period (usually 20 years).
 
-3. Platform Monopoly (Near-Monopoly): Google in Search.
+5. Platform Monopoly (Near-Monopoly): Google in Search.
    
    Example 1: Google controls over 90% of global search engine market share. Why It’s a Monopoly: Network effects (more users = better data = better product), high switching costs, and dominance in ads.
    Example 2: Used OS dominance to restrict competition in browser market
    
-4. Resource Monopoly: De Beers and Diamonds. De Beers once controlled 85–90% of the global rough diamond supply.
+6. Resource Monopoly: De Beers and Diamonds. De Beers once controlled 85–90% of the global rough diamond supply.
 
 **Real World Examples:**
 
