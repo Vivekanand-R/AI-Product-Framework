@@ -303,24 +303,13 @@ Result: As of 2024, BYD surpassed Tesla in global EV sales volume, with over 3 m
 
 14. Jobs to Be Done (JTBD):- This is a **framework and mindset** used in product management to understand why users “hire” a product — not what features they want, but **what outcome they’re trying to achieve** in a real-world context.
 
-Beyond Germany's well-known strengths in engineering and traditional beverages like beer:
+Beyond Germany's well-known strengths in engineering:
 
-Example 1 (Germany): Erdinger / Paulaner / Bitburger – “Enjoy High-Quality, Traditional Beer as a Social Tradition/Celebration”
-
-“High-quality beer that connects to tradition, culture, and people — not just get a drink.” In Germany, beer isn’t just a beverage. It often solves multiple layered jobs:
-
-Use Cases: Functional, Emotional & Social:
-
-            A. Functional: Reliably brewed, high-quality beer that tastes great and doesn’t feel industrial.
-            B. Functional: This gives drinkers confidence in ingredient integrity, taste, and craftsmanship.
-            C. Emotional: To feel a sense of heritage, celebration, and identity — even in everyday moments. Oktoberfest beers like Spaten or Hofbräu are globally marketed as authentic experiences, not just alcohol products.
-            D. Social: The JTBD for German beer brands is often about trust, pride, and presence — the beer is the medium, the real job is the connection.
-
-Example 2: FlixBus – “User's want to travel between cities cheaply and easily, without stress.” → Combines low-cost travel with digital booking and convenience for mass-market mobility.
+Example 1: FlixBus – “User's want to travel between cities cheaply and easily, without stress.” → Combines low-cost travel with digital booking and convenience for mass-market mobility.
 
 **JTBD Here:** A user doesn’t hire FlixBus just to book a bus — they hire it to travel affordably and stress-free between cities.
 
-Example 3: German Car Makers – “To enjoy driving, not just own a car.” → Offers performance, handling, and emotional satisfaction as core differentiators.
+Example 2: Car Makers – “To enjoy driving, not just own a car.” → Offers performance, handling, and emotional satisfaction as core differentiators.
 
 15. A/B Testing & Experimentation - A/B Testing is a cornerstone of modern product development — a structured way to compare two variations (A and B) to see which performs better based on real user data. Instead of relying on assumptions, teams run controlled experiments to test different features, designs, or messaging, gathering insights before scaling. Typically labeled “A” (the control) and “B” (the variant).
 
