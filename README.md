@@ -352,7 +352,7 @@ Develop a successful digital product - Biases and Successful Validation:
 
 3. The Illusion of “Data-Driven” Decisions: Data rarely speaks clearly — sometimes it could be biased, and maybe incomplete. Balance data with intuition, qualitative insights, and context, rather than hiding behind dashboards.
 
-Example: Nokia’s Market Research Before iPhone: Nokia relied on internal market data showing dominant handset sales and assumed no imminent disruption.
+Example: Nokia Market Research Before iPhone: Nokia relied on internal market data showing dominant handset sales and assumed no imminent disruption.
 Focus: The data reflected the past, not emerging Common consumer Interests for smartphones with apps and touchscreens. Nokia missed to see the shift, clinging to misleading comfort in market share metrics while Apple reshaped the landscape.
 
 4. Shiny Object Syndrome:  Team often get distracted by new trends (AI, Web3, etc.). Filter noise from real opportunities, guiding leadership back to strategic focus without dropping enthusiasm.
@@ -458,8 +458,10 @@ E. Key role in cross-functional teams handling technical, and marketing aspects 
 
 A monopoly is a market structure where a single seller dominates the entire market for a product or service with no close substitutes. Price maker, meaning it has substantial control over pricing, output, and market conditions—something that’s impossible in more competitive markets.
 
-1. Natural Monopoly: Utilities (e.g., Electricity, Water) -  Local electric utilities, Regulated.
-2. Legal Monopoly: Pharmaceuticals.
+1. Natural Monopoly: Utilities (e.g., Electricity, Water) : Local electric utilities, Regulated.
+2. Patented: For Example Pharmaceuticals.
+3. Technological: Owning proprietary technology, know-how, or algorithms that no other firm can replicate. (Google (search), NVIDIA (GPUs) in early AI stages)
+4. Geographic Monopoly
    
 Example: Pharma company on a new product (cholesterol drug) before its patent expired. Why It’s a Monopoly: Patent laws grant exclusive rights to sell a drug for a period (usually 20 years).
 
