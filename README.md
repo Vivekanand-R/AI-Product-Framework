@@ -447,10 +447,6 @@ E. Key role in cross-functional teams handling technical, and marketing aspects 
 
 **A. Compliance is no longer optional**: 40% of EU companies reported security incidents in the past year, though only 29% feel fully prepared. 
 
-                  A. Data Breaches, More Friction in Daily Digital Use: Many users face frustration or delays.
-                  B. Trust Decline in Institutions & Internet Platforms (privacy concerns have slowed adoption).
-                  C. Anxiety and Digital Fatigue: Constant alerts, warnings, and headline hacks have caused digital fear amoung many users. 
-
 **B. Market:** The Europe cybersecurity market is projected to grow from approximately USD 63–75 billion in 2024–2025 to over USD 105–157 billion by 2030–2033, with a **compound annual growth rate (CAGR) between 8% and 12%**.
 
 -----------------------------------------------------------
