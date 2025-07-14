@@ -248,7 +248,7 @@ Zerodha, India’s largest retail stock brokerage, started by identifying a key 
 
 6. Agile Methodology (Scrum, Kanban) - Agile isn’t just a methodology — it’s a mindset built on learning fast, iterating often, and continuously refining what matters most.
 
-In software development, whether using Scrum for structured sprints or Kanban for visual clarity, the goal remains consistent: deliver value through rapid, responsive iteration. Agile thrives on its core cycle — Discover, Define, Design, and Deliver — making it especially effective for Product Managers navigating, Normally encourages a different level of thinking and also uncertain and/or evolving roadmaps for Quality, Iterations, Testing and development. Bold and engaging explorations with thought leaders. AI has strong potential to thrive within Agile environments but doesn’t take initiative on its own due to biases and constraints. With the right Agile initiatives, that potential can be enabled easily — enabling AI to contribute iteratively, adaptively, and with purpose.
+In software development, whether using Scrum for structured sprints or Kanban for visual clarity, the goal remains consistent: deliver value through rapid, responsive iteration. Agile thrives on its core cycle — Discover, Define, Design, and Deliver — making it especially effective for leaders navigating, Normally encourages a different level of thinking and also uncertain and/or evolving roadmaps for Quality, Iterations, Testing and development. Bold and engaging explorations with thought leaders. AI has strong potential to thrive within Agile environments but doesn’t take initiative on its own due to biases and constraints. With the right Agile initiatives, that potential can be enabled easily — enabling AI to contribute iteratively, adaptively, and with purpose.
 
 Example: Agile/Lean approach, famously known as the **Spotify** Squad Framework. Spotify scaled globally while maintaining rapid feature releases — Discover Weekly, Wrapped, Podcasts, and social features emerged from this empowered, Agile-driven culture. They avoided typical “big company” slowdowns by keeping teams lean and user-focused.
 
@@ -268,7 +268,7 @@ Toyota’s lean philosophy didn't stop at factories — it influenced global pro
 
 For example, Toyota’s in-car voice navigation system went through dozens of iterations in Japan using real commuter behavior — focusing on accuracy, tone, and cultural cues rather than flashy UI.
 
-Lesson: Lean isn't just startup speak — it's embedded in Japan’s industrial DNA and influences digital product practices too.
+Meaning: Lean isn't just startup speak — it's embedded in Japan’s industrial DNA and influences digital product practices too.
 
 8, 9. Product Roadmapping - Process that links a product’s vision and goals to a clear plan of execution over time.
 
@@ -354,7 +354,7 @@ Develop a successful digital product - Biases and Successful Validation:
 
 3. The Illusion of “Data-Driven” Decisions: Data rarely speaks clearly — sometimes it could be biased, and maybe incomplete. Balance data with intuition, qualitative insights, and context, rather than hiding behind dashboards.
 
-Example: Nokia Market Research Before iPhone: Nokia relied on internal market data showing dominant handset sales and assumed no imminent disruption.
+Example: Nokia's Market Research Before iPhone: Nokia relied on internal market data showing dominant handset sales and assumed no imminent disruption.
 Focus: The data reflected the past, not emerging Common consumer Interests for smartphones with apps and touchscreens. Nokia missed to see the shift, clinging to misleading comfort in market share metrics while Apple reshaped the landscape.
 
 4. Shiny Object Syndrome:  Team often get distracted by new trends (AI, Web3, etc.). Filter noise from real opportunities, guiding leadership back to strategic focus without dropping enthusiasm.
