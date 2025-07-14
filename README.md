@@ -210,7 +210,7 @@ JPMorgan is one of the world’s largest daily payment flows—surpassing $10 
 
 1. Product-Market Fit (PMF):
 
-Healthcare Sector Example: **Fitbit** achieved Product-Market Fit by tapping into rising consumer demand for personal health monitoring. Its wearable devices offered real-time insights into activity, sleep, and heart rate, creating daily habit loops and community engagement.
+Healthcare Sector Example: **Fitbit** achieved Product-Market Fit by tapping into rising consumer demand for personal health monitoring. 
 
 Financial & scale impact:
 
@@ -245,7 +245,7 @@ Zerodha, India’s largest retail stock brokerage, started by identifying a key 
 
 6. Agile Methodology (Scrum, Kanban) - Agile isn’t just a methodology — it’s a mindset built on learning fast, iterating often, and continuously refining what matters most.
 
-In software development, whether using Scrum for structured sprints or Kanban for visual clarity, the goal remains consistent: deliver value through rapid, responsive iteration. Agile thrives on its core cycle — Discover, Define, Design, and Deliver — making it especially effective for Product Managers navigating uncertain and/or evolving roadmaps. 
+In software development, whether using Scrum for structured sprints or Kanban for visual clarity, the goal remains consistent: deliver value through rapid, responsive iteration. Agile thrives on its core cycle — Discover, Define, Design, and Deliver — making it especially effective for Product Managers navigating, Normally encourages a different level of thinking and also uncertain and/or evolving roadmaps.  
 
 Example: Agile/Lean approach, famously known as the Spotify Squad Framework. Spotify scaled globally while maintaining rapid feature releases — Discover Weekly, Wrapped, Podcasts, and social features emerged from this empowered, Agile-driven culture. They avoided typical “big company” slowdowns by keeping teams lean and user-focused.
 
