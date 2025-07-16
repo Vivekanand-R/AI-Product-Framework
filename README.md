@@ -214,8 +214,6 @@ Healthcare Wearable: **Fitbit** achieved Product-Market Fit by tapping into risi
 
 <img width="1363" height="272" alt="image" src="https://github.com/user-attachments/assets/e94649c1-18ad-4d44-af26-316b1c073b95" />
 
-Source: https://store.google.com/category/watches_trackers?hl=de&pli=1
-
 Financial & scale impact:
 
             A. Sold over 120 million devices to more than 29 million users in 100+ countries.
@@ -521,5 +519,6 @@ Example: Pharma company on a new product (cholesterol drug) before its patent ex
 4. https://executive.berkeley.edu/programs/product-management-studio-program
 5. https://www.coursera.org/specializations/advanced-digital-transformation-iima
 6. https://www.grandviewresearch.com/industry-analysis/europe-cyber-security-market-report
-7. LLM's (For content review and refinement)
+7. Source: https://store.google.com/category/watches_trackers?hl=de&pli=1
+8. LLM's (For content review and refinement)
 
