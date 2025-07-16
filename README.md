@@ -265,6 +265,22 @@ Example: Agile/Lean approach, famously known as the **Spotify** Squad Framework.
             C. Lightweight Process: Minimal bureaucracy, rapid user-focused releases. and            
             D. Kanban & Scrum Hybrid: Teams choose frameworks that fit — no rigid playbook.
 
+
+These are rooted in Agile values, Scrum, XP, Kanban, or Lean Software Development:
+            
+            A. Continuous Delivery, 
+            B. Iterative Development
+            C. Backlog Grooming / Refinement
+            E. Definition of Ready / Done
+            F. Story Mapping
+            G. Agile Estimation (Story Points, T-Shirt Sizes)
+            H. Timeboxing
+            I. Velocity vs. Throughput
+            J. Dual-Track Agile
+            K. Incremental Architecture
+            L. Retrospective Actioning / Root Cause Analysis
+            M. Feature Flags & Progressive Delivery
+
 **7. Lean Product Development**
 
 **Auto/Manufacturing Example: Toyota's Lean Manufacturing → Lean Product Thinking**
@@ -371,6 +387,12 @@ Example 2: Car Makers – “To enjoy driving, not just own a car.” → Offers
 **22. OKRs (Objectives and Key Results) for Product Teams:** 1. Objectives define what to achieve — ambitious, qualitative, and outcome-focused. 2. At least, Key Results specify how to measure success — quantifiable, time-bound, and trackable.
 
 23. Technical Understanding & Feasibility Assessment
+
+24. Tech Debt Management: Intentional, not accidental. Schedule and prioritize it just like feature work. Tech debt ignored = future product failure.
+
+25. Cognitive Load Awareness: Protect the team’s bandwidth. Too many simultaneous priorities kill focus and degrade quality.
+
+26. Velocity vs. Throughput: Velocity ≠ productivity. Track actual completed work, not just effort points. Consider throughput if you use Kanban.
 
 ---------------------------------
 
