@@ -234,9 +234,12 @@ Fitbit didn’t just ride a trend—they created a new category: everyday wellne
 
    Best Example: Duolingo — LEarning Through UX (**Best USer Centered Design**): Language learning apps have existed forever, but most feel like homework. Duolingo flipped the model with relentless User-Centered Design, focusing on: Gamification that Actually Works and Inclusive, Accessible Design. Duolingo turned LAnguage LEarning for over 80 million monthly active users. Their design-led approach didn't just drive downloads, it fueled real habit formation, retention and INformative.
 
-5. Customer Discovery and Digital Transformation: It’s not just about adopting new tech — it's about **rethinking processes, experiences, and model**s for a digital-first world. AI plays a major role in DT enablement. 
+5. Customer Discovery and Digital Transformation: It’s not just about adopting new tech — it's about **rethinking processes, experiences, and model** for a digital-first world. AI plays a major role in DT enablement. 
 
-**FIntech Example : **Zerodha’s User-Centric Fintech Approach****
+**Example:** GE Power developed Predix, an industrial IoT platform, after discovering that power plant operators needed real-time analytics to reduce unplanned downtime.
+
+Another Recent Example:
+**Fintech : **Zerodha’s User-Centric Fintech Approach****
 
 Zerodha, India’s largest retail stock brokerage, started by identifying a key JTBD: simplify and reduce costs for retail investors. Instead of copying Western platforms, they ran discovery with Indian retail investors and learned:
             
@@ -248,7 +251,11 @@ Zerodha, India’s largest retail stock brokerage, started by identifying a key 
 
 6. Agile Methodology (Scrum, Kanban) - Agile isn’t just a methodology — it’s a mindset built on learning fast, iterating often, and continuously refining what matters most.
 
-In software development, whether using Scrum for structured sprints or Kanban for visual clarity, the goal remains consistent: deliver value through rapid, responsive iteration. Agile thrives on its core cycle — Discover, Define, Design, and Deliver — making it especially effective for leaders navigating, Normally encourages a different level of thinking and also uncertain and/or evolving roadmaps for Quality, Iterations, Testing and development. Bold and engaging explorations with thought leaders. AI has strong potential to thrive within Agile environments but doesn’t take initiative on its own due to biases and constraints. With the right Agile initiatives, that potential can be enabled easily — enabling AI to contribute iteratively, adaptively, and with purpose.
+In software development, whether using Scrum for structured sprints or Kanban for visual clarity, the goal remains consistent: deliver value through rapid, responsive iteration. Agile thrives on its core cycle — Discover, Define, Design, and Deliver — making it especially effective for leaders navigating, Normally encourages a different level of thinking and also still uncertain about status, evolving roadmaps for Quality, Iterations, Testing and development. AI has strong potential to thrive within Agile environments but doesn’t take initiative on its own due to biases and constraints. With the right Agile initiatives, that potential can be enabled easily — enabling AI to contribute iteratively, and adaptively. Agile can sometimes prolong processes, while AI tends to favor a more direct, and outcome-driven approach. When Agile meets AI ?. It requires adapting traditional iterative workflows to handle AI’s data-driven, experimental, and model-centric nature.
+
+**Scrum:** Time-boxed sprints, defined roles, and ceremonies to deliver iterative value with regular planning and feedback.
+
+**Kanban:** Visual workflow system focused on continuous delivery, limiting work in progress, and improving flow efficiency.
 
 Example: Agile/Lean approach, famously known as the **Spotify** Squad Framework. Spotify scaled globally while maintaining rapid feature releases — Discover Weekly, Wrapped, Podcasts, and social features emerged from this empowered, Agile-driven culture. They avoided typical “big company” slowdowns by keeping teams lean and user-focused.
 
@@ -270,7 +277,12 @@ For example, Toyota’s in-car voice navigation system went through dozens of it
 
 Meaning: Lean isn't just startup speak — it's embedded in Japan’s industrial DNA and influences digital product practices too.
 
-8, 9. Product Roadmapping - Process that links a product’s vision and goals to a clear plan of execution over time.
+8. Market Research and Opportunity Sizing: 
+
+<img width="1702" height="646" alt="image" src="https://github.com/user-attachments/assets/a7ee1c2f-912d-4162-937e-87b97ed6f364" />
+
+
+9. Product Roadmapping - Process that links a product’s vision and goals to a clear plan of execution over time.
 
 10. Product Vision & Strategy
 
