@@ -238,6 +238,8 @@ The primary goal of an MVP is risk reduction. Built to quickly test assumptions,
 
    Best Example: Duolingo — LEarning Through UX (**Best USer Centered Design**): Language learning apps have existed forever, but most feel like homework. Duolingo flipped the model with relentless User-Centered Design, focusing on: Gamification that Actually Works and Inclusive, Accessible Design. Duolingo turned LAnguage LEarning for over 80 million monthly active users. Their design-led approach didn't just drive downloads, it fueled real habit formation, retention and INformative.
 
+<img width="1197" height="132" alt="image" src="https://github.com/user-attachments/assets/5b078273-43c9-4cfd-bb6e-5ffd378e56dd" />
+
 
 **5. Customer Discovery and Digital Transformation:** It’s not just about adopting new tech — it's about **rethinking processes, experiences, and model** for a digital-first world. AI plays a major role in DT enablement. 
 
