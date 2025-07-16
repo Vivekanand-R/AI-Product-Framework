@@ -222,7 +222,7 @@ Financial & scale impact:
 
 Fitbit didn’t just ride a trend—they created a new category: everyday wellness wearables. Their PMF is defined by massive adoption, stickiness, and a validated commercial model.
 
-**2. Minimum Viable Product (MVP)** - The primary goal of an MVP is risk reduction. BUilt to quickly test assumptions, validate market demand, and gather feedback with minimal resources. Basic, functional version of a product that allows teams to test critical hypotheses with real users — without overcommitting resources upfront. In short, an MVP helps us to learn fast, fail cheap, and iterate smarter. 
+**2. Minimum Viable Product (MVP)** - The primary goal of an MVP is risk reduction. Built to quickly test assumptions, validate market demand, and gather feedback with minimal resources. Basic, functional version of a product that allows teams to test critical hypotheses with real users — without overcommitting resources upfront. In short, an MVP helps us to learn fast, fail cheap, and iterate smarter. 
 
 **3. User-Centered Design / UX Thinking**
 
@@ -239,12 +239,10 @@ Fitbit didn’t just ride a trend—they created a new category: everyday wellne
 
 **5. Customer Discovery and Digital Transformation:** It’s not just about adopting new tech — it's about **rethinking processes, experiences, and model** for a digital-first world. AI plays a major role in DT enablement. 
 
-**Example:** GE Power developed Predix, an industrial IoT platform, after discovering that power plant operators needed real-time analytics to reduce unplanned downtime.
-
 Another Recent Example:
 **Fintech : **Zerodha’s User-Centric Fintech Approach****
 
-Zerodha, India’s largest retail stock brokerage, started by identifying a key JTBD: simplify and reduce costs for retail investors. Instead of copying Western platforms, they ran discovery with Indian retail investors and learned:
+Zerodha, India’s largest retail stock brokerage, started by identifying a key JTBD: simplify and reduce costs for retail investors. They ran discovery with retail investors and learned:
             
             A. Pricing transparency mattered more than fancy dashboards. 
             B. Retail traders wanted simplified tools like Kite and Coin. 
@@ -315,6 +313,8 @@ Fastest Growing Healthcare Sub-Segments:
             F. Vision Communication Plan – Consistently share vision across teams and stakeholders.
             
             G. Vision-Driven Decision Making – Use the vision as a filter for prioritization and trade-offs.
+
+**Example:** GE Power developed Predix, an industrial IoT platform, after discovering that power plant operators needed real-time analytics to reduce unplanned downtime.
 
 **12. Feature Prioritization Frameworks** (Reach, Impact, Confidence and Efforts Framework, MoSCoW, Kano)
 
