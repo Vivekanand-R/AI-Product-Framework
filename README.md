@@ -238,8 +238,6 @@ Fitbit didn’t just ride a trend—they created a new category: everyday wellne
 
    Best Example: Duolingo — LEarning Through UX (**Best USer Centered Design**): Language learning apps have existed forever, but most feel like homework. Duolingo flipped the model with relentless User-Centered Design, focusing on: Gamification that Actually Works and Inclusive, Accessible Design. Duolingo turned LAnguage LEarning for over 80 million monthly active users. Their design-led approach didn't just drive downloads, it fueled real habit formation, retention and INformative.
 
-<img width="1300" height="675" alt="image" src="https://github.com/user-attachments/assets/bb39e820-3b57-4f31-9750-d2575804aaa0" />
-Ref: https://www.duolingo.com/
 
 **5. Customer Discovery and Digital Transformation:** It’s not just about adopting new tech — it's about **rethinking processes, experiences, and model** for a digital-first world. AI plays a major role in DT enablement. 
 
@@ -396,7 +394,7 @@ Focus: The data reflected the past, not emerging Common consumer Interests for s
 
 4. Shiny Object Syndrome:  Team often get distracted by new trends (AI, Web3, etc.). Filter noise from real opportunities, guiding leadership back to strategic focus without dropping enthusiasm.
 
-Example: Meta’s Pivot to the Metaverse: While immersive environments are intriguing, Meta's heavy investment in VR/AR metaverse spaces diverted focus from core product improvements. Adoption lagged, early hardware reviews underwhelmed, and real user traction is still elusive. Meanwhile, competitors captured attention elsewhere.
+Example: Meta’s Pivot to the Metaverse: While immersive environments are intriguing, Meta's heavy investment in VR/AR metaverse spaces diverted focus from core product improvements. Adoption lagged, early hardware reviews underwhelmed, and real user traction is still elusive. Meanwhile, competitors captured attention elsewhere. 
 
 5. Product-Market Fit is a Moving Target - Continuously validate fit, not assuming it's locked in.
 
