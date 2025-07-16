@@ -210,7 +210,7 @@ JPMorgan is one of the world’s largest daily payment flows—surpassing $10 
 
 **1. Product-Market Fit (PMF):**
 
-Healthcare Wearable: **Fitbit** achieved Product-Market Fit by tapping into rising consumer demand for personal health monitoring. Its wearable devices offered real-time insights into activity, sleep, and heart rate, creating daily habit loops and community engagement.
+Healthcare Wearable Example: **Fitbit** achieved Product-Market Fit by tapping into rising consumer demand for personal health monitoring. Its wearable devices offered real-time insights into activity, sleep, and heart rate, creating daily habit loops and community engagement.
 
 <img width="1363" height="272" alt="image" src="https://github.com/user-attachments/assets/e94649c1-18ad-4d44-af26-316b1c073b95" />
 
@@ -256,7 +256,7 @@ Zerodha, India’s largest retail stock brokerage, started by identifying a key 
 
 **6. Agile Methodology (Scrum, Kanban)** - Agile isn’t just a methodology — it’s a mindset built on learning fast, iterating often, and continuously refining what matters most.
 
-In software development, whether using Scrum for structured sprints or Kanban for visual clarity, the goal remains consistent: deliver value through rapid, responsive iteration. Agile thrives on its core cycle — Discover, Define, Design, and Deliver — making it especially effective for leaders navigating, Normally encourages a different level of thinking and also still uncertain about status, evolving roadmaps for Quality, Iterations, Testing and development. AI has strong potential to thrive within Agile environments but doesn’t take initiative on its own due to biases and constraints. With the right Agile initiatives, that potential can be enabled easily — enabling AI to contribute iteratively, and adaptively. Agile can sometimes prolong processes, while AI tends to favor a more direct, and outcome-driven approach. When Agile meets AI ?. It requires adapting traditional iterative workflows to handle AI’s data-driven, and model-centric nature.
+In software development, whether using Scrum for structured sprints or Kanban for visual clarity, the goal remains consistent: deliver value through rapid, responsive iteration. Agile thrives on its core cycle — Discover, Define, Design, and Deliver — making it especially effective for leaders navigating, Normally encourages a different level of thinking and also still uncertain about status, evolving roadmaps for Quality, Iterations, Testing and development. AI has strong potential to thrive within Agile environments but doesn’t take initiative on its own due to biases and constraints. With the right Agile initiatives, that potential can be enabled easily — enabling AI to contribute iteratively, and adaptively. Agile can sometimes prolong processes, while AI tends to favor a more direct, and outcome-driven approach. When Agile meets AI ?. It requires adapting modern iterative workflows to handle AI’s data-driven, and model-centric nature.
 
 **Scrum:** Time-boxed sprints, defined roles, and ceremonies to deliver iterative value with regular planning and feedback.
 
