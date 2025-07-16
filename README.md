@@ -284,10 +284,15 @@ Heathcare CAGR Rough Estimations:
 Fastest Growing Healthcare Sub-Segments:
 
 A. AI in Healthcare: 35–45% CAGR
+
 B. Digital Therapeutics (DTx): 20–30%
+
 C. Telemedicine / Telehealth: 18–25% CAGR
+
 D. Gene Therapy: 25–30% CAGR
+
 E. Wearables: 20–25% CAGR
+
 F. Cybersecurity for Healthcare: 17–22%
 
 (If below full image doesn't load properly, try refreshing the page— as GitHub may have timed out setup)
