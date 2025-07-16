@@ -222,11 +222,11 @@ Financial & scale impact:
 
 Fitbit didn’t just ride a trend—they created a new category: everyday wellness wearables. Their PMF is defined by massive adoption, stickiness, and a validated commercial model.
 
-**2. Minimum Viable Product (MVP): ** Mimimal Working Model
+**2. Minimum Viable Product (MVP):** Mimimal Working Model
 
 The primary goal of an MVP is risk reduction. Built to quickly test assumptions, validate market demand, and gather feedback with minimal resources. Basic, functional version of a product that allows teams to test critical hypotheses with real users — without overcommitting resources upfront. In short, an MVP helps us to learn fast, fail cheap, and iterate smarter. 
 
-**3. User-Centered Design / UX Thinking: ** Design Thinking
+**3. User-Centered Design / UX Thinking:** Design Thinking
 
              A. Understand real user needs before building,
              B. Engage users early and often: Before writing a single line of code, invest in understanding what problems users are actually trying to solve.
