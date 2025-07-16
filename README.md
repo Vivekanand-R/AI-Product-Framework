@@ -238,6 +238,9 @@ Fitbit didn’t just ride a trend—they created a new category: everyday wellne
 
    Best Example: Duolingo — LEarning Through UX (**Best USer Centered Design**): Language learning apps have existed forever, but most feel like homework. Duolingo flipped the model with relentless User-Centered Design, focusing on: Gamification that Actually Works and Inclusive, Accessible Design. Duolingo turned LAnguage LEarning for over 80 million monthly active users. Their design-led approach didn't just drive downloads, it fueled real habit formation, retention and INformative.
 
+<img width="1300" height="675" alt="image" src="https://github.com/user-attachments/assets/bb39e820-3b57-4f31-9750-d2575804aaa0" />
+Ref: https://www.duolingo.com/
+
 **5. Customer Discovery and Digital Transformation:** It’s not just about adopting new tech — it's about **rethinking processes, experiences, and model** for a digital-first world. AI plays a major role in DT enablement. 
 
 **Example:** GE Power developed Predix, an industrial IoT platform, after discovering that power plant operators needed real-time analytics to reduce unplanned downtime.
