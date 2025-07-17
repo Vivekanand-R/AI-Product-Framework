@@ -242,8 +242,8 @@ The Netherlands, with its high mobile bases and multiple SIM usage (especially a
 
             A. Digital health solutions (apps, wearables, telemedicine) can scale fast. Users already rely on smartphones as daily tools.
             B. The high smartphone penetration, brand dominance, and user engagement in the Netherlands directly **empower Samsung’s potential entry into the healthcare market.**
-            B. Samsung's hybrid ecosystem (hardware + software + wearables + AI) makes it uniquely positioned to offer preventive, diagnostic, and remote care solutions — all wrapped in a consumer-friendly UX.
-            C. Massive installed base for launching Samsung Health platform integrations, wearables (like Galaxy Watch), and partnerships with  health services.
+            C. Samsung's hybrid ecosystem (hardware + software + wearables + AI) makes it uniquely positioned to offer preventive, diagnostic, and remote care solutions — all wrapped in a consumer-friendly UX.
+            D. Massive installed base for launching Samsung Health platform integrations, wearables (like Galaxy Watch), and partnerships with  health services.
 
 **3. User-Centered Design / UX Thinking:** Design Thinking
 
