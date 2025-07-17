@@ -259,7 +259,10 @@ As a user, The Samsung Wave 525, which I bought back in 2010 (15 years ago), sti
 
    Best Example: Duolingo — LEarning Through UX (**Best User Centered Design**): Language learning apps have existed forever, but most feel like homework. Duolingo flipped the model with relentless User-Centered Design, focusing on: Gamification that Actually Works and Inclusive, Accessible Design. Duolingo turned LAnguage LEarning for over 80 million monthly active users. Their design-led approach didn't just drive downloads, it fueled real habit formation, retention and INformative.
 
-**5. Customer Discovery and Digital Transformation:** It’s not just about adopting new tech — it's about **rethinking processes, experiences, and model** for a digital-first world. AI plays a major role in DT enablement. 
+   <img width="1326" height="122" alt="image" src="https://github.com/user-attachments/assets/ecc00f9f-aed6-4ea1-9b6f-7425462f6fa4" />
+
+
+**4-5. Customer Discovery and Digital Transformation:** It’s not just about adopting new tech — it's about **rethinking processes, experiences, and model** for a digital-first world. AI plays a major role in DT enablement. 
 
 Another Recent Example:
 **Fintech : **Zerodha’s User-Centric Fintech Approach****
@@ -572,5 +575,6 @@ Example: Pharma company on a new product (cholesterol drug) before its patent ex
 5. https://www.coursera.org/specializations/advanced-digital-transformation-iima
 6. https://www.grandviewresearch.com/industry-analysis/europe-cyber-security-market-report
 7. Source: https://store.google.com/category/watches_trackers?hl=de&pli=1
-8. LLM's (For content review and refinement)
+8. https://www.duolingo.com/
+9. LLM's (For content review and refinement)
 
