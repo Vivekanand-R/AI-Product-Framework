@@ -234,11 +234,11 @@ Netherland For Example:
             B. Total mobile connections (approx-sample estimation):	25.3 million (138 % of pop., early 2025)
             C. Dutch smartphones e‑commerce market size (approx):	USD 1.32 billion (2025 forecast)
 
-In last few years, Samsung might have tested eSIM functionality globally (and in the Dutch) mid-range market by enabling it on select Galaxy series devices (such as the Galaxy A series), even though eSIM was primarily a flagship feature. This move allowed Samsung to gauge local demand for dual-SIM flexibility without launching a new product line.
+In last few years, Samsung might have tested eSIM functionality globally mid-range market by enabling it on select Galaxy series devices (such as the Galaxy A series), even though eSIM was primarily a flagship feature. This move allowed Samsung to gauge local demand for dual-SIM flexibility without launching a new product line.
 
-The Netherlands, with its high mobile bases and multiple SIM usage (especially among business users and digital nomads), provided the ideal testbed. By activating eSIM via software update for a limited user group and monitoring uptake through carrier partnerships and consumer feedback, valuable insights — all while keeping costs and development low.
+The Netherlands, with its high mobile bases and multiple SIM usage (especially among business users and digital nomads). Globally, By activating eSIM via software update for a limited user group and monitoring uptake through carrier partnerships and consumer feedback, valuable insights — all while keeping costs and development low.
 
-**Samsung’s potential entry and already active healthcare market.**    
+**Samsung’s potential future entry and already active healthcare market.**    
 
             A. Digital health solutions (apps, wearables, telemedicine) can scale fast. Users already rely on smartphones as daily tools.
             B. The high smartphone penetration, brand dominance, and user engagement in the Netherlands directly **empower Samsung’s potential entry into the healthcare market.**
