@@ -238,7 +238,7 @@ In last few years, Samsung might have tested eSIM functionality globally (and in
 
 The Netherlands, with its high mobile bases and multiple SIM usage (especially among business users and digital nomads), provided the ideal testbed. By activating eSIM via software update for a limited user group and monitoring uptake through carrier partnerships and consumer feedback, valuable insights — all while keeping costs and development low.
 
-As a user, The Samsung Wave 525, which I bought back in 2010 (15 years ago), still remains my all-time favorite phone - a great example of design thinking, especially in its smooth and intuitive sliding experience.
+As one of the millions of users, The Samsung Wave 525 connect, which I bought back in 2010 (15 years ago), still remains my all-time favorite phone - a great example of design thinking, especially in its smooth and intuitive sliding human experience. 
 
 **Samsung’s potential entry and already active healthcare market.**    
 
