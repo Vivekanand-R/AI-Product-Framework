@@ -238,8 +238,6 @@ In last few years, Samsung might have tested eSIM functionality globally (and in
 
 The Netherlands, with its high mobile bases and multiple SIM usage (especially among business users and digital nomads), provided the ideal testbed. By activating eSIM via software update for a limited user group and monitoring uptake through carrier partnerships and consumer feedback, valuable insights — all while keeping costs and development low.
 
-As one of the millions of users, The Samsung Wave 525 connect, which I bought back in 2010 (15 years ago), still remains my all-time favorite phone - a great example of design thinking, especially in its smooth and intuitive sliding human experience. 
-
 **Samsung’s potential entry and already active healthcare market.**    
 
             A. Digital health solutions (apps, wearables, telemedicine) can scale fast. Users already rely on smartphones as daily tools.
@@ -258,9 +256,6 @@ As one of the millions of users, The Samsung Wave 525 connect, which I bought ba
              H. Iterate based on real user feedback.
 
    Best Example: Duolingo — LEarning Through UX (**Best User Centered Design**): Language learning apps have existed forever, but most feel like homework. Duolingo flipped the model with relentless User-Centered Design, focusing on: Gamification that Actually Works and Inclusive, Accessible Design. Duolingo turned LAnguage LEarning for over 80 million monthly active users. Their design-led approach didn't just drive downloads, it fueled real habit formation, retention and INformative.
-
-   <img width="1326" height="122" alt="image" src="https://github.com/user-attachments/assets/ecc00f9f-aed6-4ea1-9b6f-7425462f6fa4" />
-
 
 **4-5. Customer Discovery and Digital Transformation:** It’s not just about adopting new tech — it's about **rethinking processes, experiences, and model** for a digital-first world. AI plays a major role in DT enablement. 
 
