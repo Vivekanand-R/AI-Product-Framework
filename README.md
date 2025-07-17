@@ -232,11 +232,14 @@ The primary goal of an MVP is risk reduction. Built to quickly test assumptions,
             B. Total mobile connections (approx-sample estimation):	25.3 million (138 % of pop., early 2025)
             C. Dutch smartphones e‑commerce market size (approx):	USD 1.32 billion (2025 forecast)
 
-In last few years, Samsung might have tested eSIM functionality globally (and in the Dutch) mid-range market by enabling it on select Galaxy series devices (such as the Galaxy A52s), even though eSIM was primarily a flagship feature. This move allowed Samsung to gauge local demand for dual-SIM flexibility without launching a new product line.
+In last few years, Samsung might have tested eSIM functionality globally (and in the Dutch) mid-range market by enabling it on select Galaxy series devices (such as the Galaxy A series), even though eSIM was primarily a flagship feature. This move allowed Samsung to gauge local demand for dual-SIM flexibility without launching a new product line.
 
-The Netherlands, with its high mobile penetration and multiple SIM usage (especially among business users and digital nomads), provided the ideal testbed. By activating eSIM via software update for a limited user group and monitoring uptake through carrier partnerships and consumer feedback, valuable insights — all while keeping costs and development low. This MVP might have approach helped Samsung determine how to scale eSIM across its broader portfolio, influencing decisions for future A-series models.
-            
-            A. The high smartphone penetration, brand dominance, and user engagement in the Netherlands directly **empower Samsung’s potential entry into the healthcare market.**
+The Netherlands, with its high mobile penetration and multiple SIM usage (especially among business users and digital nomads), provided the ideal testbed. By activating eSIM via software update for a limited user group and monitoring uptake through carrier partnerships and consumer feedback, valuable insights — all while keeping costs and development low.
+
+**Samsung’s potential entry into the healthcare market.**    
+
+            A. Digital health solutions (apps, wearables, telemedicine) can scale fast. Users already rely on smartphones as daily tools.
+            B. The high smartphone penetration, brand dominance, and user engagement in the Netherlands directly **empower Samsung’s potential entry into the healthcare market.**
             B. Samsung's hybrid ecosystem (hardware + software + wearables + AI) makes it uniquely positioned to offer preventive, diagnostic, and remote care solutions — all wrapped in a consumer-friendly UX.
             C. Massive installed base for launching Samsung Health platform integrations, wearables (like Galaxy Watch), and partnerships with  health services.
 
@@ -250,7 +253,7 @@ The Netherlands, with its high mobile penetration and multiple SIM usage (especi
              G. Collaborate,
              H. Iterate based on real user feedback.
 
-   Best Example: Duolingo — LEarning Through UX (**Best USer Centered Design**): Language learning apps have existed forever, but most feel like homework. Duolingo flipped the model with relentless User-Centered Design, focusing on: Gamification that Actually Works and Inclusive, Accessible Design. Duolingo turned LAnguage LEarning for over 80 million monthly active users. Their design-led approach didn't just drive downloads, it fueled real habit formation, retention and INformative.
+   Best Example: Duolingo — LEarning Through UX (**Best User Centered Design**): Language learning apps have existed forever, but most feel like homework. Duolingo flipped the model with relentless User-Centered Design, focusing on: Gamification that Actually Works and Inclusive, Accessible Design. Duolingo turned LAnguage LEarning for over 80 million monthly active users. Their design-led approach didn't just drive downloads, it fueled real habit formation, retention and INformative.
 
 **5. Customer Discovery and Digital Transformation:** It’s not just about adopting new tech — it's about **rethinking processes, experiences, and model** for a digital-first world. AI plays a major role in DT enablement. 
 
