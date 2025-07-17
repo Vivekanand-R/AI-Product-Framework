@@ -354,7 +354,11 @@ Fastest Growing Healthcare Sub-Segments:
 
 **GE's spin-off into three independent companies** —GE Aerospace, GE Vernova (energy), and GE HealthCare—aligns product vision with focused market verticals.
 
-Each business now drives its own strategy, innovation, and investment based on sector-specific needs. This structure enables clearer **product roadmaps, faster execution, and greater agility** in addressing industry-specific challenges and opportunities.
+Each business now drives its own strategy, innovation, and investment based on sector-specific needs. This structure enables clearer **product roadmaps, faster execution, and greater agility** in addressing industry-specific challenges and opportunities. **Realize stronger valuations and investor interest**, with market value surging to **~$340 billion collectively** — up from ~$60 billion in 2018.
+
+            A. GE Vernova (Energy): Delivers wind turbines (onshore/offshore), gas turbines, grid solutions, and digital energy software for power generation and decarbonization.
+            B. GE Aerospace: Produces jet engines (e.g., GE90, LEAP, GE9X), aviation systems, and engine services for commercial, military, and business aircraft.
+            C. GE HealthCare: Offers medical imaging systems (MRI, CT, ultrasound), patient monitoring, AI diagnostics, and hospital software platforms.
 
 **12. Feature Prioritization Frameworks** (Reach, Impact, Confidence and Efforts Framework, MoSCoW, Kano)
 
