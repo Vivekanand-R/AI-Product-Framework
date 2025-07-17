@@ -352,6 +352,10 @@ Fastest Growing Healthcare Sub-Segments:
 
 **Example:** GE Power developed Predix, an industrial IoT platform, after discovering that power plant operators needed real-time analytics to reduce unplanned downtime.
 
+**GE's spin-off into three independent companies** —GE Aerospace, GE Vernova (energy), and GE HealthCare—aligns product vision with focused market verticals.
+
+Each business now drives its own strategy, innovation, and investment based on sector-specific needs. This structure enables clearer **product roadmaps, faster execution, and greater agility** in addressing industry-specific challenges and opportunities.
+
 **12. Feature Prioritization Frameworks** (Reach, Impact, Confidence and Efforts Framework, MoSCoW, Kano)
 
 Workouts:
