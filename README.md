@@ -236,12 +236,12 @@ Netherland For Example:
 
 In last few years, Samsung might have tested eSIM functionality globally mid-range market by enabling it on select Galaxy series devices (such as the Galaxy A series), even though eSIM was primarily a flagship feature. This move allowed Samsung to gauge local demand for dual-SIM flexibility without launching a new product line.
 
-The Netherlands, with its high mobile bases and multiple SIM usage (especially among business users and digital nomads). Globally, By activating eSIM via software update for a limited user group and monitoring uptake through carrier partnerships and consumer feedback, valuable insights — all while keeping costs and development low.
+The Netherlands, with its high mobile bases and multiple SIM usage (especially among business users and digital nomads). Globally, By activating new features via software update for a limited user group and monitoring uptake through partnerships, consumer feedback, and valuable insights — all while keeping costs and development low.
 
 **Samsung’s potential future entry and already active healthcare market.**    
 
             A. Digital health solutions (apps, wearables, telemedicine) can scale fast. Users already rely on smartphones as daily tools.
-            B. The high smartphone penetration, brand dominance, and user engagement in the Netherlands directly **empower Samsung’s potential entry into the healthcare market.**
+            B. The high smartphone penetration, brand dominance, and user engagement directly **empower Samsung’s potential entry into the healthcare market.**
             C. Samsung's hybrid ecosystem (hardware + software + wearables + AI) makes it uniquely positioned to offer preventive, diagnostic, and remote care solutions — all wrapped in a consumer-friendly UX.
             D. Massive installed base for launching Samsung Health platform integrations, wearables (like Galaxy Watch), and partnerships with  health services.
 
@@ -570,6 +570,5 @@ Example: Pharma company on a new product (cholesterol drug) before its patent ex
 5. https://www.coursera.org/specializations/advanced-digital-transformation-iima
 6. https://www.grandviewresearch.com/industry-analysis/europe-cyber-security-market-report
 7. Source: https://store.google.com/category/watches_trackers?hl=de&pli=1
-8. https://www.duolingo.com/
-9. LLM's (For content review and refinement)
+8. LLM's (For content review and refinement)
 
