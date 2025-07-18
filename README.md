@@ -333,7 +333,7 @@ Fastest Growing Healthcare Sub-Segments:
             E. Wearables: 20–25% CAGR
             F. Cybersecurity for Healthcare: 17–22%
 
-(If below full image doesn't load properly, try refreshing the page— as GitHub may have idle timed out)
+(If below full image doesn't load properly, try refreshing the page— as GitHub may have idle time out)
 
 <img width="1702" height="646" alt="image" src="https://github.com/user-attachments/assets/a7ee1c2f-912d-4162-937e-87b97ed6f364" />
 
