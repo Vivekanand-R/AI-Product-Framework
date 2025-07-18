@@ -234,7 +234,7 @@ Netherland For Example:
             B. Total mobile connections (approx-sample estimation):	25.3 million (138 % of pop., early 2025)
             C. Dutch smartphones e‑commerce market size (approx):	USD 1.32 billion (2025 forecast)
 
-In last few years, Samsung might have tested eSIM functionality globally mid-range market by enabling it on select Galaxy series devices (such as the Galaxy A series), even though eSIM was primarily a flagship feature. This move allowed Samsung to gauge local demand for dual-SIM flexibility without launching a new product line.
+In last few years, Samsung have tested eSIM functionality globally mid-range market by enabling it on select Galaxy series devices (such as the Galaxy A series), even though eSIM was primarily a flagship feature. This move allowed Samsung to gauge local demand for dual-SIM flexibility without launching a new product line.
 
 The Netherlands, with its high mobile bases and multiple SIM usage (especially among business users and digital nomads). Globally, By activating new features via software update for a limited user group and monitoring uptake through partnerships, consumer feedback, and valuable insights — all while keeping costs and development low.
 
@@ -255,7 +255,13 @@ The Netherlands, with its high mobile bases and multiple SIM usage (especially a
              G. Collaborate,
              H. Iterate based on real user feedback.
 
-   Best Example: Duolingo — LEarning Through UX (**Best User Centered Design**): Language learning apps have existed forever, but most feel like homework. Duolingo flipped the model with relentless User-Centered Design, focusing on: Gamification that Actually Works and Inclusive, Accessible Design. Duolingo turned LAnguage LEarning for over 80 million monthly active users. Their design-led approach didn't just drive downloads, it fueled real habit formation, retention and INformative.
+Example 1: Designing a Patient-Centric Digital Treatment App for Diabetes Management
+
+In the healthcare sector, a pharmaceutical company partnered with a digital health team to develop a mobile application for patients with Type 2 Diabetes. The goal was to improve medication adherence, lifestyle tracking, and communication with healthcare providers.
+
+Some of the Impacts could be: xx% (30%) increase in medication adherence, | yy% 40% drop in missed appointments | Increase in patient satisfaction scores | Reduction in support center call volume
+
+Another Example 2: Duolingo — LEarning Through UX (**Best User Centered Design**): Language learning apps have existed forever, but most feel like homework. Duolingo flipped the model with relentless User-Centered Design, focusing on: Gamification that Actually Works and Inclusive, Accessible Design. Duolingo turned LAnguage LEarning for over 80 million monthly active users. Their design-led approach didn't just drive downloads, it fueled real habit formation, retention and INformative.
 
 **4-5. Customer Discovery and Digital Transformation:** It’s not just about adopting new tech — it's about **rethinking processes, experiences, and model** for a digital-first world. AI plays a major role in DT enablement. 
 
