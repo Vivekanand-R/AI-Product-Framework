@@ -445,9 +445,6 @@ It’s a functional interdependence where both sides play critical roles. Produc
             B. Factory (Asia): Manufactures the physical device and integrates firmware updates.
             C. PM Role: Ensures hardware design supports Alexa’s evolving software capabilities.
 
-**Pros and Cons of working in a Factory Based vs. Headquarters (HQ) Based Roles:**
-
-<img width="1112" height="365" alt="image" src="https://github.com/user-attachments/assets/da8f50b2-7c82-4ac0-b94b-df923a62cb2b" />
 
 25. Tech Debt Management: Intentional, not accidental. Schedule and prioritize it just like feature work. Tech debt ignored = future product failure.
 
