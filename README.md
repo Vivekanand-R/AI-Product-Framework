@@ -422,7 +422,28 @@ Example 2: Car Makers – “To enjoy driving, not just own a car.” → Offers
 
 23. Technical Understanding & Feasibility Assessment
 
-24. Organizational Design/Product Operations:
+**24. Organizational Design/Product Operations:**
+
+In Product Management, the difference between factory and HQ roles is viewed as a **division of responsibilities**, not a hierarchy. Factory roles are focused on **execution, manufacturing, quality control, and ensuring the product is built efficiently and reliably.**
+**HQ roles, including PMs, focus on strategy, roadmapping, user needs, and cross-functional alignment across business units.**
+
+The **factory executes** on the product plan; the **HQ defines** what that plan should be.
+
+The factory provides feedback on feasibility, timelines, and technical limitations. HQ integrates that feedback into strategic decisions, timelines, and customer-facing commitments.
+
+It’s a functional interdependence where both sides play critical roles. Product success happens when HQ and factory operate in sync, not in silos.
+
+**Example 1: Tesla (EV Production)**
+            
+            A. HQ (Palo Alto): Defines vehicle specs, autonomous features, software integrations, and pricing.
+            B. Factory (Gigafactories): Builds the car, integrates hardware, and ensures battery supply chain stability.
+            C. PM Role: Coordinates between hardware engineering, software teams, and plant ops for rollout.
+
+**Example 2: Amazon (Echo Devices)**
+
+            A. HQ (Seattle): Decides which features (e.g. better voice recognition) go into the next Echo.
+            B. Factory (Asia): Manufactures the physical device and integrates firmware updates.
+            C. PM Role: Ensures hardware design supports Alexa’s evolving software capabilities.
 
 **Pros and Cons of working in a Factory Based vs. Headquarters (HQ) Based Roles:**
 
