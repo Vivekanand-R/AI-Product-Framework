@@ -422,11 +422,16 @@ Example 2: Car Makers – “To enjoy driving, not just own a car.” → Offers
 
 23. Technical Understanding & Feasibility Assessment
 
-24. Tech Debt Management: Intentional, not accidental. Schedule and prioritize it just like feature work. Tech debt ignored = future product failure.
+24. Organuizational Design:
 
-25. Cognitive Load Awareness: Protect the team’s bandwidth. Too many simultaneous priorities kill focus and degrade quality.
+<img width="1112" height="365" alt="image" src="https://github.com/user-attachments/assets/da8f50b2-7c82-4ac0-b94b-df923a62cb2b" />
 
-26. Velocity vs. Throughput: Velocity ≠ productivity. Track actual completed work, not just effort points. Consider throughput if you use Kanban.
+
+25. Tech Debt Management: Intentional, not accidental. Schedule and prioritize it just like feature work. Tech debt ignored = future product failure.
+
+26. Cognitive Load Awareness: Protect the team’s bandwidth. Too many simultaneous priorities kill focus and degrade quality.
+
+27. Velocity vs. Throughput: Velocity ≠ productivity. Track actual completed work, not just effort points. Consider throughput if you use Kanban.
 
 ---------------------------------
 
