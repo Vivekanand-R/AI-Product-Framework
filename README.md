@@ -422,10 +422,11 @@ Example 2: Car Makers – “To enjoy driving, not just own a car.” → Offers
 
 23. Technical Understanding & Feasibility Assessment
 
-24. Organuizational Design:
+24. Organizational Design/Product Operations:
+
+**Pros and Cons of working in a Factory Based vs. Headquarters (HQ) Based Roles:**
 
 <img width="1112" height="365" alt="image" src="https://github.com/user-attachments/assets/da8f50b2-7c82-4ac0-b94b-df923a62cb2b" />
-
 
 25. Tech Debt Management: Intentional, not accidental. Schedule and prioritize it just like feature work. Tech debt ignored = future product failure.
 
