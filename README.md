@@ -490,7 +490,7 @@ Reference from Harvard Business Review 2009: https://store.hbr.org/product/lean-
 
 -----------------
 
-**Difference between Industrialist vs Businessman:-**
+**Industrialist vs Businessman:-**
 
 **A businessman** is a broad term for anyone engaged in commercial, profit-oriented activities—whether it’s trading, services, or manufacturing.
 
