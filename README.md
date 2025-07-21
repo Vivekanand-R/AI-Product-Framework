@@ -291,7 +291,6 @@ Example: Agile/Lean approach, famously known as the **Spotify** Squad Framework.
             C. Lightweight Process: Minimal bureaucracy, rapid user-focused releases. and            
             D. Kanban & Scrum Hybrid: Teams choose frameworks that fit — no rigid playbook.
 
-
 These are rooted in Agile values, Scrum, XP, Kanban, or Lean Software Development:
             
             A. Continuous Delivery, 
@@ -343,17 +342,11 @@ Fastest Growing Healthcare Sub-Segments:
 10. **Product Vision & Strategy**
 
             A. Market Problem Definition – Articulate the core user needs.
-            
             B. Long-Term Product Mission – Define the product’s aspirational, future-state goal.
-            
             C. Unique Value Proposition – Establish how product stands apart competitively.
-            
             D. Strategic Differentiators – Highlight key features or capabilities that create advantage.
-            
             E. Alignment with Company Goals – Ensure product vision supports broader business objectives.
-            
             F. Vision Communication Plan – Consistently share vision across teams and stakeholders.
-            
             G. Vision-Driven Decision Making – Use the vision as a filter for prioritization and trade-offs.
 
 **Example:** GE Power developed Predix, an industrial IoT platform, after discovering that power plant operators needed real-time analytics to reduce unplanned downtime.
