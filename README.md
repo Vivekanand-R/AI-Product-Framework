@@ -597,7 +597,7 @@ Example: Pharma company on a new product (cholesterol drug) before its patent ex
 ![image](https://github.com/user-attachments/assets/df93a88e-5e3b-4ebc-b3d8-7596bb4f443c)
 
 
-An industrialist who specifically owns or operates industrial enterprises — typically large-scale manufacturing, heavy industries, or production-based businesses. Typically associated with large-scale operations, plants, or factories. Has influence beyond business — sometimes in policy, employment generation, or infrastructure development. Ratan Tata (Tata Group), Elon Musk (Tesla/SpaceX), and Lakshmi Mittal (ArcelorMittal) are industrialists.
+An industrialist who specifically owns or operates industrial enterprises — typically large-scale manufacturing, heavy industries, or production-based businesses. Typically associated with large-scale operations, plants, or factories. Has influence beyond business — sometimes in policy, employment generation, or infrastructure development. 
 
 **References**: 
 1. https://www.coursera.org/
