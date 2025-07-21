@@ -494,11 +494,11 @@ Reference from Harvard Business Review 2009: https://store.hbr.org/product/lean-
 
 **A businessman** is a broad term for anyone engaged in commercial, profit-oriented activities—whether it’s trading, services, or manufacturing.
 
-Example: A person running a chain of restaurants or a digital marketing agency is a businessman. The person who was hired externally very recently, will always hire external candiates just to secure his high profile job is an businessman. 
+Example: A person running a chain of restaurants or a digital marketing agency is a businessman. Focus is on profit-making, market share, and financial growth.
 
 Focus: Profit, sales, services, trade. Economic Role: Market Participant
 
-**An industrialist** is a type of businessman who specifically owns or operates industrial enterprises — typically large-scale manufacturing, heavy industries, or production-based businesses.
+**An industrialist** is a type of businessman who specifically owns or operates industrial enterprises — typically large-scale manufacturing, heavy industries, or production-based businesses. Typically associated with large-scale operations, plants, or factories. Has influence beyond business — sometimes in policy, employment generation, or infrastructure development.
 
 Example: Ratan Tata (Tata Group), Elon Musk (Tesla/SpaceX), and Lakshmi Mittal (ArcelorMittal) are industrialists.
 
