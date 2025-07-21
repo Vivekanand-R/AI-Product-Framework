@@ -488,6 +488,22 @@ Reference from Harvard Business Review 2009: https://store.hbr.org/product/lean-
 
 28. Velocity vs. Throughput: Velocity ≠ productivity. Track actual completed work, not just effort points. Consider throughput if you use Kanban.
 
+-----------------
+
+**Difference between Industrialist vs Businessman:-**
+
+**A businessman** is a broad term for anyone engaged in commercial, profit-oriented activities—whether it’s trading, services, or manufacturing.
+
+Example: A person running a chain of restaurants or a digital marketing agency is a businessman. The person who was hired externally very recently, will always hire external candiates just to secure his high profile job is an businessman. 
+
+Focus: Profit, sales, services, trade. Economic Role: Market Participant
+
+**An industrialist** is a type of businessman who specifically owns or operates industrial enterprises — typically large-scale manufacturing, heavy industries, or production-based businesses.
+
+Example: Ratan Tata (Tata Group), Elon Musk (Tesla/SpaceX), and Lakshmi Mittal (ArcelorMittal) are industrialists.
+
+Focus: Production, manufacturing, infrastructure. Economic Role: Key player in economic/industrial growth
+
 ---------------------------------
 
 Develop a successful digital product - Biases and Successful Validation:
