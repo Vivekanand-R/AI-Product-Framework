@@ -457,14 +457,6 @@ It’s a functional interdependence where both sides play critical roles. Produc
             B. Metric: Strives for no more than 3.4 defects per million opportunities.
             C. Key Tools: DMAIC (Define, Measure, Analyze, Improve, Control), statistical analysis, control charts, regression, etc.
 
-Use Case: GE (General Electric) famously embraced Six Sigma under CEO Jack Welch in the 1990s. Application: Across divisions like aircraft engines and healthcare devices, GE used Six Sigma to reduce defect rates and improve customer satisfaction.
-
-Impact:
-            A. Saved billions in operational costs.
-            B. Created a company-wide culture of process control and quality measurement.
-            C. Required all managers to become Six Sigma certified (e.g., Green Belt, Black Belt).
-
-GE used Six Sigma primarily to reduce defects, control process variation, and make data-driven decisions.
 
 **27 B. Lean Manufacturing** Goal: Eliminate waste and maximize value for the customer.
 
@@ -475,16 +467,6 @@ GE used Six Sigma primarily to reduce defects, control process variation, and ma
 
 Focus: Quality improvement and consistency.
 
-Use Cases/Example: Cleveland Clinic in US, What They Did: Implemented Lean across multiple departments including cardiology, oncology, and patient scheduling.
-
-Focused on streamlining appointment systems, reducing duplicate lab work, and improving room utilization.
-
-Outcomes:
-            A. Reduced appointment wait times for new patients by over 30%.
-            B. Increased throughput in high-demand services like imaging and testing.
-            C. Enhanced patient satisfaction by reducing idle time and improving predictability.
-
-Reference from Harvard Business Review 2009: https://store.hbr.org/product/lean-process-improvements-at-cleveland-clinic/W87C95
 
 28. Velocity vs. Throughput: Velocity ≠ productivity. Track actual completed work, not just effort points. Consider throughput if you use Kanban.
 
