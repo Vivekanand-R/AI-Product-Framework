@@ -598,5 +598,5 @@ An industrialist who specifically owns or operates industrial enterprises — ty
 5. https://www.coursera.org/specializations/advanced-digital-transformation-iima
 6. https://www.grandviewresearch.com/industry-analysis/europe-cyber-security-market-report
 7. Source: https://store.google.com/category/watches_trackers?hl=de&pli=1
-8. LLM's (For content review and refinement - Few examples generated with the help of LLM for conceptual understanding)
+8. LLM's (For content review and refinement - Few examples generated with the help of LLM for conceptual understanding.)
 
