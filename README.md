@@ -297,9 +297,9 @@ These are rooted in Agile values, Scrum, XP, Kanban, or Lean Software Developmen
             B. Iterative Development
             C. Backlog Grooming / Refinement
             E. Definition of Ready / Done
-            F. Story Mapping
-            G. Agile Estimation (Story Points, T-Shirt Sizes)
-            H. Timeboxing
+            F. Story Mapping, G. Agile Estimation (Story Points, T-Shirt Sizes)
+            H. Timeboxing, I. Velocity vs. Throughput, J. Dual-Track Agile
+            K. Incremental Architecture, L. Retrospective Actioning / Root Cause Analysis, and M. Feature Flags & Progressive Delivery.
 
 
 **7. Lean Product Development**
@@ -378,9 +378,9 @@ BYD competition Tesla’s playbook — it built a localized, bottom-up GTM strat
             B. Vertical Integration (BYD produces its own batteries (Blade Battery), semiconductors, and motors — enabling cost control and rapid scaling). 
             C. Global Expansion via Strategic Markets.
 
-Result: As of 2024, BYD surpassed Tesla in global EV sales volume, with over 3 million vehicles delivered annually, and is now exporting aggressively.
+Result: As of 2024, BYD surpassed Tesla in global EV sales volume, with over 3 million vehicles delivered annually, and is now exporting.
 
-**14. Jobs to Be Done (JTBD):-** This is a **framework and mindset** used in product management to understand why users “hire” a product — not what features they want, but **what outcome they’re trying to achieve** in a real-world context.
+**14. Jobs to Be Done (JTBD):-** This is a **framework and mindset** used in product management to understand why users “hire” a product — not what features they want, but what outcome they’re trying to achieve in a real-world context.
 
 Beyond Germany's well-known strengths in engineering:
 
@@ -413,7 +413,7 @@ Example 2: Car Makers – “To enjoy driving, not just own a car.” → Offers
 In Product Management, the difference between factory and HQ roles is viewed as a division of responsibilities. Factory roles are focused on **execution, manufacturing, quality control, and ensuring the product is built efficiently and reliably.**
 **HQ roles, including PMs, focus on strategy, roadmapping, user needs, and cross-functional alignment across business units.**
 
-The **factory executes** on the product plan; the **HQ defines** what that plan should be.
+The factory executes on the product plan; the HQ define what that plan should be.
 
 The factory provides feedback on feasibility, timelines, and technical limitations. HQ integrates that feedback into strategic decisions, timelines, and customer-facing commitments.
 
@@ -516,11 +516,8 @@ C. Talent reshuffling, Big Pipeline or long term contracts, Stock Buyback or Val
 Common frameworks to optimize pricing-and thus improve margins-include:
 
       A. Cost-Plus Pricing: Adding a markup to the cost.
-      
       B. Value-Based Pricing: Pricing based on perceived customer value.
-      
       C. Competitor-Based Pricing: Setting prices relative to competitors.
-      
       D. Customer Segmentation & Willingness to Pay: Tailoring prices to different customer groups.
 
 ![image](https://github.com/user-attachments/assets/677e3cf5-5f65-4cd9-8df2-8c896f570f2d)
