@@ -77,7 +77,7 @@
     
           Strategy: Alignment, Realities (Government Regulations, Compliance, Resource Allocations and Unforeseen Factors)
     
-          Generic: Empathy, Business Challenges, Curiousity, Well Versed, Competition, and Key KPI's.
+          Generic: Business Challenges, Curiousity, Well Versed, Competition, and Key KPI's.
     
           Other Focus: Pricing, Strategic Planning, Monitization and End to End Business Model. 
 
