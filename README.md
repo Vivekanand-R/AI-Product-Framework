@@ -453,6 +453,16 @@ It’s a functional interdependence where both sides play critical roles. Produc
 
 Focus: Quality improvement and consistency.
 
+27. Business-to-Business/Business-to-Consumer: (B2B vs B2C)
+
+ GE Healthcare’s B2B Side:
+   B2B: Focus on Large Medical Equipment: GE HealthCare is best known for its imaging and diagnostic machines, like MRI and CT scanners, ultrasound systems, X-ray machines, and other large-scale hospital equipment. Also provides healthcare IT solutions, like digital imaging software and data analytics for hospitals.
+
+Abbott has a blend of B2B and B2C operations: 
+   Abbott’s B2B: Diagnostics and Lab Equipment: Products like the Alinity systems or i-STAT analyzers are sold directly to hospitals, clinics, and labs. This is a classic B2B model, where Abbott provides solutions that healthcare professionals use.
+
+   Abbott’s B2C: Nutrition Products: Brands like Ensure, Pedialyte, and Similac are sold directly to consumers through pharmacies, supermarkets, and online retailers. This is a strong B2C channel where Abbott markets directly to end-users. Abbott’s range includes both small, patient-centric devices and lab instruments. Abbott also has a strong consumer health and nutrition division
+   
 28. Velocity vs. Throughput: Velocity ≠ productivity. Track actual completed work, not just effort points. Consider throughput if you use Kanban.
 
 ---------------------------------
