@@ -435,16 +435,26 @@ It’s a functional interdependence where both sides play critical roles. Produc
 
 26. Cognitive Load Awareness: Protect the team’s bandwidth. Too many simultaneous priorities kill focus and degrade quality.
 
-27. Six Sigma and Lean Manufacturing: Methodologies aimed at improving business processes, especially in manufacturing and operations, with different focuses:
+**27. Business-to-Business/Business-to-Consumer: (B2B vs B2C)**
 
-**27 A. Six Sigma** Goal: Reduce defects and variability in processes.
+ GE Healthcare’s B2B:
+   Focus on Large Medical Equipment: GE HealthCare is best known for its imaging and diagnostic machines, like MRI and CT scanners, ultrasound systems, X-ray machines, and other large-scale hospital equipment. Also provides healthcare IT solutions, like digital imaging software and data analytics for hospitals.
+
+Abbott has a blend of B2B and B2C operations: 
+   Abbott’s B2B: Diagnostics and Lab Equipment: Products like the Alinity systems or i-STAT analyzers are sold directly to hospitals, clinics, and labs. This is a classic B2B model, where Abbott provides solutions that healthcare professionals use.
+
+   Abbott’s B2C: Nutrition Products: Brands like Ensure, Pedialyte, and Similac are sold directly to consumers through pharmacies, supermarkets, and online retailers. This is a strong B2C channel where Abbott markets directly to end-users. Abbott’s range includes both small, patient-centric devices and lab instruments. Abbott also has a strong consumer health and nutrition division.
+
+28. Six Sigma and Lean Manufacturing: Methodologies aimed at improving business processes, especially in manufacturing and operations, with different focuses:
+
+**28 A. Six Sigma** Goal: Reduce defects and variability in processes.
 
             A. Core Idea: Use data-driven and statistical methods to identify and eliminate causes of errors or defects.
             B. Metric: Strives for no more than 3.4 defects per million opportunities.
             C. Key Tools: DMAIC (Define, Measure, Analyze, Improve, Control), statistical analysis, control charts, regression, etc.
 
 
-**27 B. Lean Manufacturing** Goal: Eliminate waste and maximize value for the customer.
+**28 B. Lean Manufacturing** Goal: Eliminate waste and maximize value for the customer.
 
             A. Core Idea: Focus on what the customer values, and remove anything that doesn’t contribute to that value (waste).
             B. Types of Waste Identified (Lean's 7+ wastes): Overproduction, waiting, transport, extra processing, inventory, motion, defects, and underutilized talent.
@@ -452,18 +462,8 @@ It’s a functional interdependence where both sides play critical roles. Produc
             D. Focus: Speed, efficiency, and flow.
 
 Focus: Quality improvement and consistency.
-
-27. Business-to-Business/Business-to-Consumer: (B2B vs B2C)
-
- GE Healthcare’s B2B Side:
-   B2B: Focus on Large Medical Equipment: GE HealthCare is best known for its imaging and diagnostic machines, like MRI and CT scanners, ultrasound systems, X-ray machines, and other large-scale hospital equipment. Also provides healthcare IT solutions, like digital imaging software and data analytics for hospitals.
-
-Abbott has a blend of B2B and B2C operations: 
-   Abbott’s B2B: Diagnostics and Lab Equipment: Products like the Alinity systems or i-STAT analyzers are sold directly to hospitals, clinics, and labs. This is a classic B2B model, where Abbott provides solutions that healthcare professionals use.
-
-   Abbott’s B2C: Nutrition Products: Brands like Ensure, Pedialyte, and Similac are sold directly to consumers through pharmacies, supermarkets, and online retailers. This is a strong B2C channel where Abbott markets directly to end-users. Abbott’s range includes both small, patient-centric devices and lab instruments. Abbott also has a strong consumer health and nutrition division
    
-28. Velocity vs. Throughput: Velocity ≠ productivity. Track actual completed work, not just effort points. Consider throughput if you use Kanban.
+29. Velocity vs. Throughput: Velocity ≠ productivity. Track actual completed work, not just effort points. Consider throughput if you use Kanban.
 
 ---------------------------------
 
