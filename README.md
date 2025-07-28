@@ -313,7 +313,7 @@ Toyota’s lean philosophy didn't stop at factories — it influenced global pro
 
 For example, Toyota’s in-car voice navigation system went through dozens of iterations in Japan using real commuter behavior — focusing on accuracy, tone, and cultural cues rather than flashy UI.
 
-Meaning: Lean isn't just startup speak — it's embedded in Japan’s industrial DNA and influences digital product practices too.
+Meaning: Lean isn't just startup speak — it's embedded in Japan’s industrial process and influences digital product practices too.
 
 **8. Market Research and Opportunity Sizing:**
 
