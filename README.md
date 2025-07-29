@@ -570,9 +570,9 @@ E. Key role in cross-functional teams handling technical, and marketing aspects 
 
 **Other Concepts:**
 
-**Monopoly: Core Concept**
+Apart from **visionary leadership, technological innovation, relentless execution, groundbreaking products or services, long-term investments, bold risks, and a deep understanding of user needs**, sometimes market position can evolve into a state where they face little to no competition, either temporarily or structurally. This naturally brings us to the economic concept of a monopoly.
 
-A monopoly is a market structure where a single seller dominates the entire market for a product or service with no close substitutes. Price maker, meaning it has substantial control over pricing, output, and market conditions—something that’s impossible in more competitive markets.
+Monopoly: Core Concept:- Market structure where a single seller dominates the entire market for a product or service with no close substitutes. Price maker, meaning it has substantial control over pricing, output, and market conditions—something that’s impossible in more competitive markets.
 
 1. Natural Monopoly: Utilities (e.g., Electricity, Water) : Local electric utilities, Regulated.
 2. Patented: For Example Pharmaceuticals.
@@ -592,6 +592,8 @@ Example: Pharma company on a new product (cholesterol drug) before its patent ex
 
 ![image](https://github.com/user-attachments/assets/d5daa482-c2cb-4880-bd8d-747b5d2bea6e)
 
+
+**Market Leader:**
 
 **2025:**
 
