@@ -572,25 +572,9 @@ E. Key role in cross-functional teams handling technical, and marketing aspects 
 
 Apart from **visionary leadership, technological innovation, relentless execution, groundbreaking products or services, long-term investments, bold risks, and a deep understanding of user needs**, sometimes market position can evolve into a state where they face little to no competition, either temporarily or structurally. This naturally brings us to the economic concept of a monopoly.
 
-Monopoly: Core Concept:- Market structure where a single seller dominates the entire market for a product or service with no close substitutes. Price maker, meaning it has substantial control over pricing, output, and market conditions—something that’s impossible in more competitive markets.
+Monopoly: Core Concept:- Market structure where a single seller might dominates the market for a product or service with no close substitutes. Price maker, meaning it has substantial control over pricing, output, and market conditions—something that’s impossible in more competitive markets. 
 
-1. Natural Monopoly: Utilities (e.g., Electricity, Water) : Local electric utilities, Regulated.
-2. Patented: For Example Pharmaceuticals.
-3. Technological: Owning proprietary technology, know-how, or algorithms that no other firm can replicate. (Google (search), NVIDIA (GPUs) in early AI stages)
-4. Geographic Monopoly
-   
-Example: Pharma company on a new product (cholesterol drug) before its patent expired. Why It’s a Monopoly: Patent laws grant exclusive rights to sell a drug for a period (usually 20 years).
-
-5. Platform Monopoly (Near-Monopoly): Google in Search.
-   
-   Example 1: Google controls over 90% of global search engine market share. Why It’s a Monopoly: Network effects (more users = better data = better product), high switching costs, and dominance in ads.
-   Example 2: Used OS dominance to restrict competition in browser market
-   
-6. Resource Monopoly: De Beers and Diamonds. De Beers once controlled 85–90% of the global rough diamond supply.
-
-**Real World Examples:**
-
-![image](https://github.com/user-attachments/assets/d5daa482-c2cb-4880-bd8d-747b5d2bea6e)
+1. Natural Monopoly, 2. Patented, 3. Technological, 4. Geographic, 5. Platform (Near-Monopoly), 6. Resource
 
 
 **Market Leader:**
