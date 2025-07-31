@@ -394,7 +394,7 @@ Example 2: Car Makers – “To enjoy driving, not just own a car.” → Offers
 
 **16. Product Analytics & KPIs (AARRR, DAU/MAU, NPS)**
 
-17. User Feedback Loops
+**17. User Feedback Loops
 
 18. Stakeholder Management
 
@@ -402,7 +402,7 @@ Example 2: Car Makers – “To enjoy driving, not just own a car.” → Offers
 
 20. Competitive Analysis
 
-21. Product Lifecycle Management
+21. Product Lifecycle Management**
 
 **22. OKRs (Objectives and Key Results) for Product Teams:** 1. Objectives define what to achieve — ambitious, qualitative, and outcome-focused. 2. At least, Key Results specify how to measure success — quantifiable, time-bound, and trackable.
 
