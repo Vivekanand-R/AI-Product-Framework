@@ -509,7 +509,7 @@ C. Talent reshuffling, Big Pipeline or long term contracts, Stock Buyback or Val
 ![image](https://github.com/user-attachments/assets/f0212342-820a-472e-aa89-92e8efb5fed2)
 
 
-****Concept 3:** **S&P 500: Best Practices: Ways to Improve Sales Margin:**
+**Concept 3:** **S&P 500: Best Practices: Ways to Improve Sales Margin:**
 
 1. Define Prices Strategically: Product or Services, Supply and Demand. 
 2. Cut Low-Value Costs: Supplier negotiation, identify waste, get rid of over-engineered features, unnecessary expenses, inefficient advertisements, automating repetitive tasks, enhance operational efficiency, Inventory Management to avoid over stocking.
