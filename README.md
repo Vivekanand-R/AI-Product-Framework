@@ -463,7 +463,7 @@ Abbott has a blend of B2B and B2C operations:
 
 Focus: Quality improvement and consistency.
    
-29. Velocity vs. Throughput: Velocity ≠ productivity. Track actual completed work, not just effort points. Consider throughput if you use Kanban.
+**29. Velocity vs. Throughput:** Velocity ≠ productivity. Track actual completed work, not just effort points. Consider throughput if you use Kanban.
 
 ---------------------------------
 
@@ -494,7 +494,7 @@ Example: Meta’s Pivot to the Metaverse: While immersive environments are intri
 
 **Generic Concept 1:** 
 
-**Scenarios :** **Best Practices for S&P 500 in 2025-30's:**
+**Scenarios :** **Best Practices for S&P 500 in 2025-2030's:**
 
 A. Digital Transformation Push, pivoting hard into AI, SaaS, or cloud-native platforms. 
 
@@ -502,7 +502,7 @@ B. Integration of Newly Acquired Companies if any, AI R&D Investments (External 
 
 C. Talent reshuffling, Big Pipeline or long term contracts, Stock Buyback or Value Recovery, or Betting on AI. 
 
-**Generic Concept 2:** 
+**Concept 2:** 
 
 **S&P 500: General Pros and cons of acquiring a new company vs. investing internally:**
 
@@ -516,7 +516,6 @@ C. Talent reshuffling, Big Pipeline or long term contracts, Stock Buyback or Val
 3. Upsell & Cross-Sell Efficiently: To suggest higher tier products, Increase Customer Retention, Lead Gen. 
 4. Target High-Margin Customer Segments.
 5. Lean or Automate and Streamline Sales Operations effectively. 
-
 
 -----------------------------------------
 **Pricing Strategies:**
