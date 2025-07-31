@@ -394,19 +394,19 @@ Example 2: Car Makers – “To enjoy driving, not just own a car.” → Offers
 
 **16. Product Analytics & KPIs (AARRR, DAU/MAU, NPS)**
 
-**17. User Feedback Loops
+**17. User Feedback Loops**
 
-18. Stakeholder Management
+**18. Stakeholder Management**
 
-19. Cross-functional Collaboration
+**19. Cross-functional Collaboration**
 
-20. Competitive Analysis
+**20. Competitive Analysis**
 
-21. Product Lifecycle Management**
+**21. Product Lifecycle Management**
 
 **22. OKRs (Objectives and Key Results) for Product Teams:** 1. Objectives define what to achieve — ambitious, qualitative, and outcome-focused. 2. At least, Key Results specify how to measure success — quantifiable, time-bound, and trackable.
 
-23. Technical Understanding & Feasibility Assessment
+**23. Technical Understanding & Feasibility Assessment**
 
 **24. Organizational Design/Product Operations:**
 
@@ -431,9 +431,9 @@ It’s a functional interdependence where both sides play critical roles. Produc
             B. Factory (Asia): Manufactures the physical device and integrates firmware updates.
             C. PM Role: Ensures hardware design supports Alexa’s evolving software capabilities.
 
-25. Tech Debt Management: Intentional, not accidental. Schedule and prioritize it just like feature work. Tech debt ignored = future product failure.
+**25. Tech Debt Management:** Intentional, not accidental. Schedule and prioritize it just like feature work. Tech debt ignored = future product failure.
 
-26. Cognitive Load Awareness: Protect the team’s bandwidth. Too many simultaneous priorities kill focus and degrade quality.
+**26. Cognitive Load Awareness:** Protect the team’s bandwidth. Too many simultaneous priorities kill focus and degrade quality.
 
 **27. Business-to-Business/Business-to-Consumer: (B2B vs B2C)**
 
@@ -445,7 +445,7 @@ Abbott has a blend of B2B and B2C operations:
 
    Abbott’s B2C: Nutrition Products: Brands like Ensure, Pedialyte, and Similac are sold directly to consumers through pharmacies, supermarkets, and online retailers. This is a strong B2C channel where Abbott markets directly to end-users. Abbott’s range includes both small, patient-centric devices and lab instruments. Abbott also has a strong consumer health and nutrition division.
 
-28. Six Sigma and Lean Manufacturing: Methodologies aimed at improving business processes, especially in manufacturing and operations, with different focuses:
+**28. Six Sigma and Lean Manufacturing:** Methodologies aimed at improving business processes, especially in manufacturing and operations, with different focuses:
 
 **28 A. Six Sigma** Goal: Reduce defects and variability in processes.
 
