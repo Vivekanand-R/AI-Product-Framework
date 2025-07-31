@@ -259,7 +259,7 @@ Example 1: Designing a Patient-Centric Digital Treatment App for Diabetes Manage
 
 In the healthcare sector, a pharmaceutical company partnered with a digital health team to develop a mobile application for patients with Type 2 Diabetes. The goal was to improve medication adherence, lifestyle tracking, and communication with healthcare providers.
 
-Some of the Impacts could be: xx% (30%) increase in medication adherence, | yy% 40% drop in missed appointments | Increase in patient satisfaction scores | Reduction in support center call volume
+Some of the Impacts could be: xx% increase in medication adherence, | yy% drop in missed appointments | Increase in patient satisfaction scores | Reduction in support center call volume
 
 Another Example 2: Duolingo — LEarning Through UX (**Best User Centered Design**): Language learning apps have existed forever, but most feel like homework. Duolingo flipped the model with relentless User-Centered Design, focusing on: Gamification that Actually Works and Inclusive, Accessible Design. Duolingo turned Language Learning for over 80 million monthly active users. Their design-led approach didn't just drive downloads, it fueled real habit formation, retention and INformative.
 
