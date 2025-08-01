@@ -63,7 +63,7 @@
    
 -----------------------------------------
 
-**Key Takeaways from IBM Product Manager Professional Coursework**
+**Insights Gained from Coursework and Area of Focus**
 
 **PM Major Focus & Few Workouts:**
 
