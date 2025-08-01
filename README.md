@@ -492,9 +492,7 @@ Example: Meta’s Pivot to the Metaverse: While immersive environments are intri
 
 ---------------------------
 
-**Generic Concept 1:** 
-
-**Scenarios :** **Best Practices for S&P 500 in 2025-2030's:**
+**Generic Concept 1:** **Best Practices for S&P 500 in 2025-2030's:**
 
 A. Digital Transformation Push, pivoting hard into AI, SaaS, or cloud-native platforms. 
 
@@ -502,9 +500,7 @@ B. Integration of Newly Acquired Companies if any, AI R&D Investments (External 
 
 C. Talent reshuffling, Big Pipeline or long term contracts, Stock Buyback or Value Recovery, or Betting on AI. 
 
-**Concept 2:** 
-
-**S&P 500: General Pros and cons of acquiring a new company vs. investing internally:**
+**Concept 2:** **S&P 500: General Pros and cons of acquiring a new company vs. investing internally:**
 
 ![image](https://github.com/user-attachments/assets/f0212342-820a-472e-aa89-92e8efb5fed2)
 
