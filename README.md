@@ -332,10 +332,9 @@ Fastest Growing Healthcare Sub-Segments:
 
 <img width="846" height="185" alt="image" src="https://github.com/user-attachments/assets/f0f44d59-8d6f-42bc-bf9f-9243394f7ab9" />
 
-<img width="1411" height="583" alt="image" src="https://github.com/user-attachments/assets/7c8b2b44-82c2-4074-b206-bbfa11293e26" />
+<img width="1415" height="588" alt="image" src="https://github.com/user-attachments/assets/0bfd7ed7-6ecd-4d16-b6d6-eef43613182b" />
 
-[Sample Estimations from LLM's]
-
+ 
 9. **Product Roadmapping** - Process that links a product’s vision and goals to a clear plan of execution over time.
 
 10. **Product Vision & Strategy**
