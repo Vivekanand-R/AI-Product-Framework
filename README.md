@@ -100,7 +100,7 @@
 
 **Scenario 1: AI Innovation in Semi-Trucks**
 
-Let’s consider a new ambitious vision that has become a strategic priority:
+Let’s consider a new vision that has become a strategic priority:
 
 **Objective:** Develop a advanced AI feature for semi-trucks to enhance the capabilities of Heavy Auto Manufacturer, setting the company apart from competitors.
 
@@ -115,7 +115,7 @@ If it is a success, Heavy Auto Manufacturer, Inc. has a chance to lead the MArke
 
 **1. Risks Involved:**
 
-•	Market Adoption Risks (high upfront costs for a new truck, lack of trust in the automation, Regulatory Challenges, Driver Pushback like job security fear due to Automation)
+•	Market Adoption Risks (high upfront costs for a new truck, lack of trust in automation, Regulatory Challenges, Driver Pushback like job security fear due to Automation)
 
 •	Technology feasibility challenges (as due to extreme weather conditions, load weight, traffic and AI in truck business might be complex) , AI Privacy Laws
 
@@ -210,7 +210,7 @@ JPMorgan is one of the world’s largest daily payment flows—surpassing $10 
 
 **1. Product-Market Fit (PMF):** Validated commercial model
 
-Healthcare Wearable: **Fitbit** achieved Product-Market Fit by tapping into rising consumer demand for personal health monitoring. Its wearable devices offered real-time insights into activity, sleep, and heart rate, creating daily habit loops and community engagement.
+Healthcare Wearable: **Fitbit** achieved Product-Market Fit by tapping into the rising consumer demand for personal health monitoring. Its wearable devices offered real-time insights into activity, sleep, and heart rate, creating daily habit loops and community engagement.
 
 <img width="1363" height="272" alt="image" src="https://github.com/user-attachments/assets/e94649c1-18ad-4d44-af26-316b1c073b95" />
 
@@ -241,7 +241,7 @@ The Netherlands, with its high mobile bases and multiple SIM usage (especially a
 **Samsung’s potential future entry and already active healthcare market.**    
 
             A. Digital health solutions (apps, wearables, telemedicine) can scale fast. Users already rely on smartphones as daily tools.
-            B. The high smartphone penetration, brand dominance, and user engagement directly **empower Samsung’s potential entry into the healthcare market.**
+            B. The high smartphone, brand dominance, and user engagement directly **empower Samsung’s potential entry into the healthcare market.**
             C. Samsung's hybrid ecosystem (hardware + software + wearables + AI) makes it uniquely positioned to offer preventive, diagnostic, and remote care solutions — all wrapped in a consumer-friendly UX.
             D. Massive installed base for launching Samsung Health platform integrations, wearables (like Galaxy Watch), and partnerships with  health services.
 
