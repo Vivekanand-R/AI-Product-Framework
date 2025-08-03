@@ -330,7 +330,7 @@ Fastest Growing Healthcare Sub-Segments:
 
 <img width="1702" height="646" alt="image" src="https://github.com/user-attachments/assets/a7ee1c2f-912d-4162-937e-87b97ed6f364" />
 
-<img width="855" height="397" alt="image" src="https://github.com/user-attachments/assets/6d2e613e-4a56-4d1f-a977-a1351a6c873d" />
+<img width="846" height="185" alt="image" src="https://github.com/user-attachments/assets/9d5e1905-0265-4938-9a68-6fc666ec148f" />
 
 <img width="657" height="177" alt="image" src="https://github.com/user-attachments/assets/0b585228-3744-4f88-9469-3e9f09a29a57" />
 
