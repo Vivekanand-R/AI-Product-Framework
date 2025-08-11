@@ -119,7 +119,7 @@ If it is a success, Heavy Auto Manufacturer, Inc. has a chance to lead the MArke
 
 •	Technology feasibility challenges (as due to extreme weather conditions, load weight, traffic and AI in truck business might be complex) , AI Privacy Laws
 
-•	High Competition (from a big players), Ethical Considerations
+•	High Competition (from a big players), Ethical Considerations.
 
 •	Driver Safety Concerns, High R&D Costs, Financial and execution risks. 
 
@@ -127,7 +127,7 @@ If it is a success, Heavy Auto Manufacturer, Inc. has a chance to lead the MArke
 
 **2. Rewards:**
 
-•	First Mover Advantage, If successful Stay Ahead of Competition
+•	First Mover Advantage, If successful Stay Ahead of Competition.
 
 •	Increased Revenue Growth (High ROI), AI-powered predictive safety features (automated lane correction, obstacle detection), Predictive maintenance.
 
@@ -141,9 +141,9 @@ If it is a success, Heavy Auto Manufacturer, Inc. has a chance to lead the MArke
 
 •	Massive Real time datasets, AI Models, Model Training, AI Reliability in Real World Applications. 
 
-•	Compliances, Regional Frameworks
+•	Compliances, Regional Frameworks.
 
-•	Local and International Competitions
+•	Local and International Competitions.
 
 
 
@@ -151,9 +151,9 @@ If it is a success, Heavy Auto Manufacturer, Inc. has a chance to lead the MArke
 
 •	Internal: Engineering, Sales, Marketing, Product Management, Leadership, Brand Strategy, Supply Chain, Manufacturing, Hardware and Finance.
 
-•	External: Chip Manufacturers, Cloud Providers, Logistic, Insurance Provider, Government, Channel Partners and Transport Agencies
+•	External: Chip Manufacturers, Cloud Providers, Logistic, Insurance Provider, Government, Channel Partners and Transport Agencies.
 
-•	Others: Investors, Board of Directors, Research Grands, Venture Capitals and External colloborations
+•	Others: Investors, Board of Directors, Research Grands, Venture Capitals and External colloborations.
 
 
 
@@ -276,7 +276,7 @@ Zerodha, India’s largest retail stock brokerage, started by identifying a key 
             D. Their user discovery led to products built with simplicity, speed, and low cost — unlike bloated banking apps. 
             E. They now have 12M+ users and are profitable with almost no advertising spend.
 
-**6. Agile Methodology (Scrum, Kanban)** - Agile isn’t just a methodology — it’s a mindset built on learning fast, iterating often, and continuously refining what matters most.
+**6. Agile Methodology (Scrum, Kanban)** - Agile isn’t just a methodology — it’s a mindset built on learning fast, iterating often, and continuously refining what matters most. Agile accessibility is good, AI works on it too for a long time natively. 
 
 In software development, whether using Scrum for structured sprints or Kanban for visual clarity, the goal remains consistent: deliver value through rapid, responsive iteration. Agile thrives on its core cycle — Discover, Define, Design, and Deliver — making it especially effective for leaders navigating, 
 
