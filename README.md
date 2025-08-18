@@ -226,23 +226,22 @@ Fitbit didn’t just ride a trend—they created a new category: everyday wellne
 
 The primary goal of an MVP is risk reduction. Built to quickly test assumptions, validate market demand, and gather feedback with minimal resources. Basic, functional version of a product that allows teams to test critical hypotheses with real users — without overcommitting resources upfront. In short, an MVP helps us to learn fast, fail cheap, and iterate smarter. 
 
-**Example – Samsung Innovation and Human experiences: Samsung Galaxy Market Share and potential entry into the global healthcare market:**
+**Example – Samsung Innovation and Human experiences: Samsung Galaxy Market Share and expansion into the global healthcare market:**
 
-Netherland For Example:
+For Example:
 
-            A. Netherlands Market share by smartphone vendor (2025 - Approx Estimation): Apple 38.0 %, Samsung 37.3 %, Xiaomi 6.5 %	
-            B. Total mobile connections (approx-sample estimation):	25.3 million (138 % of pop., early 2025)
-            C. Dutch smartphones e‑commerce market size (approx):	USD 1.32 billion (2025 forecast)
+            A. Market share by smartphone vendor (2025 - Approx Estimation): Apple 38.0 %, Samsung 37.3 %, Xiaomi 6.5 %	
+            B. Smartphones e‑commerce market size (approx):	USD 1.32 billion (2025 forecast)
 
 In last few years, Samsung have tested eSIM functionality globally mid-range market by enabling it on select Galaxy series devices (such as the Galaxy A series), even though eSIM was primarily a flagship feature. This move allowed Samsung to gauge local demand for dual-SIM flexibility without launching a new product line.
 
-The Netherlands, with its high mobile bases and multiple SIM usage (especially among business users and digital nomads). Globally, By activating new features via software update for a limited user group and monitoring uptake through partnerships, consumer feedback, and valuable insights — all while keeping costs and development low.
+With its high mobile bases and multiple SIM usage (especially among business users and digital nomads). Globally, By activating new features via software update for a limited user group and monitoring uptake through partnerships, consumer feedback, and valuable insights — all while keeping costs and development low.
 
-**Samsung’s potential future entry and already active healthcare market.**    
+**Samsung’s expansion and already active healthcare market.**    
 
             A. Digital health solutions (apps, wearables, telemedicine) can scale fast. Users already rely on smartphones as daily tools.
             B. The high smartphone, brand dominance, and user engagement directly **empower Samsung’s potential entry into the healthcare market.**
-            C. Samsung's hybrid ecosystem (hardware + software + wearables + AI) makes it uniquely positioned to offer preventive, diagnostic, and remote care solutions — all wrapped in a consumer-friendly UX.
+            C. Hybrid ecosystem (hardware + software + wearables + AI) makes it uniquely positioned to offer preventive, diagnostic, and remote care solutions — all wrapped in a consumer-friendly UX.
             D. Massive installed base for launching Samsung Health platform integrations, wearables (like Galaxy Watch), and partnerships with  health services.
 
 **3. User-Centered Design / UX Thinking:** Design Thinking
