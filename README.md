@@ -275,7 +275,7 @@ Zerodha, India’s largest retail stock brokerage, started by identifying a key 
             D. Their user discovery led to products built with simplicity, speed, and low cost — unlike bloated banking apps. 
             E. They now have 12M+ users and are profitable with almost no advertising spend.
 
-**6. Agile Methodology (Scrum, Kanban)** - Agile isn’t just a methodology — it’s a mindset built on learning fast, iterating often, and continuously refining what matters most. Agile's accessibility is good, AI works on it too for a long time natively but on a different perspective.  
+**6. Agile Methodology (Scrum, Kanban)** - Agile isn’t just a methodology — it’s a mindset built on learning fast, iterating often, and continuously refining what matters most. Agile's accessibility is good, AI works on it too for a long time natively but on a different perspective. Connecting the dots while agile handshake with quality.    
 
 In software development, whether using Scrum for structured sprints or Kanban for visual clarity, the goal remains consistent: deliver value through rapid, responsive iteration. Agile thrives on its core cycle — Discover, Define, Design, and Deliver — making it especially effective for leaders navigating, 
 
@@ -467,6 +467,21 @@ Abbott has a blend of B2B and B2C operations:
 Focus: Quality improvement and consistency.
    
 **29. Velocity vs. Throughput:** Velocity ≠ productivity. Track actual completed work, not just effort points. Consider throughput if you use Kanban.
+
+**30. Marketing Strategies:** 
+
+            A. Types of Marketing: Digital, Content, Social Media, Email, SEO, PPC/SEM, Influencer, Affiliate, Event/Experiential, PR.
+            B. Marketing Frameworks: AIDA, STP, 4Ps, 7Ps, 5Cs, SWOT, Porter’s Five Forces, RACE, SOSTAC, AARRR.
+            C. Measurement & optimization methodology: 
+
+Commonly used measurement & optimization methodologies:
+
+            A. MMM (Marketing Mix Modeling) — cross-channel, privacy-safe modeling of spend → sales; used for quarterly budget allocation and diminishing-returns curves. Caveat: coarse granularity; needs 2–3 yrs of data. MMM is a statistical method that estimates how different marketing inputs (e.g., TV, paid social, search, OOH), plus non-marketing factors (price, promos, seasonality, distribution, macro), drive a business outcome (sales, signups). It uses historical, typically weekly/monthly, data over 2–3+ years to infer incremental impact and diminishing returns, then recommends budget allocation.
+
+            B. RCT lift experiments (geo splits/online holdouts) — gold standard for incrementality on specific channels/campaigns. Caveat: costs traffic/spend and can be hard to scale continuously.
+
+            C. MTA (Multi-Touch Attribution) — user/path-level attribution for day-to-day optimization; often rules-based or Shapley/Markov. Caveat: signal loss/privacy limits; should be calibrated to MMM/experiments.
+
 
 ---------------------------------
 
