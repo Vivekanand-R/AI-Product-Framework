@@ -465,10 +465,6 @@ Abbott has a blend of B2B and B2C operations:
 Focus: Quality improvement and consistency.
 
 **29. Circular economy** The circular economy is an economic model designed to minimize waste and maximize resource use. The aim is to create a closed-loop system that’s sustainable, cost-efficient, and better for the environment. Instead of the traditional “take–make–dispose” linear model, it focuses on:
-
-            A. Reducing resource consumption,
-            B. Reusing and repairing products,
-            C. Recycling materials back into the system.
             (A core customer demand and business differentiator)
    
 **30. Velocity vs. Throughput:** Velocity ≠ productivity. Track actual completed work, not just effort points. Consider throughput if you use Kanban.
