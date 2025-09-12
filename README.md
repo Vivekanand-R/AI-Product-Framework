@@ -486,11 +486,18 @@ Commonly used measurement & optimization methodologies:
             C. MTA (Multi-Touch Attribution) — user or path-level attribution for day-to-day optimization; often rules-based or Shapley/Markov. Caveat: signal loss/privacy limits; should be calibrated to MMM/experiments.
 
 **32. Industrial revolutions:**
+
             A. Industry 1.0 – Late 18th century: mechanization using water and steam power.
             B. Industry 2.0 (1870–1914) – Late 19th century: mass production with electricity and assembly lines. (Ford Motor Company (assembly line), **General Electric (electrification)**, and U.S. Steel became industrial giants.)
             C. Industry 3.0 (1960s–2000) – Mid 20th century: automation through electronics, IT, and computers. (IBM, Intel, Microsoft, and Siemens leveraged electronics, computers, and software to dominate the digital and automation age.)
             D. Industry 4.0 (2010–today) – 21st century: smart, connected systems using AI, IoT, and data. (Amazon, Tesla, Google (Alphabet), Siemens)
             E. Forward-looking Industry 5.0 (emerging, ~2020s–future) (human–machine collaboration, sustainability, personalization) - Emerging leaders include Tesla, Boston Dynamics, Ørsted (renewable energy)
+
+**33. Emerging Technologies** (AI evolution timeline)
+
+            A. ANI (Artificial Narrow Intelligence) – 2010s–today: Task-specific AI (chatbots, image recognition, recommendation engines).
+            B. AGI (Artificial General Intelligence) – ~2040–2070 (speculative): Human-level AI that can learn and adapt across domains. 
+            C. ASI (Artificial Superintelligence) – ~2070+ (highly speculative): AI far beyond human intelligence, with massive potential and risks.
 
 ---------------------------------
 
