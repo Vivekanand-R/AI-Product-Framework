@@ -411,7 +411,7 @@ Product management in aviation focuses on creating, enhancing, and sustaining ai
 
 Manufacturers like CFM International, GE Aerospace, Pratt & Whitney, Rolls-Royce etc., 
 
-<img width="1158" height="532" alt="image" src="https://github.com/user-attachments/assets/ecc65adc-1ae3-43db-9d95-408dbbea2b6d" />
+<img width="927" height="530" alt="image" src="https://github.com/user-attachments/assets/71b5e485-0b1d-4397-987e-6a91b267b295" />
 
 Source: LLM/own compiled research summary (Sample estimates from reports like Aviation Week, OEM websites, etc.) for aviation market research/PM study.
 
