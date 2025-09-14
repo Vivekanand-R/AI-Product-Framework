@@ -406,11 +406,11 @@ Example 2: Car Makers – “To enjoy driving, not just own a car.” → Offers
 **21. Product Lifecycle Management** The structured process of managing a product’s journey from ideation and development through launch, growth, maturity, and eventual retirement. It ensures alignment across strategy, design, engineering, compliance, and market needs. The goal is to maximize value, efficiency, and longevity while minimizing risk and cost.
 
       5 key stages of a Product Lifecycle:
-                  A. Introduction / Ideation – Product concept, design, and initial launch into the market.
-                  B. Growth – Increasing adoption, rising demand, and market expansion.
-                  C. Maturity – Peak market share, stable demand, and strong competition.
-                  D. Saturation – Market growth slows, differentiation becomes harder.
-                  E. Decline / Retirement – Demand falls, product is phased out or replaced.
+            A. Introduction / Ideation – Product concept, design, and initial launch into the market.
+            B. Growth – Increasing adoption, rising demand, and market expansion.
+            C. Maturity – Peak market share, stable demand, and strong competition.
+            D. Saturation – Market growth slows, differentiation becomes harder.
+            E. Decline / Retirement – Demand falls, product is phased out or replaced.
 
 **22. OKRs (Objectives and Key Results) for Product Teams:** 1. Objectives define what to achieve — ambitious, qualitative, and outcome-focused. 2. At least, Key Results specify how to measure success — quantifiable, time-bound, and trackable.
 
