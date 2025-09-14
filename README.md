@@ -409,6 +409,8 @@ For example in Aviation Industry:
 
 Product management in aviation focuses on creating, enhancing, and sustaining aircraft, engines, and systems while meeting safety, regulatory, and market demands. It balances customer needs, cost, and performance, ensuring strict compliance with industry standards. The role spans cross-functional collaboration and long-term planning, as aviation products require decades of support and continuous upgrades.
 
+Manufacturers like CFM International, GE Aerospace, Pratt & Whitney, Rolls-Royce etc., 
+
 <img width="1140" height="568" alt="image" src="https://github.com/user-attachments/assets/9743c28a-a79f-4ea2-8fdb-47f12001acd4" />
 
 Source: LLM/own compiled research summary (Sample estimates from reports like Aviation Week, OEM websites, etc.) for aviation market research/PM study.
