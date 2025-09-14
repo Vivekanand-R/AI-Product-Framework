@@ -413,7 +413,7 @@ Modern aircraft engines ensure safe, efficient, and affordable travel by powerin
 
 Manufacturers like CFM International, GE Aerospace, Pratt & Whitney, Rolls-Royce etc., 
 
-<img width="927" height="530" alt="image" src="https://github.com/user-attachments/assets/71b5e485-0b1d-4397-987e-6a91b267b295" />
+<img width="770" height="537" alt="image" src="https://github.com/user-attachments/assets/55ffa6e1-c35b-43e4-aa5a-b5d713241779" />
 
 Source: LLM/own compiled research summary (Sample estimates from reports like Aviation Week, OEM websites, etc.) for aviation market research/PM study.
 
