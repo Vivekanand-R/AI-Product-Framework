@@ -409,7 +409,9 @@ For example in Aviation Industry:
 
 Product management in aviation focuses on creating, enhancing, and sustaining aircraft, engines, and systems while meeting safety, regulatory, and market demands. It balances customer needs, cost, and performance, ensuring strict compliance with industry standards. The role spans cross-functional collaboration and long-term planning, as aviation products require decades of support and continuous upgrades.
 
-<img width="1142" height="555" alt="image" src="https://github.com/user-attachments/assets/2b6ccb45-0266-4d53-8122-ffb9348492b1" />
+<img width="1140" height="568" alt="image" src="https://github.com/user-attachments/assets/9743c28a-a79f-4ea2-8fdb-47f12001acd4" />
+
+Source: LLM/own compiled research summary (Sample estimates from reports like Aviation Week, OEM websites, etc.) for aviation market research/PM study.
 
 5 key stages of a Generic Product Lifecycle:
             A. Introduction / Ideation – Product concept, design, and initial launch into the market.
