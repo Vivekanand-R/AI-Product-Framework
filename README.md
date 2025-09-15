@@ -503,11 +503,13 @@ Commonly used measurement & optimization methodologies:
             C. ASI (Artificial Superintelligence) – ~2070+ (highly speculative): AI far beyond human intelligence, with massive potential and risks.
 
 **34. From Web 1.0 to Web 3.0: A Journey of Digital Evolution**
+
             A. Web 1.0 (1990s–early 2000s): Static, read-only web with limited user interaction. 
             B. Web 2.0 (mid-2000s–2020s): Interactive, social, and user-generated content platforms. 
             C. Web 3.0 (emerging 2020s–): Decentralized, blockchain-based, AI-driven, and user-owned internet.
 
 **35. Idea Casts:**
+
             A. Building an AI-Powered, Talent-Friendly Organization - https://hbr.org/podcast/2025/06/building-an-ai-powered-talent-friendly-organization
             B. The Promises, Pitfalls, and Trade-offs of the Circular Economy https://hbr.org/podcast/2025/06/the-promises-pitfalls-and-trade-offs-of-the-circular-economy
             C. HBR On Strategy: Data Driven Decisions (https://hbr.org/podcast/2025/03/the-right-way-to-make-data-driven-decisions)
