@@ -507,6 +507,11 @@ Commonly used measurement & optimization methodologies:
             B. Web 2.0 (mid-2000s–2020s): Interactive, social, and user-generated content platforms. 
             C. Web 3.0 (emerging 2020s–): Decentralized, blockchain-based, AI-driven, and user-owned internet.
 
+**35. Idea Casts:**
+            A. Building an AI-Powered, Talent-Friendly Organization - https://hbr.org/podcast/2025/06/building-an-ai-powered-talent-friendly-organization
+            B. The Promises, Pitfalls, and Trade-offs of the Circular Economy https://hbr.org/podcast/2025/06/the-promises-pitfalls-and-trade-offs-of-the-circular-economy
+            C. HBR On Strategy: Data Driven Decisions (https://hbr.org/podcast/2025/03/the-right-way-to-make-data-driven-decisions)
+
 Knowledge Framework (Enterprise Leadership):- Executive Education (Learning / Development)
 
 <img width="697" height="512" alt="image" src="https://github.com/user-attachments/assets/7f0619b6-dc13-4bbc-84bf-14269331b3ee" />
