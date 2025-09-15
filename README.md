@@ -509,7 +509,7 @@ Commonly used measurement & optimization methodologies:
 
 Knowledge Framework (Enterprise Leadership)
 
-<img width="702" height="507" alt="image" src="https://github.com/user-attachments/assets/acd101b1-60a3-42b4-a564-54d151db339e" />
+<img width="697" height="512" alt="image" src="https://github.com/user-attachments/assets/7f0619b6-dc13-4bbc-84bf-14269331b3ee" />
 
 ---------------------------------
 
