@@ -196,7 +196,7 @@ JPMorgan is one of the world’s largest daily payment flows—surpassing $10 
 
 **Healthcare / MedTech:** **Compliance-driven, patient safety paramount**. Product lifecycle often long, with clinical trials, regulatory approvals (FDA, etc.), and stakeholder management across medical experts.
 
-**Automotive / Industrial:**	Hardware-software integration, long R&D cycles, regulatory oversight, product safety, and engineering complexity dominate.
+**Automotive / Industrial:**	The landscape is shaped by ardware–software integration, lengthy R&D cycles, strict regulatory oversight, safety requirements, and engineering complexity.
 
 **Retail / E-commerce:** Rapid experimentation, customer growth, A/B testing, logistics coordination. Heavy use of data for personalization and pricing strategies.
 
@@ -273,7 +273,7 @@ Zerodha, India’s largest retail stock brokerage, started by identifying a key 
             D. Their user discovery led to products built with simplicity, speed, and low cost — unlike bloated banking apps. 
             E. They now have 12M+ users and are profitable with almost no advertising spend.
 
-**6. Agile Methodology (Scrum, Kanban)** - Agile isn’t just a methodology — it’s a mindset built on learning fast, iterating often, and continuously refining what matters most. Agile's 2.0 accessibility is good, AI works on it too for a long time natively but on a different perspective. Connecting the dots with an agile 1.0 quality, AI-powered API handshake initially, an effective combination Agile will drive higher product quality. AI and the emerging storytelling agile 2.0 Twin approach have yet to intersect, unblocking helps for better connect. An AI that is trustworthy, globally integrated, progressing rapidly and reliably.
+**6. Agile Methodology (Scrum, Kanban)** - Agile isn’t just a methodology — it’s a mindset built on learning fast, iterating often, and continuously refining what matters most. Agile's 2.0 is good, AI works on it too for a long time natively but on a different perspective. Connecting the dots with an agile 1.0 quality, AI-powered API handshake initially, an effective combination Agile will drive higher product quality. AI and the emerging storytelling agile 2.0 Twin approach have yet to intersect, unblocking helps for better connect. An AI that is trustworthy, globally integrated, progressing rapidly and reliably. Agile 2.0 unblock 1.2B parameter AI beats.
 
 In software development, whether using Scrum for structured sprints or Kanban for visual clarity, the goal remains consistent: deliver value through rapid, responsive iteration. Agile thrives on its core cycle — Discover, Define, Design, and Deliver — making it especially effective for leaders navigating, 
 
@@ -502,6 +502,15 @@ Commonly used measurement & optimization methodologies:
             B. AGI (Artificial General Intelligence) – ~2040–2070 (speculative): Human-level AI that can learn and adapt across domains. 
             C. ASI (Artificial Superintelligence) – ~2070+ (highly speculative): AI far beyond human intelligence, with massive potential and risks.
 
+**34. From Web 1.0 to Web 3.0: A Journey of Digital Evolution**
+            A. Web 1.0 (1990s–early 2000s): Static, read-only web with limited user interaction. 
+            B. Web 2.0 (mid-2000s–2020s): Interactive, social, and user-generated content platforms. 
+            C. Web 3.0 (emerging 2020s–): Decentralized, blockchain-based, AI-driven, and user-owned internet.
+
+Knowledge Framework (Enterprise Leadership)
+
+<img width="702" height="507" alt="image" src="https://github.com/user-attachments/assets/acd101b1-60a3-42b4-a564-54d151db339e" />
+
 ---------------------------------
 
 Develop a successful digital product - Biases and Successful Validation:
@@ -512,8 +521,8 @@ Develop a successful digital product - Biases and Successful Validation:
 
 3. The Illusion of Data-Driven Decisions: Data rarely speaks clearly — sometimes it could be biased, and maybe incomplete. Balance data with intuition, qualitative insights, and context, rather than hiding behind dashboards.
 
-Example: Nokia's Market Research Before iPhone: Nokia relied on internal market data showing dominant handset sales and assumed no imminent disruption.
-Focus: The data reflected the past, not emerging Common consumer Interests for smartphones with apps and touchscreens. Nokia missed to see the shift, clinging to misleading comfort in market share metrics while Apple reshaped the landscape. Offcourse, Nokia remains a favorite brand for many even today.
+Example: Around 2005–2007, One of the largest mobile phone makers held over a 40% global market share in mobile phones. The iPhone launched in 2007. Nokia's Market Research Before iPhone: Maker relied on internal market data showing dominant handset sales and assumed no imminent disruption.
+Focus: The data reflected the past, not emerging Common consumer Interests for smartphones with apps and touchscreens. Maker missed to see the shift, clinging to misleading comfort in market share metrics while Apple reshaped the landscape. 
 
 4. Shiny Object Syndrome:  Team often get distracted by new trends (Web3, etc.). Filter noise from real opportunities, guiding leadership back to strategic focus without dropping enthusiasm.
 
