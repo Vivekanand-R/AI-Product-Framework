@@ -510,9 +510,10 @@ Commonly used measurement & optimization methodologies:
 
 **35. Idea Casts:**
 
-            A. Building an AI-Powered, Talent-Friendly Organization - https://hbr.org/podcast/2025/06/building-an-ai-powered-talent-friendly-organization
-            B. The Promises, Pitfalls, and Trade-offs of the Circular Economy - https://hbr.org/podcast/2025/06/the-promises-pitfalls-and-trade-offs-of-the-circular-economy
-            C. HBR On Strategy: Data Driven Decisions - https://hbr.org/podcast/2025/03/the-right-way-to-make-data-driven-decisions
+            A. HBR On Leadership: How to Make Fractional Leadership Work - https://hbr.org/podcast/2025/08/how-to-make-fractional-leadership-work 
+            B. Building an AI-Powered, Talent-Friendly Organization - https://hbr.org/podcast/2025/06/building-an-ai-powered-talent-friendly-organization
+            C. The Promises, Pitfalls, and Trade-offs of the Circular Economy - https://hbr.org/podcast/2025/06/the-promises-pitfalls-and-trade-offs-of-the-circular-economy
+            D. HBR On Strategy: Data Driven Decisions - https://hbr.org/podcast/2025/03/the-right-way-to-make-data-driven-decisions
 
 Knowledge Framework (Enterprise Leadership):- Executive Education (Learning / Development)
 
@@ -643,4 +644,6 @@ An industrialist who specifically owns or operates industrial enterprises — ty
 6. https://www.grandviewresearch.com/industry-analysis/europe-cyber-security-market-report
 7. Source: https://store.google.com/category/watches_trackers?hl=de&pli=1
 8. LLM's (For content review and refinement - Few examples generated with the help of LLM for conceptual understanding.)
+9. https://hbr.org/podcast
+
 
