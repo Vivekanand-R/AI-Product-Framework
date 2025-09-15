@@ -275,6 +275,8 @@ Zerodha, India’s largest retail stock brokerage, started by identifying a key 
 
 **6. Agile Methodology (Scrum, Kanban)** - Agile isn’t just a methodology — it’s a mindset built on learning fast, iterating often, and continuously refining what matters most. Agile's 2.0 is good, AI works on it too for a long time natively but on a different perspective. Connecting the dots with an agile 1.0 quality, AI-powered API handshake initially, an effective combination Agile will drive higher product quality. AI and the emerging storytelling agile 2.0 Twin approach have yet to intersect, unblocking helps for better connect. An AI that is trustworthy, globally integrated, progressing rapidly and reliably. Agile 2.0 unblock 1.2B parameter AI beats.
 
+<img width="1091" height="222" alt="image" src="https://github.com/user-attachments/assets/3d5b7ddd-fedf-448b-b538-5ff31e3d6523" />
+
 In software development, whether using Scrum for structured sprints or Kanban for visual clarity, the goal remains consistent: deliver value through rapid, responsive iteration. Agile thrives on its core cycle — Discover, Define, Design, and Deliver — making it especially effective for leaders navigating, 
 
 **Scrum:** Time-boxed sprints, and defined roles to deliver iterative value with regular planning and feedback.
