@@ -507,7 +507,7 @@ Commonly used measurement & optimization methodologies:
             B. Web 2.0 (mid-2000s–2020s): Interactive, social, and user-generated content platforms. 
             C. Web 3.0 (emerging 2020s–): Decentralized, blockchain-based, AI-driven, and user-owned internet.
 
-Knowledge Framework (Enterprise Leadership)
+Knowledge Framework (Enterprise Leadership):- Executive Education (Learning / Development)
 
 <img width="697" height="512" alt="image" src="https://github.com/user-attachments/assets/7f0619b6-dc13-4bbc-84bf-14269331b3ee" />
 
