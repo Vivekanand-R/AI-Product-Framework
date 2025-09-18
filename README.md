@@ -534,7 +534,7 @@ Develop a successful digital product - Biases and Successful Validation:
 Example: Around 2005–2007, One of the largest mobile phone makers held over a 40% global market share in mobile phones. The iPhone launched in 2007. Nokia's Market Research Before iPhone: Maker relied on internal market data showing dominant handset sales and assumed no imminent disruption.
 Focus: The data reflected the past, not emerging Common consumer Interests for smartphones with apps and touchscreens. Maker missed to see the shift, clinging to misleading comfort in market share metrics while Apple reshaped the landscape. 
 
-4. Shiny Object Syndrome:  Team often get distracted by new trends (Web3, etc.). Filter noise from real opportunities, guiding leadership back to strategic focus without dropping enthusiasm.
+4. Shiny Object Syndrome:  Team often get distracted by new trends. Filter noise from real opportunities, guiding leadership back to strategic focus without dropping enthusiasm.
 
 Example: Meta’s Pivot to the Metaverse: While immersive environments are intriguing, Meta's heavy investment in VR/AR metaverse spaces diverted focus from core product improvements. Adoption lagged, early hardware reviews underwhelmed, and real user traction is still elusive. Meanwhile, competitors captured attention elsewhere. 
 
