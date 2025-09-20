@@ -7,11 +7,15 @@
    
 ## **Investment Framework Sample Workout:** 
 
-Case Study 1: (CT - Healthcare)
+Case Study 1: (Healthcare Sector)
 
 <img width="757" height="626" alt="image" src="https://github.com/user-attachments/assets/77994cd6-9930-4f51-8ac1-692b58c7745d" />
 
-Case Study 2: (Aviation)
+Case Study 2: (Aviation Sector)
+
+Product management in aviation focuses on creating, enhancing, and sustaining aircraft, engines, and systems while meeting safety, regulatory, and market demands. It balances customer needs, cost, and performance, ensuring strict compliance with industry standards. The role spans cross-functional collaboration and long-term planning, as aviation products require decades of support and continuous upgrades.
+
+Modern aircraft engines ensure safe, efficient, and affordable travel by powering everything from regional jets to long-haul giants, connecting cities worldwide with reliability and comfort.**These advanced design reduces fuel burn, noise, and emissions, making global air travel more sustainable, safe, accessible and helping billions of passengers**.
 
 <img width="748" height="688" alt="image" src="https://github.com/user-attachments/assets/a08b4fda-301d-411e-84af-a1c97abcc6a6" />
 
