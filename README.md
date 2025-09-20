@@ -2,7 +2,7 @@
 
 **Vision**: To advance by building a solid knowledge framework, leveraging continuous learning, and making a lasting impact on enterprise growth. Goal is to build the strong "Foundations of knowledge", growth, create value, drive strategy, and "empower others to excel".
 
-<img width="697" height="512" alt="image" src="https://github.com/user-attachments/assets/7f0619b6-dc13-4bbc-84bf-14269331b3ee" />
+<img width="697" height="508" alt="image" src="https://github.com/user-attachments/assets/1a574cde-e8b0-4ae6-ac61-667b0494b0a2" />
 
 Investment Framework: (Attached the file)
 
