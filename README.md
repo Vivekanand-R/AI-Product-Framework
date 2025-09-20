@@ -7,7 +7,14 @@
 
 **Investment Framework Sample Workout:** (Attached the file)
 
+Case Study 1: (CT - Healthcare)
+
 <img width="757" height="626" alt="image" src="https://github.com/user-attachments/assets/77994cd6-9930-4f51-8ac1-692b58c7745d" />
+
+Case Study 2: (Aviation)
+
+<img width="748" height="688" alt="image" src="https://github.com/user-attachments/assets/a08b4fda-301d-411e-84af-a1c97abcc6a6" />
+
 
 ----------------------------
 
