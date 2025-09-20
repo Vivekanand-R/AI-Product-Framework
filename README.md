@@ -4,7 +4,8 @@
 
 <img width="697" height="508" alt="image" src="https://github.com/user-attachments/assets/1a574cde-e8b0-4ae6-ac61-667b0494b0a2" />
 
-Investment Framework: (Attached the file)
+
+**Investment Framework: (Attached the file)**
 
 <img width="757" height="626" alt="image" src="https://github.com/user-attachments/assets/77994cd6-9930-4f51-8ac1-692b58c7745d" />
 
