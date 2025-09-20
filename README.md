@@ -316,24 +316,12 @@ Meaning: Lean isn't just startup speak — it's embedded in Japan’s industrial
 
 **8. Market Research and Opportunity Sizing:**
 
-Heathcare CAGR Rough Estimations:
-
-Fastest Growing Healthcare Sub-Segments:
-
-            A. AI in Healthcare: 35–45% CAGR
-            B. Digital Therapeutics (DTx): 20–30% (Software-based clinically validated treatments, apps or digital therapy)
-            C. Telemedicine / Telehealth: 18–25% CAGR
-            D. Gene Therapy: 25–30% CAGR (modifying or replacing faulty genes to cure)
-            E. Wearables: 20–25% CAGR
-            F. Cybersecurity for Healthcare: 17–22%
-
-
-**Medical Equipment Startup Scinario - Investment Workout:**
+**Investment Simulation: Scaling a Medical Equipment Startup to $1B Unicorn**
 
 <img width="1297" height="287" alt="image" src="https://github.com/user-attachments/assets/4047c237-e6de-40bf-b5ab-6788531ec1f5" />
 
 
-**Estimated Installed Base:**
+**Global Projection of Installed Medical Devices:**
 
 <img width="846" height="185" alt="image" src="https://github.com/user-attachments/assets/f0f44d59-8d6f-42bc-bf9f-9243394f7ab9" />
 
@@ -342,9 +330,18 @@ Fastest Growing Healthcare Sub-Segments:
 
 <img width="1702" height="646" alt="image" src="https://github.com/user-attachments/assets/a7ee1c2f-912d-4162-937e-87b97ed6f364" />
 
-**Global Factors:**
+**Global Other Important Factors:**
 
 <img width="1415" height="588" alt="image" src="https://github.com/user-attachments/assets/0bfd7ed7-6ecd-4d16-b6d6-eef43613182b" />
+
+**Fastest Growing Healthcare Sub-Segments:**
+
+            A. AI in Healthcare: 35–45% CAGR
+            B. Digital Therapeutics (DTx): 20–30% (Software-based clinically validated treatments, apps or digital therapy)
+            C. Telemedicine / Telehealth: 18–25% CAGR
+            D. Gene Therapy: 25–30% CAGR (modifying or replacing faulty genes to cure)
+            E. Wearables: 20–25% CAGR
+            F. Cybersecurity for Healthcare: 17–22%
 
  
 9. **Product Roadmapping** - Process that links a product’s vision and goals to a clear plan of execution over time.
