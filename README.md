@@ -1,5 +1,9 @@
 # AI Product Management Roadmap:
 
+## **Toward a Knowledge Framework for Enterprise Leadership – Executive Education**
+
+<img width="697" height="512" alt="image" src="https://github.com/user-attachments/assets/7f0619b6-dc13-4bbc-84bf-14269331b3ee" />
+
 **Essential Insights and Product Management Strategy, Execution & Impact for Real-World Applications:**
 
 **Intermediate Roadmap:**
@@ -532,10 +536,6 @@ Investment Framework: (Attached the file)
 
 <img width="757" height="626" alt="image" src="https://github.com/user-attachments/assets/77994cd6-9930-4f51-8ac1-692b58c7745d" />
 
-
-Knowledge Framework (Enterprise Leadership):- Executive Education (Learning / Development)
-
-<img width="697" height="512" alt="image" src="https://github.com/user-attachments/assets/7f0619b6-dc13-4bbc-84bf-14269331b3ee" />
 
 ---------------------------------
 
