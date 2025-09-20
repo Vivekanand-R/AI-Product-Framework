@@ -4,6 +4,12 @@
 
 <img width="697" height="512" alt="image" src="https://github.com/user-attachments/assets/7f0619b6-dc13-4bbc-84bf-14269331b3ee" />
 
+Investment Framework: (Attached the file)
+
+<img width="757" height="626" alt="image" src="https://github.com/user-attachments/assets/77994cd6-9930-4f51-8ac1-692b58c7745d" />
+
+----------------------------
+
 # AI Product Management Roadmap: 
 
 **Essential Insights and Product Management Strategy, Execution & Impact for Real-World Applications:**
@@ -532,11 +538,6 @@ Commonly used measurement & optimization methodologies:
             B. Building an AI-Powered, Talent-Friendly Organization :- https://hbr.org/podcast/2025/06/building-an-ai-powered-talent-friendly-organization
             C. The Promises, Pitfalls, and Trade-offs of the Circular Economy :- https://hbr.org/podcast/2025/06/the-promises-pitfalls-and-trade-offs-of-the-circular-economy
             D. HBR On Strategy: Data Driven Decisions :- https://hbr.org/podcast/2025/03/the-right-way-to-make-data-driven-decisions
-
-
-Investment Framework: (Attached the file)
-
-<img width="757" height="626" alt="image" src="https://github.com/user-attachments/assets/77994cd6-9930-4f51-8ac1-692b58c7745d" />
 
 
 ---------------------------------
