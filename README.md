@@ -1,8 +1,10 @@
-# AI Product Management Roadmap:
+## **Towards a Knowledge Framework for Enterprise Leadership – Executive Education**
 
-## **Toward a Knowledge Framework for Enterprise Leadership – Executive Education**
+**High Level Vision**: To advance by building a solid knowledge framework, leveraging continuous learning, and making a lasting impact on enterprise growth. Goal is to build the strong foundation of knowledge, growth, create value, drive strategy, and empower others to excel.
 
 <img width="697" height="512" alt="image" src="https://github.com/user-attachments/assets/7f0619b6-dc13-4bbc-84bf-14269331b3ee" />
+
+# AI Product Management Roadmap: 
 
 **Essential Insights and Product Management Strategy, Execution & Impact for Real-World Applications:**
 
