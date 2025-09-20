@@ -327,6 +327,12 @@ Fastest Growing Healthcare Sub-Segments:
             E. Wearables: 20–25% CAGR
             F. Cybersecurity for Healthcare: 17–22%
 
+
+**Medical Equipment Startup Scinario - Investment Workout:**
+
+<img width="1297" height="287" alt="image" src="https://github.com/user-attachments/assets/4047c237-e6de-40bf-b5ab-6788531ec1f5" />
+
+
 <img width="1702" height="646" alt="image" src="https://github.com/user-attachments/assets/a7ee1c2f-912d-4162-937e-87b97ed6f364" />
 
 <img width="846" height="185" alt="image" src="https://github.com/user-attachments/assets/f0f44d59-8d6f-42bc-bf9f-9243394f7ab9" />
