@@ -31,15 +31,15 @@ Modern aircraft engines ensure safe, efficient, and affordable travel by powerin
 **Intermediate Roadmap:**
 1. Product Management (From Duke University)
 
-      A. Machine Learning Foundations for Product Managers
+      A. Machine Learning Foundations for Product Managers.
 
 2. IBM Product Manager Professional
 
-      A. Generative AI for Product Manager
+      A. Generative AI for Product Manager.
    
 3. Xbox Product Manager (Coursera)
 
-4. Product Ideation, Design, and Management Specialization (Learn to discover, design, and deliver products)(University of Maryland, College Park)
+4. Product Ideation, Design, and Management Specialization (Learn to discover, design, and deliver products)(University of Maryland, College Park).
    
       Developing Innovative IDeas for Product Leaders
       Part 1, 12 hours
@@ -509,10 +509,16 @@ Abbott has a blend of B2B and B2C operations:
 
 Focus: Quality improvement and consistency.
 
-**29. Circular economy** The circular economy is an economic model designed to minimize waste and maximize resource use. The aim is to create a closed-loop system that’s sustainable, cost-efficient, and better for the environment. Instead of the traditional “take–make–dispose” linear model, it focuses on:
-            (A core customer demand and business differentiator)
-   
-**30. Velocity vs. Throughput:** Velocity ≠ productivity. Track actual completed work, not just effort points. Consider throughput if you use Kanban.
+**29. Circular economy** An economic model designed to minimize waste and maximize resource use. The aim is to create a closed-loop system that’s sustainable, cost-efficient, and better for the environment. Instead of the traditional “take–make–dispose” linear model, it focuses on: A core customer demand and business differentiator. 
+
+            A. Apple (Electronics): A. Through its Apple Trade In program, old devices are refurbished, resold, or recycled for materials. Differentiates by giving customers value back while keeping rare earth metals in circulation.
+            B. Renault (Automotive): Runs a plant in France dedicated to refurbishing engines, gearboxes, and batteries for resale.
+            C. Dell (Technology): Runs a closed-loop recycling program for computers, recovering plastics and metals from old devices to make new ones.
+            D. Blue Origin designed rockets that land and fly again.
+
+Customers benefit from safe e-waste disposal and greener product choices.
+            
+**30. Velocity vs. Throughput:** Velocity ≠ productivity. Actual completed work, not just effort points. Consider throughput if you use Kanban.
 
 **31. Marketing Strategies:** 
 
