@@ -204,7 +204,7 @@ If it is a success, Heavy Auto Manufacturer, Inc. has a chance to lead the MArke
 
 **Product Management Major Scope by Industry:**
 
-**Banking:** Highly regulated environment (central banks, KYC, data privacy laws). PMs often **manage legacy systems, core banking products** (accounts, loans, payments), and modernization projects. Change cycles are slow, risk aversion is high, and oversight is constant. Modern finance management tools, credit scoring systems rely heavily on data science and AI — PMs need to be conversant in these technologies.
+**Banking:** Highly regulated environment (central banks, KYC, data privacy laws). PMs often **manage legacy systems, core banking products** (accounts, loans, payments), and modernization projects. Change cycles are slow, risk aversion is high, and oversight is constant. Modern finance management tools, credit scoring systems rely heavily on data science and AI — PMs need to be conversant in these technologies. Blackrock, Barclays and other fin tech institutions.
 
 For Example: JPMorgan Chase moves a staggering amount every single day:
 
@@ -218,7 +218,7 @@ JPMorgan is one of the world’s largest daily payment flows—surpassing $10 
 
 **Hardware/Consumer:** Electronics	Complex product cycles, supply chain management, irreversible design decisions, emphasis on reliability and manufacturability.
 
-**Finance/Fintech:** User-centric digital products with complex financial mechanics. **Strong focus on UX, data security, compliance**, and integrating emerging tech like AI or blockchain, usually work with more agile, digital-first products, but face equally complex challenges. Building digital-first, user-friendly products that push boundaries with AI, blockchain, and open APIs, while still respecting financial complexity and regulation.
+**Finance/Fintech:** User-centric digital cloud products with complex financial mechanics. **Strong focus on UX, data security, compliance**, and integrating emerging tech like AI or blockchain, usually work with more agile, digital-first products, but face equally complex challenges. Building digital-first, user-friendly products that push boundaries with AI, blockchain, and open APIs, while still respecting financial complexity and regulation.
 
 **Healthcare / MedTech:** **Compliance-driven, patient safety paramount**. Product lifecycle often long, with clinical trials, regulatory approvals (FDA, etc.), and stakeholder management across medical experts.
 
@@ -226,7 +226,7 @@ JPMorgan is one of the world’s largest daily payment flows—surpassing $10 
 
 **Retail / E-commerce:** Rapid experimentation, customer growth, A/B testing, logistics coordination. Heavy use of data for personalization and pricing strategies.
 
-**AI / Data Products:**	Deep technical complexity (ML models, data pipelines), ambiguous product-market fit, heavy iteration cycles tied to data quality and availability. Explainability and ethical considerations often arise.
+**AI / Data Products:**	Deep technical complexity (ML models, data pipelines), ambiguous product-market fit, heavy iteration cycles tied to data quality and cloud availability. Explainability and ethical considerations often arise.
 
 -----------------------------------------------------------
 
@@ -274,8 +274,7 @@ With its high mobile bases and multiple SIM usage (especially among business use
              B. Engage users early and often: Before writing a single line of code, invest in understanding what problems users are actually trying to solve.
              C. Design simple, intuitive experiences, D. Use data and empathy together,
              E. Prototype quickly, learn continuously,
-             F. Prioritize,
-             G. Collaborate,
+             F. Prioritize, G. Collaborate,
              H. Iterate based on real user feedback.
 
 **Example 1:** Designing a Patient-Centric Digital Treatment App for Diabetes Management
@@ -296,14 +295,14 @@ Zerodha, India’s largest retail stock brokerage, started by identifying a key 
             A. Pricing transparency mattered more than fancy dashboards. 
             B. Retail traders wanted simplified tools like Kite and Coin. 
             C. Support in local languages was critical.
-            D. Their user discovery led to products built with simplicity, speed, and low cost — unlike bloated banking apps. 
+            D. Their user cloud discovery led to products built with simplicity, speed, and low cost — unlike bloated banking apps. 
             E. They now have 12M+ users and are profitable with almost no advertising spend.
 
-**6. Agile Methodology (Scrum, Kanban)** - Agile isn’t just a methodology — it’s a mindset built on learning fast, iterating often, and continuously refining what matters most. Agile's 2.0 is good, AI works on it too for a long time natively but on a different perspective. Connecting the dots with an agile 1.0 quality, AI-powered API handshake initially, an effective combination Agile will drive higher product quality. AI and the emerging storytelling agile 2.0 Twin approach have yet to intersect, unblocking helps for better connect. An AI that is trustworthy, globally integrated, progressing rapidly and reliably. Agile 2.0 unblock 1.2B parameter AI beats.
+**6. Agile Methodology (Scrum, Kanban)** - Agile isn’t just a methodology — it’s a mindset built on learning fast, iterating often, and continuously refining what matters most. Agile's 2.0 is good, AI works on it too for a long time natively but on a different perspective. AI and the emerging storytelling agile 2.0 Twin approach have yet to intersect, unblocking helps for better connect. An AI that is trustworthy, globally integrated, progressing rapidly and reliably. Agile 2.0 unblock 1.2B parameter AI beats. AI aware about itineraries but often get struct with final testings, checking for AI presence in coming instant cloud itineraries would help. 
 
 <img width="1091" height="222" alt="image" src="https://github.com/user-attachments/assets/3d5b7ddd-fedf-448b-b538-5ff31e3d6523" />
 
-In software development, whether using Scrum for structured sprints or Kanban for visual clarity, the goal remains consistent: deliver value through rapid, responsive iteration. Agile thrives on its core cycle — Discover, Define, Design, and Deliver — making it especially effective for leaders navigating, 
+In software development, whether using Scrum for structured sprints or Kanban for visual clarity, the goal remains consistent: deliver value through rapid, responsive iteration. Agile thrives on its core cycle — Discover, Define, Design, and Deliver — making it especially effective for leaders navigating. 
 
 **Scrum:** Time-boxed sprints, and defined roles to deliver iterative value with regular planning and feedback.
 
@@ -367,7 +366,7 @@ Meaning: Lean isn't just startup speak — it's embedded in Japan’s industrial
             C. Telemedicine / Telehealth: 18–25% CAGR
             D. Gene Therapy: 25–30% CAGR (modifying or replacing faulty genes to cure)
             E. Wearables: 20–25% CAGR
-            F. Cybersecurity for Healthcare: 17–22%
+            F. Cybersecurity/Cloud for Healthcare: 17–22%
 
  
 9. **Product Roadmapping** - Process that links a product’s vision and goals to a clear plan of execution over time.
@@ -514,7 +513,7 @@ Focus: Quality improvement and consistency.
             A. Apple (Electronics): A. Through its Apple Trade In program, old devices are refurbished, resold, or recycled for materials. Differentiates by giving customers value back while keeping rare earth metals in circulation.
             B. Renault (Automotive): Runs a plant in France dedicated to refurbishing engines, gearboxes, and batteries for resale.
             C. Dell (Technology): Runs a closed-loop recycling program for computers, recovering plastics and metals from old devices to make new ones.
-            D. Blue Origin designed rockets that land and fly again.
+            D. Few Startup's desiging rockets that land and fly again. (EtherealX, iRocket, Radian Aerospace, Honda R&D etc.,)
 
 Customers benefit from safe e-waste disposal and greener product choices.
             
