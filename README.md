@@ -15,9 +15,9 @@ Product management in Healthcare:
 
 <img width="758" height="178" alt="image" src="https://github.com/user-attachments/assets/2c9a62fd-ca24-4ce4-b927-b9fcdf35e60d" />
 
-**Barriers**: High cost of installation & maintenance, shortage of skilled radiologists globally.
+**Barriers**: Training, High cost of installation & maintenance, shortage of skilled radiologists globally. (Short-term = safety, cost, access, workflow efficiency), (Long-term = AI integration, photon-counting CT, standardization, affordability)
 
-**How to solve the challenges**: New Innovations, Financial innovations (PPP, leasing, new pricing models) to reduce costs, and workforce solutions (AI, tele-radiology, training, task shifting) to address the shortage of skilled radiologists.
+**How to solve the challenges**: Future-Ready Innovations, Cutting Edge Breakthroughs, Financial innovations (PPP, leasing, new pricing models) to reduce costs, and workforce solutions (AI, tele-radiology, training, task shifting) to address the shortage of skilled radiologists.
 
 
 **Case Study 2: (Aviation Sector)**
