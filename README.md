@@ -15,7 +15,7 @@ Product management in Healthcare:
 
 <img width="758" height="178" alt="image" src="https://github.com/user-attachments/assets/2c9a62fd-ca24-4ce4-b927-b9fcdf35e60d" />
 
-**Barriers**: High cost of installation & maintenance, shortage of skilled radiologists in developing countries.
+**Barriers**: High cost of installation & maintenance, shortage of skilled radiologists globally.
 
 **How to solve the challenges**: Financial innovations (PPP, leasing, refurbished scanners, subsidies) to reduce costs, new innovations and workforce solutions (AI, tele-radiology, training, task shifting) to address the shortage of skilled radiologists.
 
