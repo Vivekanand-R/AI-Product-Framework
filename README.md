@@ -5,7 +5,7 @@
 <img width="697" height="508" alt="image" src="https://github.com/user-attachments/assets/1a574cde-e8b0-4ae6-ac61-667b0494b0a2" />
 
    
-## **Investment Framework Sample Workout:** 
+## **Investment Framework Workout:** 
 
 **Case Study 1: (Healthcare Sector)**
 
