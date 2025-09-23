@@ -11,7 +11,7 @@
 
 Product management in Healthcare:
 
-<img width="593" height="462" alt="image" src="https://github.com/user-attachments/assets/323fc822-21ee-4c40-9c0a-834d632f4bac" />
+<img width="665" height="653" alt="image" src="https://github.com/user-attachments/assets/65bcad2e-c78a-4c94-8265-feb183c962a3" />
 
 <img width="758" height="178" alt="image" src="https://github.com/user-attachments/assets/2c9a62fd-ca24-4ce4-b927-b9fcdf35e60d" />
 
