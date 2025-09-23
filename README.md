@@ -13,6 +13,9 @@ Product management in Healthcare:
 
 <img width="757" height="626" alt="image" src="https://github.com/user-attachments/assets/77994cd6-9930-4f51-8ac1-692b58c7745d" />
 
+<img width="757" height="158" alt="image" src="https://github.com/user-attachments/assets/d9494cc2-25a3-411b-b28d-62684dcb3abb" />
+
+
 **Case Study 2: (Aviation Sector)**
 
 **Product management in aviation sector** focuses on creating, enhancing, and sustaining aircraft, engines, and systems while meeting safety, regulatory, and market demands. It balances customer needs, cost, and performance, ensuring strict compliance with industry standards. The role spans cross-functional collaboration and long-term planning, as aviation products require decades of support and continuous upgrades.
