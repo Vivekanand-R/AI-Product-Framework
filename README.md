@@ -160,7 +160,7 @@ If it is a success, Heavy Auto Manufacturer, Inc. has a chance to lead the MArke
 
 **2. Rewards:**
 
-•	First Mover Advantage, If successful Stay Ahead of Competition
+•	First Mover Advantage here, If successful Stay Ahead of Competition
 
 •	Increased Revenue Growth (High ROI), AI-powered predictive safety features (automated lane correction, obstacle detection), Predictive maintenance
 
@@ -195,7 +195,7 @@ If it is a success, Heavy Auto Manufacturer, Inc. has a chance to lead the MArke
 
 •	Phase 2: AI System Design And review Phase 
 
-•	Phase 3: Testing on a controlled roads with no traffic, lab environments, and Reviews Phase
+•	Phase 3: Testing on the controlled roads with no traffic, lab environments, and Reviews Phase
 
 •	Phase 4: Product Launch, New Product Introduction, Industry Distruption, 
 
@@ -290,7 +290,7 @@ With its high mobile bases and multiple SIM usage (especially among business use
 
 **Example 1:** Designing a Patient-Centric Digital Treatment App for Diabetes Management
 
-In pharmaceutical sector, collaboration with a digital health team to create a mobile app for Type 2 Diabetes patients, aimed at enhancing medication adherence, lifestyle monitoring, and communication with healthcare providers.
+In pharmaceutical sector, collaboration with a digital health team to create the latest mobile app for Type 2 Diabetes patients, aimed at enhancing medication adherence, lifestyle monitoring, and communication with healthcare providers.
 Some of the Impacts could be: xx% increase in medication adherence, | yy% drop in missed appointments | Increase in patient satisfaction scores | Reduction in support center call volume
 
 Another Example 2: Duolingo — Learning Through UX (**Best User Centered Design**): Language learning apps have existed forever, but most feel like homework. Duolingo flipped the model with relentless User-Centered Design, focusing on: Gamification that Actually Works and Inclusive, Accessible Design. Duolingo turned Language Learning for over 80 million monthly active users. Their design-led approach didn't just drive downloads, it fueled real habit formation, retention and Informative.
@@ -308,7 +308,7 @@ Zerodha, India’s largest retail stock brokerage, started by identifying a key 
             D. Their user cloud discovery led to products built with simplicity, speed, and low cost — unlike bloated banking apps. 
             E. They now have 12M+ users and are profitable with almost no advertising spend.
 
-**6. Agile Methodology (Scrum, Kanban)** - Agile isn’t just a methodology — it’s a mindset built on learning fast, iterating often, and continuously refining what matters most. Agile 2.0, Google Cloud Instance meet schedules practices Agile internally and enables Agile transformation for customers through cloud-native tools today, DevOps practices. Instant QA Check, access visibility blocks list. AI is on the way to cloud. 
+**6. Agile Methodology (Scrum, Kanban)** - Agile isn’t just a methodology — it’s a mindset built on learning fast, iterating often, and continuously refining what matters most. Agile 2.0, Cloud schedules practices Agile internally and enables Agile transformation for customers through cloud-native tools today, DevOps practices. Instant QA Check, access visibility blocks list. Standing AI here.
 
 <img width="1091" height="222" alt="image" src="https://github.com/user-attachments/assets/3d5b7ddd-fedf-448b-b538-5ff31e3d6523" />
 
@@ -360,7 +360,7 @@ For example, Toyota’s in-car voice navigation system went through dozens of it
 <img width="846" height="185" alt="image" src="https://github.com/user-attachments/assets/f0f44d59-8d6f-42bc-bf9f-9243394f7ab9" />
 
 
-**Market Growth Potentials and CAGR Estimations:-**
+**Market Growth Potentials and the CAGR Estimations:-**
 
 <img width="1702" height="646" alt="image" src="https://github.com/user-attachments/assets/a7ee1c2f-912d-4162-937e-87b97ed6f364" />
 
