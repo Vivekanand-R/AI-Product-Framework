@@ -224,13 +224,13 @@ JPMorgan is one of the world’s largest daily payment flows—surpassing $10 
 
 **Tech/SaaS/Software:** Heavy on feature definition, agile iterations, UX optimization, engineering collaboration. **Technical understanding** is a must. Complex tech stack: New features often involve connecting with modern APIs, mobile apps, and cloud services. Azure explored DT by transforming Microsoft itself and by enabling customers worldwide to modernize, innovate, and scale using Azure’s cloud-native, AI, and DevOps capabilities. AI & Analytics → Azure AI, Cognitive Services, and Synapse Analytics drive smarter decision-making. Emerging technologies like Virtual Reality, Digital Twin, Artificial Intelligence, Augmented Reality, IoT, and Blockchain are playing an increasingly vital role in this domain today”
 
-**Hardware/Consumer:** Electronics	Complex product cycles, supply chain management, irreversible design decisions, emphasis on reliability and manufacturability.
+**Hardware/Consumer Electronics:** Complex product cycles, intricate supply chain management, irreversible design choices, and a strong focus on reliability and manufacturability. Success often depends on balancing innovation speed with cost efficiency and large-scale production demands.
 
 **Finance/Fintech:** User-centric digital cloud products with complex financial mechanics. **Strong focus on UX, data security, compliance**, and integrating emerging tech like AI or blockchain, usually work with more agile, digital-first products, but face equally complex challenges. Building digital-first, user-friendly products that push boundaries with AI, blockchain, and open APIs, while still respecting financial complexity and regulation.
 
 **Healthcare / MedTech:** **Compliance-driven, patient safety paramount**. Product lifecycle often long, with clinical trials, regulatory approvals (FDA, etc.), and stakeholder management across medical experts.
 
-**Automotive / Industrial:**	The landscape is shaped by ardware–software integration, lengthy R&D cycles, strict regulatory oversight, safety requirements, and engineering complexity.
+**Automotive / Industrial:**	The landscape is defined by hardware–software integration, extended R&D cycles, rigorous regulatory compliance, stringent safety standards, and high engineering complexity in real world complexity.”
 
 **Retail / E-commerce:** Rapid experimentation, customer growth, A/B testing, logistics coordination. Heavy use of data for personalization and pricing strategies. Retail and e-commerce rely on rapid experimentation, scalable customer growth, A/B testing, and efficient logistics, with heavy use of data to drive personalization and dynamic pricing.
 
