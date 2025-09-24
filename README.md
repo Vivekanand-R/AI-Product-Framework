@@ -275,8 +275,8 @@ With its high mobile bases and multiple SIM usage (especially among business use
 **Samsung’s expansion and already active healthcare market.**    
 
             A. Digital health solutions (apps, wearables, telemedicine) can scale fast. Users already rely on smartphones as daily tools.
-            B. The high smartphone, brand dominance, and user engagement directly **empower Samsung’s potential entry into the healthcare market.**
-            C. Hybrid ecosystem (hardware + software + wearables + AI) makes it uniquely positioned to offer preventive, diagnostic, and remote care solutions — all wrapped in a consumer-friendly UX.
+            B. The high smartphone, brand dominance, and user engagement directly **empower Samsung’s potential entry into the healthcare market**
+            C. Hybrid ecosystem (hardware + software + wearables + AI Process) makes it uniquely positioned to offer preventive, diagnostic, and remote care solutions — all wrapped in a consumer-friendly UX.
             D. Massive installed base for launching Samsung Health platform integrations, wearables (like Galaxy Watch), and partnerships with  health services.
 
 **3. User-Centered Design / UX Thinking:** Design Thinking
@@ -315,7 +315,7 @@ Agile can be applied in Cloud by using on-demand infrastructure to enable rapid 
 
 In software development, whether using Scrum for structured sprints or Kanban for visual clarity, the goal remains consistent: deliver value through rapid, responsive iteration. Agile thrives on its core cycle — Discover, Define, Design, and Deliver — making it especially effective for leaders navigating. 
 
-**Scrum:** Time-boxed sprints, and defined roles to deliver iterative value with regular planning and feedback.
+**Scrum:** Iterative delivery through time-boxed sprints, clear roles, and continuous planning with feedback.
 
 **Kanban:** Visual workflow system focused on continuous delivery, limiting work in progress, and improving flow efficiency.
 
@@ -330,9 +330,8 @@ These are rooted in Agile values, Scrum, XP, Kanban, or Lean Software Developmen
             
             A. Continuous Delivery, 
             B. Iterative Development
-            C. Backlog Grooming / Refinement
-            E. Definition of Ready / Done
-            F. Story Mapping, G. Agile Estimation (Story Points, T-Shirt Sizes)
+            C. Backlog Grooming / Refinement, E. Definition of Ready / Done
+            F. Story Mapping, G. Agile Estimation
             H. Timeboxing, I. Velocity vs. Throughput, J. Dual-Track Agile
             K. Incremental Architecture, L. Retrospective Actioning / Root Cause Analysis, and M. Feature Flags & Progressive Delivery.
 
@@ -346,31 +345,29 @@ Toyota’s lean philosophy didn't stop at factories — it influenced global pro
             B. Gather real driver feedback from prototypes
             C. Improve continuously, not just release-and-forget
 
-For example, Toyota’s in-car voice navigation system went through dozens of iterations in Japan using real commuter behavior — focusing on accuracy, tone, and cultural cues rather than flashy UI.
-
-Meaning: Lean isn't just startup speak — it's embedded in Japan’s industrial process and influences digital product practices too.
+For example, Toyota’s in-car voice navigation system went through dozens of iterations in Japan using real commuter behavior — focusing on accuracy, tone, and cultural cues rather than flashy UI. Meaning:- Lean isn't just startup speak — it's embedded in Japan’s industrial process and influences digital product practices as well.
 
 **8. Market Research and Opportunity Sizing:**
 
-**Investment Simulation:** Scaling a Medical Equipment Startup to $1B Unicorn
+**Investment Simulation:-** Scaling a Medical Equipment Startup to $1B Unicorn
 
 <img width="1297" height="287" alt="image" src="https://github.com/user-attachments/assets/4047c237-e6de-40bf-b5ab-6788531ec1f5" />
 
 
-**Global Projection of Installed Medical Devices:**
+**Global Projection of Installed Medical Devices:-**
 
 <img width="846" height="185" alt="image" src="https://github.com/user-attachments/assets/f0f44d59-8d6f-42bc-bf9f-9243394f7ab9" />
 
 
-**Market Growth Potentials and CAGR Estimations:**
+**Market Growth Potentials and CAGR Estimations:-**
 
 <img width="1702" height="646" alt="image" src="https://github.com/user-attachments/assets/a7ee1c2f-912d-4162-937e-87b97ed6f364" />
 
-**Global Other Important Factors:**
+**Global Other Important Factors:-**
 
 <img width="1415" height="588" alt="image" src="https://github.com/user-attachments/assets/0bfd7ed7-6ecd-4d16-b6d6-eef43613182b" />
 
-**Fastest Growing Healthcare Sub-Segments:**
+**Fastest Growing Healthcare Sub-Segments:-**
 
             A. AI in Healthcare: 35–45% CAGR
             B. Digital Therapeutics (DTx): 20–30% (Software-based clinically validated treatments, apps or digital therapy)
