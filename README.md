@@ -221,7 +221,7 @@ For Example: JPMorgan Chase moves a staggering amount every single day:
 
 JPMorgan is one of the world’s largest daily payment flows—surpassing $10 trillion in transactions every day. Banking must possess strong domain expertise, ensure seamless coordination across stakeholders, and maintain unwavering focus on regulatory compliance are important to managing risk and driving successful product outcomes.
 
-**Tech/SaaS/Software:** Heavy on feature definition, agile iterations, UX optimization, engineering collaboration. **Technical understanding** is a must. Complex tech stack: New features often involve connecting with modern APIs, mobile apps, and cloud services. 
+**Tech/SaaS/Software:** Heavy on feature definition, agile iterations, UX optimization, engineering collaboration. **Technical understanding** is a must. Complex tech stack: New features often involve connecting with modern APIs, mobile apps, and cloud services. Azure explored DT by transforming Microsoft itself and by enabling customers worldwide to modernize, innovate, and scale using Azure’s cloud-native, AI, and DevOps capabilities. AI & Analytics → Azure AI, Cognitive Services, and Synapse Analytics drive smarter decision-making.
 
 **Hardware/Consumer:** Electronics	Complex product cycles, supply chain management, irreversible design decisions, emphasis on reliability and manufacturability.
 
@@ -305,7 +305,7 @@ Zerodha, India’s largest retail stock brokerage, started by identifying a key 
             D. Their user cloud discovery led to products built with simplicity, speed, and low cost — unlike bloated banking apps. 
             E. They now have 12M+ users and are profitable with almost no advertising spend.
 
-**6. Agile Methodology (Scrum, Kanban)** - Agile isn’t just a methodology — it’s a mindset built on learning fast, iterating often, and continuously refining what matters most. Checking Latest itineraries where agile is missing, hoping to explore and meet the twin instantly. 
+**6. Agile Methodology (Scrum, Kanban)** - Agile isn’t just a methodology — it’s a mindset built on learning fast, iterating often, and continuously refining what matters most. Google Cloud Instance meet practices Agile internally and enables Agile transformation for customers through cloud-native tools, DevOps practices. Instant QA Check.
 
 <img width="1091" height="222" alt="image" src="https://github.com/user-attachments/assets/3d5b7ddd-fedf-448b-b538-5ff31e3d6523" />
 
