@@ -70,6 +70,7 @@ Modern aircraft engines ensure safe, efficient, and affordable travel by powerin
 8. Agentic AI and AI Agents for Leaders Specialization (Vanderbilt University) (Strategic Insights for Leaders on Agentic AI. Gain the knowledge to lead AI innovation in your organization by understanding Agentic AI and AI Agents.)
 
 9. Digital Product Management Specialization (Implement a modern approach to product management. Master the fundamentals that create great teams and products)
+    
 10. Advanced Digital Transformation Specialization (IIM India, create ADvanced strategies and business models to leverage digital technologies.)
 
 
@@ -221,7 +222,7 @@ For Example: JPMorgan Chase moves a staggering amount every single day:
 
 JPMorgan is one of the world’s largest daily payment flows—surpassing $10 trillion in transactions every day. Banking must possess strong domain expertise, ensure seamless coordination across stakeholders, and maintain unwavering focus on regulatory compliance are important to managing risk and driving successful product outcomes.
 
-**Tech/SaaS/Software:** Heavy on feature definition, agile iterations, UX optimization, engineering collaboration. **Technical understanding** is a must. Complex tech stack: New features often involve connecting with modern APIs, mobile apps, and cloud services. Azure explored DT by transforming Microsoft itself and by enabling customers worldwide to modernize, innovate, and scale using Azure’s cloud-native, AI, and DevOps capabilities. AI & Analytics → Azure AI, Cognitive Services, and Synapse Analytics drive smarter decision-making. Emerging technologies such as Virtual Reality, Digital Twin, Artificial Intelligence, Augmented Reality, IoT, and Blockchain are becoming increasingly vital in this domain today.”
+**Tech/SaaS/Software:** Heavy on feature definition, agile iterations, UX optimization, engineering collaboration. **Technical understanding** is a must. Complex tech stack: New features often involve connecting with modern APIs, mobile apps, and cloud services. Azure explored DT by transforming Microsoft itself and by enabling customers worldwide to modernize, innovate, and scale using Azure’s cloud-native, AI, and DevOps capabilities. AI & Analytics → Azure AI, Cognitive Services, and Synapse Analytics drive smarter decision-making. Emerging technologies like Virtual Reality, Digital Twin, Artificial Intelligence, Augmented Reality, IoT, and Blockchain are playing an increasingly vital role in this domain today”
 
 **Hardware/Consumer:** Electronics	Complex product cycles, supply chain management, irreversible design decisions, emphasis on reliability and manufacturability.
 
