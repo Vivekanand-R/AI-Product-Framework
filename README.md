@@ -348,7 +348,7 @@ Meaning: Lean isn't just startup speak — it's embedded in Japan’s industrial
 
 **8. Market Research and Opportunity Sizing:**
 
-**Investment Simulation: Scaling a Medical Equipment Startup to $1B Unicorn**
+**Investment Simulation:** Scaling a Medical Equipment Startup to $1B Unicorn
 
 <img width="1297" height="287" alt="image" src="https://github.com/user-attachments/assets/4047c237-e6de-40bf-b5ab-6788531ec1f5" />
 
