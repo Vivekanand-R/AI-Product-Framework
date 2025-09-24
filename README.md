@@ -256,6 +256,10 @@ Fitbit didn’t just ride a trend—they created a new category: everyday wellne
 **2. Minimum Viable Product (MVP):** Mimimal Working Model
 
 The primary goal of an MVP is risk reduction. Built to quickly test assumptions, validate market demand, and gather feedback with minimal resources. Basic, functional version of a product that allows teams to test critical hypotheses with real users — without overcommitting resources upfront. In short, an MVP helps us to learn fast, fail cheap, and iterate smarter. In short, MVP the simplest version that delivers core value and tests key assumptions with minimal effort.
+            
+            A. Risk Reduction: An MVP tests assumptions and validates market demand with minimal resources.
+            B. Core Value First: It’s a basic, functional version that delivers essential features to real users.
+            C. Learn & Iterate: Enables fast feedback, cheap failures, and smarter product evolution.
 
 **Example – Samsung Innovation and Human experiences: Samsung Galaxy Market Share and expansion into the global healthcare market:**
 
@@ -281,13 +285,11 @@ With its high mobile bases and multiple SIM usage (especially among business use
              B. Engage users early and often: Before writing a single line of code, invest in understanding what problems users are actually trying to solve,
              C. Design simple, intuitive experiences, D. Use data and empathy together,
              E. Prototype quickly, learn continuously,
-             F. Prioritize, G. Collaborate,
-             H. Iterate based on real user feedback.
+             F. Focus on what matters, G. Collaborate effectively, H. Improve using real user insights
 
 **Example 1:** Designing a Patient-Centric Digital Treatment App for Diabetes Management
 
-In the healthcare sector, a pharmaceutical organization partnered with a digital health team to develop a mobile application for patients with Type 2 Diabetes. The goal was to improve medication adherence, lifestyle tracking, and communication with healthcare providers.
-
+In pharmaceutical sector, collaboration with a digital health team to create a mobile app for Type 2 Diabetes patients, aimed at enhancing medication adherence, lifestyle monitoring, and communication with healthcare providers.
 Some of the Impacts could be: xx% increase in medication adherence, | yy% drop in missed appointments | Increase in patient satisfaction scores | Reduction in support center call volume
 
 Another Example 2: Duolingo — Learning Through UX (**Best User Centered Design**): Language learning apps have existed forever, but most feel like homework. Duolingo flipped the model with relentless User-Centered Design, focusing on: Gamification that Actually Works and Inclusive, Accessible Design. Duolingo turned Language Learning for over 80 million monthly active users. Their design-led approach didn't just drive downloads, it fueled real habit formation, retention and Informative.
@@ -305,9 +307,11 @@ Zerodha, India’s largest retail stock brokerage, started by identifying a key 
             D. Their user cloud discovery led to products built with simplicity, speed, and low cost — unlike bloated banking apps. 
             E. They now have 12M+ users and are profitable with almost no advertising spend.
 
-**6. Agile Methodology (Scrum, Kanban)** - Agile isn’t just a methodology — it’s a mindset built on learning fast, iterating often, and continuously refining what matters most. Google Cloud Instance meet iternaries practices Agile internally and enables Agile transformation for customers through cloud-native tools today, DevOps practices. Instant QA Check, access visibility blocks list. 
+**6. Agile Methodology (Scrum, Kanban)** - Agile isn’t just a methodology — it’s a mindset built on learning fast, iterating often, and continuously refining what matters most. Agile 2.0, Google Cloud Instance meet schedules practices Agile internally and enables Agile transformation for customers through cloud-native tools today, DevOps practices. Instant QA Check, access visibility blocks list. AI is on the way to cloud. 
 
 <img width="1091" height="222" alt="image" src="https://github.com/user-attachments/assets/3d5b7ddd-fedf-448b-b538-5ff31e3d6523" />
+
+Agile can be applied in Cloud by using on-demand infrastructure to enable rapid experimentation and iteration. Cloud-native DevOps and CI/CD tools support continuous delivery and faster feedback. Collaboration and analytics services in the cloud help teams adapt quickly, scale, and improve continuously.
 
 In software development, whether using Scrum for structured sprints or Kanban for visual clarity, the goal remains consistent: deliver value through rapid, responsive iteration. Agile thrives on its core cycle — Discover, Define, Design, and Deliver — making it especially effective for leaders navigating. 
 
@@ -376,7 +380,7 @@ Meaning: Lean isn't just startup speak — it's embedded in Japan’s industrial
             F. Cybersecurity/Cloud for Healthcare: 17–22%
 
  
-9. **Product Roadmapping** - Process that links a product’s vision and goals to a clear plan of execution over time.
+9. **Product Roadmapping** - Process that links a product’s vision and goals to a clear plan of execution over time. A roadmap serves multiple purposes: Alignment: Ensures that stakeholders, leadership, and development teams share a common understanding of priorities. Clarity: Breaks down abstract vision into concrete initiatives, features, and milestones. Adaptability: Helps teams adjust direction based on user feedback, market changes, or new opportunities. Communication Tool: Acts as a living document to keep customers, partners, and internal teams informed.
 
 10. **Product Vision & Strategy**
 
