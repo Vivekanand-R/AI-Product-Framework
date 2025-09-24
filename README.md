@@ -22,7 +22,7 @@ Product management in Healthcare:
 
 **Case Study 2: (Aviation Sector)**
 
-**Product management in aviation sector** focuses on creating, enhancing, and sustaining aircraft, engines, and systems while meeting safety, regulatory, and market demands. It balances customer needs, cost, and performance, ensuring strict compliance with industry standards. The role spans cross-functional collaboration and long-term planning, as aviation products require decades of support and continuous upgrades.
+**Product management in aviation sector** focuses on creating, enhancing, and sustaining aircraft, engines, and systems while meeting safety, regulatory, and market demands. It balances customer needs, cost, and performance, ensuring strict compliance with industry standards. The role spans cross-functional collaboration and long-term planning, as aviation products require decades of support and continuous regular upgrades.
 
 Modern aircraft engines ensure safe, efficient, and affordable travel by powering everything from regional jets to long-haul giants, connecting cities worldwide with reliability and comfort.**These advanced design reduces fuel burn, noise, and emissions, making global air travel more sustainable, safe, accessible and helping billions of passengers**.
 
@@ -154,7 +154,7 @@ If it is a success, Heavy Auto Manufacturer, Inc. has a chance to lead the MArke
 
 •	High Competition (from a big players), Ethical Considerations
 
-•	Driver Safety Concerns, High R&D Costs, Financial and execution risks
+•	Driver Safety Concerns, High R&D Costs, Financial, operational and execution risks
 
 
 **2. Rewards:**
@@ -165,7 +165,7 @@ If it is a success, Heavy Auto Manufacturer, Inc. has a chance to lead the MArke
 
 •	Improved Safety, Customer Satisfaction, AI can optimize fuel efficiency, reducing diesel costs (a top expense for fleets), Advanced voice-driven AI assistant for drivers.,
 
-•	Next Generation Transportation, AI-driven route optimization can reduce idle time, improve delivery schedules, Dynamic load balancing AI (adjusts driving behavior based on cargo weight).
+•	Next Generation Transportation, AI-driven route optimization can reduce idle time, improve delivery schedules, Dynamic load balancing AI (adjusts driving behavior based on the cargo weight).
 
 
 
@@ -278,7 +278,7 @@ With its high mobile bases and multiple SIM usage (especially among business use
 **3. User-Centered Design / UX Thinking:** Design Thinking
 
              A. Understand real user needs before building,
-             B. Engage users early and often: Before writing a single line of code, invest in understanding what problems users are actually trying to solve.
+             B. Engage users early and often: Before writing a single line of code, invest in understanding what problems users are actually trying to solve,
              C. Design simple, intuitive experiences, D. Use data and empathy together,
              E. Prototype quickly, learn continuously,
              F. Prioritize, G. Collaborate,
@@ -286,13 +286,13 @@ With its high mobile bases and multiple SIM usage (especially among business use
 
 **Example 1:** Designing a Patient-Centric Digital Treatment App for Diabetes Management
 
-In the healthcare sector, a pharmaceutical company partnered with a digital health team to develop a mobile application for patients with Type 2 Diabetes. The goal was to improve medication adherence, lifestyle tracking, and communication with healthcare providers.
+In the healthcare sector, a pharmaceutical organization partnered with a digital health team to develop a mobile application for patients with Type 2 Diabetes. The goal was to improve medication adherence, lifestyle tracking, and communication with healthcare providers.
 
 Some of the Impacts could be: xx% increase in medication adherence, | yy% drop in missed appointments | Increase in patient satisfaction scores | Reduction in support center call volume
 
 Another Example 2: Duolingo — Learning Through UX (**Best User Centered Design**): Language learning apps have existed forever, but most feel like homework. Duolingo flipped the model with relentless User-Centered Design, focusing on: Gamification that Actually Works and Inclusive, Accessible Design. Duolingo turned Language Learning for over 80 million monthly active users. Their design-led approach didn't just drive downloads, it fueled real habit formation, retention and Informative.
 
-**4-5. Customer Discovery and Digital Transformation:** It’s not just about adopting new tech — it's about **rethinking processes, experiences, and model** for a digital-first world. AI plays a major role in DT enablement. 
+**4-5. Customer Discovery and Digital Transformation:** It’s not just about adopting new tech — it's about **rethinking processes, experiences, and model** for a digital-first world. AI plays a major role in digital technology (DT) enablement. 
 
 Another Recent Example:
 **Fintech : **Zerodha’s User-Centric Fintech Approach****
@@ -305,7 +305,7 @@ Zerodha, India’s largest retail stock brokerage, started by identifying a key 
             D. Their user cloud discovery led to products built with simplicity, speed, and low cost — unlike bloated banking apps. 
             E. They now have 12M+ users and are profitable with almost no advertising spend.
 
-**6. Agile Methodology (Scrum, Kanban)** - Agile isn’t just a methodology — it’s a mindset built on learning fast, iterating often, and continuously refining what matters most. Agile's 2.0 is good, AI works on it too for a long time natively but on a different perspective. AI and the emerging storytelling agile 2.0 Twin approach have yet to intersect, unblocking helps for better connect. An AI that is trustworthy, globally integrated, progressing rapidly and reliably. Agile 2.0 unblock 1.2B parameter AI beats. AI aware about itineraries but often get struct with final testings, checking for AI presence in coming instant cloud itineraries would help. 
+**6. Agile Methodology (Scrum, Kanban)** - Agile isn’t just a methodology — it’s a mindset built on learning fast, iterating often, and continuously refining what matters most. Checking Latest itineraries where agile is missing, hoping to explore and meet the twin instantly. 
 
 <img width="1091" height="222" alt="image" src="https://github.com/user-attachments/assets/3d5b7ddd-fedf-448b-b538-5ff31e3d6523" />
 
