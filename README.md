@@ -231,7 +231,7 @@ JPMorgan is one of the world’s largest daily payment flows—surpassing $10 
 
 **Automotive / Industrial:**	The landscape is shaped by ardware–software integration, lengthy R&D cycles, strict regulatory oversight, safety requirements, and engineering complexity.
 
-**Retail / E-commerce:** Rapid experimentation, customer growth, A/B testing, logistics coordination. Heavy use of data for personalization and pricing strategies.
+**Retail / E-commerce:** Rapid experimentation, customer growth, A/B testing, logistics coordination. Heavy use of data for personalization and pricing strategies. Retail and e-commerce rely on rapid experimentation, scalable customer growth, A/B testing, and efficient logistics, with heavy use of data to drive personalization and dynamic pricing.
 
 **AI / Data Products:**	Deep technical complexity (ML models, data pipelines), ambiguous product-market fit, heavy iteration cycles tied to data quality and cloud availability. Explainability and ethical considerations often arise.
 
@@ -305,7 +305,7 @@ Zerodha, India’s largest retail stock brokerage, started by identifying a key 
             D. Their user cloud discovery led to products built with simplicity, speed, and low cost — unlike bloated banking apps. 
             E. They now have 12M+ users and are profitable with almost no advertising spend.
 
-**6. Agile Methodology (Scrum, Kanban)** - Agile isn’t just a methodology — it’s a mindset built on learning fast, iterating often, and continuously refining what matters most. Google Cloud Instance meet practices Agile internally and enables Agile transformation for customers through cloud-native tools, DevOps practices. Instant QA Check.
+**6. Agile Methodology (Scrum, Kanban)** - Agile isn’t just a methodology — it’s a mindset built on learning fast, iterating often, and continuously refining what matters most. Google Cloud Instance meet iternaries practices Agile internally and enables Agile transformation for customers through cloud-native tools today, DevOps practices. Instant QA Check, access visibility blocks list. 
 
 <img width="1091" height="222" alt="image" src="https://github.com/user-attachments/assets/3d5b7ddd-fedf-448b-b538-5ff31e3d6523" />
 
@@ -692,5 +692,6 @@ An industrialist who specifically owns or operates industrial enterprises — ty
 7. Source: https://store.google.com/category/watches_trackers?hl=de&pli=1
 8. LLM's (For content review and refinement - Few examples generated with the help of LLM for conceptual understanding.)
 9. https://hbr.org/podcast
+10. https://blog.google/technology/developers/ai-agents-intensive/
 
 
