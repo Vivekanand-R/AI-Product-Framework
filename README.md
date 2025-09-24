@@ -230,7 +230,7 @@ JPMorgan is one of the world’s largest daily payment flows—surpassing $10 
 
 **Healthcare / MedTech:** **Compliance-driven, patient safety paramount**. Product lifecycle often long, with clinical trials, regulatory approvals (FDA, etc.), and stakeholder management across medical experts.
 
-**Automotive / Industrial:**	The landscape is defined by hardware–software integration, extended R&D cycles, rigorous regulatory compliance, stringent safety standards, and high engineering complexity in real world complexity.”
+**Automotive / Industrial:**	Hardware–software integration, extended R&D cycles, rigorous regulatory compliance, stringent safety standards, and high engineering complexity. Success depends on aligning innovation with reliability while managing time-to-market pressures. AI is emerging here, transforming this field by optimizing design processes, predicting failures, enhancing safety, and streamlining supply chain and operations. 
 
 **Retail / E-commerce:** Rapid experimentation, customer growth, A/B testing, logistics coordination. Heavy use of data for personalization and pricing strategies. Retail and e-commerce rely on rapid experimentation, scalable customer growth, A/B testing, and efficient logistics, with heavy use of data to drive personalization and dynamic pricing.
 
