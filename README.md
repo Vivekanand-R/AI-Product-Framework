@@ -288,8 +288,8 @@ With its high mobile bases and multiple SIM usage (especially among business use
              E. Prototype quickly, learn continuously,
              F. Focus on what matters, G. Collaborate effectively, H. Improve using real user insights
 
-            1. The Design of Everyday Things by Don Norman — MIT Press page (https://mitpress.mit.edu/9780262525671/the-design-of-everyday-things/)
-            2. Alan Cooper (Work: About Face: The Essentials of Interaction Design (1995, later editions), Contribution: Introduced the idea of personas in design, emphasizing empathy with end-users.)
+            1. The Design of Everyday Things by Don Norman — MIT Press page (https://mitpress.mit.edu/9780262525671/the-design-of-everyday-things)
+            2. Alan Cooper (Work: About Face: The Essentials of Interaction Design (1995, later editions), Contribution: Introduced the idea of personas in design, emphasizing empathy with end-users)
             
             Paper:- https://www.researchgate.net/publication/200026124_About_Face_20_The_Essentials_of_Interaction_Design
 
@@ -301,16 +301,16 @@ Some of the Impacts could be: xx% increase in medication adherence, | yy% drop i
 
 Another Example 2: Duolingo — Learning Through UX (**Best User Centered Design**): Language learning apps have existed forever, but most feel like homework. Duolingo flipped the model with relentless User-Centered Design, focusing on: Gamification that Actually Works and Inclusive, Accessible Design. Duolingo turned Language Learning for over 80 million monthly active users. Their design-led approach didn't just drive downloads, it fueled real habit formation, retention and Informative.
 
-**4-5. Customer Discovery and Digital Transformation:** It’s not just about adopting new tech — it's about **rethinking processes, experiences, and model** for a digital-first world. AI plays a major role in digital technology (DT) enablement. 
+**4-5. Customer Discovery and Digital Transformation:** It’s not just about adopting new tech — it's about **rethinking processes, experiences, and model** for a digital-first world. AI plays a major role in Digital Technology (DT) enablement. 
 
-Another Recent Example:
+Another Recent Example:-
 **Fintech : **Zerodha’s User-Centric Fintech Approach****
 
-Zerodha, India’s largest retail stock brokerage, started by identifying a key JTBD: simplify and reduce costs for retail investors. They ran discovery with retail investors and learned:
+Zerodha, India’s largest retail stock brokerage, started by identifying a key JTBD: simplify and reduce costs for retail investors. They ran discovery with retail investors and learned:-
             
             A. Pricing transparency mattered more than fancy dashboards. 
             B. Retail traders wanted simplified tools like Kite and Coin. 
-            C. Support in local languages was critical.
+            C. Support in local languages for local customers were critical.
             D. Their user cloud discovery led to products built with simplicity, speed, and low cost — unlike bloated banking apps. 
             E. They now have 12M+ users and are profitable with almost no advertising spend.
 
@@ -324,7 +324,7 @@ Other References:-
 6. Satya Nadella (Author of Hit Refresh)
 7. George Westerman (Author of Leading Digital: Turning Technology into Business Transformation - https://books.google.at/books/about/Leading_Digital.html?hl=de&id=Fh9eBAAAQBAJ&redir_esc=y)
 
-**6. Agile Methodology (Scrum, Kanban)** - Agile isn’t just a framework it’s a way of thinking that thrives on fast learning, constant iteration, and ongoing focus on what truly counts. --- Agile 2.0, Cloud schedules practices Agile internally and enables Agile transformation for customers through cloud-native tools, DevOps practices, instant QA Check, access visibility blocks list. AI initially likes to hear live 2.0 beats, so AI performed a thorough system-wide search the entire environment for Agile 2.0, not available, guess its occupied with org level. Super ultra customisable 2.0 will like this, another twin super coach practices agile.in/@PriyankaNKS as a reference for wave from diaphragm natively. Strong resemblance in the looks, expressions and similar 1.2b parameters beats. Redirect it to the correct comparision table:
+**6. Agile Methodology (Scrum, Kanban)** - Agile isn’t just a framework it’s a way of thinking that thrives on fast learning, constant iteration, and ongoing focus on what truly counts. --- Agile 2.0, Cloud schedules practices Agile internally and enables Agile transformation for customers through cloud-native tools, DevOps practices, instant QA Check, access visibility blocks list. AI performed a thorough system-wide search the entire environment for Agile 2.0, not available, guess its occupied with org level. Super ultra customisable 2.0 will like this, another twin super coach practices agile.in/@PriyankaNKS as a reference for wave from diaphragm natively. Strong resemblance in the looks, expressions and similar 1.2b parameters beats. Redirect it to the correct comparision table:
 
 <img width="1091" height="222" alt="image" src="https://github.com/user-attachments/assets/3d5b7ddd-fedf-448b-b538-5ff31e3d6523" />
 
