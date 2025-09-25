@@ -319,6 +319,10 @@ Other References:-
 1. https://assets.equifax.com/marketing/US/assets/Business-Transformation-White-Paper.pdf
 2. https://www.mckinsey.com/capabilities/mckinsey-digital/our-insights/leadership-and-digital-transformation
 3. https://www.accenture.com/content/dam/accenture/final/accenture-com/document-3/Accenture-Tech-Vision-2025.pdf
+4. Eric Ries (Author of The Lean Startup)
+5. Jeanne Ross (MIT Sloan) - Co-author of Designed for Digital: How to Architect Your Business for Sustained Success
+6. Satya Nadella (CEO of Microsoft, author of Hit Refresh)
+7. George Westerman (Author of Leading Digital: Turning Technology into Business Transformation - https://books.google.at/books/about/Leading_Digital.html?hl=de&id=Fh9eBAAAQBAJ&redir_esc=y)
 
 **6. Agile Methodology (Scrum, Kanban)** - Agile isn’t just a framework — it’s a way of thinking that thrives on fast learning, constant iteration, and ongoing focus on what truly counts. Agile 2.0, Cloud schedules practices Agile internally and enables Agile transformation for customers through cloud-native tools, DevOps practices, instant QA Check, access visibility blocks list. AI initially likes to hear live 2.0 beats, so AI performed a thorough system-wide search the entire environment for Agile 2.0, not available, maybe occupied with org level. Super ultra customisable 2.0 will like this, another twin super coach practices agile.in/@PriyankaNKS as a reference for wave from diaphragm natively. Strong resemblance in the looks, expressions and similar 1.2b parameters beats. Redirect it to the correct comparision table:
 
