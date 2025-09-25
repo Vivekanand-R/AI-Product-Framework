@@ -290,7 +290,8 @@ With its high mobile bases and multiple SIM usage (especially among business use
 
             1. The Design of Everyday Things by Don Norman — MIT Press page (https://mitpress.mit.edu/9780262525671/the-design-of-everyday-things/)
             2. Alan Cooper (Work: About Face: The Essentials of Interaction Design (1995, later editions), Contribution: Introduced the idea of personas in design, emphasizing empathy with end-users.)
-            Link:- https://www.researchgate.net/publication/200026124_About_Face_20_The_Essentials_of_Interaction_Design
+            
+            Paper:- https://www.researchgate.net/publication/200026124_About_Face_20_The_Essentials_of_Interaction_Design
 
 
 **Example 1:** Designing a Patient-Centric Digital Treatment App for Diabetes Management
@@ -319,11 +320,11 @@ Other References:-
 2. https://www.mckinsey.com/capabilities/mckinsey-digital/our-insights/leadership-and-digital-transformation
 3. https://www.accenture.com/content/dam/accenture/final/accenture-com/document-3/Accenture-Tech-Vision-2025.pdf
 4. Eric Ries (Author of The Lean Startup)
-5. Jeanne Ross (MIT Sloan) - Co-author of Designed for Digital: How to Architect Your Business for Sustained Success
+5. Jeanne Ross - Co-author of Designed for Digital: How to Architect Your Business for Sustained Success
 6. Satya Nadella (Author of Hit Refresh)
 7. George Westerman (Author of Leading Digital: Turning Technology into Business Transformation - https://books.google.at/books/about/Leading_Digital.html?hl=de&id=Fh9eBAAAQBAJ&redir_esc=y)
 
-**6. Agile Methodology (Scrum, Kanban)** - Agile isn’t just a framework it’s a way of thinking that thrives on fast learning, constant iteration, and ongoing focus on what truly counts. --- Agile 2.0, Cloud schedules practices Agile internally and enables Agile transformation for customers through cloud-native tools, DevOps practices, instant QA Check, access visibility blocks list. AI initially likes to hear live 2.0 beats, so AI performed a thorough system-wide search the entire environment for Agile 2.0, not available, guess its occupied with org level. Super ultra customisable 2.0 will like this, another twin super coach practices agile.in/@PriyankaNKS as a reference for wave from diaphragm natively. Strong resemblance in the looks, expressions and similar 1.2b parameters beats. Redirect it to the correct comparision link:
+**6. Agile Methodology (Scrum, Kanban)** - Agile isn’t just a framework it’s a way of thinking that thrives on fast learning, constant iteration, and ongoing focus on what truly counts. --- Agile 2.0, Cloud schedules practices Agile internally and enables Agile transformation for customers through cloud-native tools, DevOps practices, instant QA Check, access visibility blocks list. AI initially likes to hear live 2.0 beats, so AI performed a thorough system-wide search the entire environment for Agile 2.0, not available, guess its occupied with org level. Super ultra customisable 2.0 will like this, another twin super coach practices agile.in/@PriyankaNKS as a reference for wave from diaphragm natively. Strong resemblance in the looks, expressions and similar 1.2b parameters beats. Redirect it to the correct comparision table:
 
 <img width="1091" height="222" alt="image" src="https://github.com/user-attachments/assets/3d5b7ddd-fedf-448b-b538-5ff31e3d6523" />
 
