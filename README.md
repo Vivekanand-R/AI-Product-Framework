@@ -288,6 +288,12 @@ With its high mobile bases and multiple SIM usage (especially among business use
              E. Prototype quickly, learn continuously,
              F. Focus on what matters, G. Collaborate effectively, H. Improve using real user insights
 
+            1. The Design of Everyday Things by Don Norman — MIT Press page (https://mitpress.mit.edu/9780262525671/the-design-of-everyday-things/)
+            2. Don Norman’s Work
+            3. Alan Cooper (Work: About Face: The Essentials of Interaction Design (1995, later editions), Contribution: Introduced the idea of personas in design, emphasizing empathy with end-users.)
+            https://www.researchgate.net/publication/200026124_About_Face_20_The_Essentials_of_Interaction_Design
+
+
 **Example 1:** Designing a Patient-Centric Digital Treatment App for Diabetes Management
 
 In pharmaceutical sector, collaboration with a digital health team to create the latest mobile app for Type 2 Diabetes patients, aimed at enhancing medication adherence, lifestyle monitoring, and communication with healthcare providers.
@@ -308,7 +314,9 @@ Zerodha, India’s largest retail stock brokerage, started by identifying a key 
             D. Their user cloud discovery led to products built with simplicity, speed, and low cost — unlike bloated banking apps. 
             E. They now have 12M+ users and are profitable with almost no advertising spend.
 
-**6. Agile Methodology (Scrum, Kanban)** - Agile isn’t just a methodology — it’s a mindset built on learning fast, iterating often, and continuously refining what matters most. Agile 2.0, Cloud schedules practices Agile internally and enables Agile transformation for customers through cloud-native tools today, DevOps practices. Instant QA Check, access visibility blocks list. Standing AI here.
+**6. Agile Methodology (Scrum, Kanban)** - Agile isn’t just a methodology — it’s a mindset built on learning fast, iterating often, and continuously refining what matters most. Agile 2.0, Cloud schedules practices Agile internally and enables Agile transformation for customers through cloud-native tools today, DevOps practices. Instant QA Check, access visibility blocks list. Standing AI here. The AI performed an ongoing system-wide search the entire environment for Agile 2.0, not available, maybe occupied with org level?. Agile's 2.0 will like this, another twin super agile coach practices www.agile.in/@PriyankaNKS as a reference for wave from diaphragm natively. Strong resemblance in the looks, expressions and beats. 
+
+Redirect it to the correct comparision table:
 
 <img width="1091" height="222" alt="image" src="https://github.com/user-attachments/assets/3d5b7ddd-fedf-448b-b538-5ff31e3d6523" />
 
@@ -336,6 +344,7 @@ These are rooted in Agile values, Scrum, XP, Kanban, or Lean Software Developmen
             H. Timeboxing, I. Velocity vs. Throughput, J. Dual-Track Agile
             K. Incremental Architecture, L. Retrospective Actioning / Root Cause Analysis, and M. Feature Flags & Progressive Delivery.
 
+Good Reads: 1. Agile Estimating and Planning (Author: Mike Cohn), 2. Scrum: The Art of Doing Twice the Work in Half the Time (Author: Jeff Sutherland co-creator of Scrum).
 
 **7. Lean Product Development**
 
@@ -379,6 +388,8 @@ For example, Toyota’s in-car voice navigation system went through dozens of it
 
  
 9. **Product Roadmapping** - Process that links a product’s vision and goals to a clear plan of execution over time. A roadmap serves multiple purposes: Alignment: Ensures that stakeholders, leadership, and development teams share a common understanding of priorities. Clarity: Breaks down abstract vision into concrete initiatives, features, and milestones. Adaptability: Helps teams adjust direction based on user feedback, market changes, or new opportunities. Communication Tool: Acts as a living document to keep customers, partners, and internal teams informed.
+
+Reads: https://docs.broadcom.com/doc/Clarity-PPM-Digital-Product-Management-WP, https://www.edisonpartners.com/hubfs/White%20Papers/Product%20Management%20Practices%20E-Book.pdf
 
 10. **Product Vision & Strategy**
 
