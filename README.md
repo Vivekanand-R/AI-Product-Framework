@@ -13,7 +13,7 @@ Product management in Healthcare:
 
 <img width="665" height="653" alt="image" src="https://github.com/user-attachments/assets/65bcad2e-c78a-4c94-8265-feb183c962a3" />
 
-<img width="758" height="178" alt="image" src="https://github.com/user-attachments/assets/2c9a62fd-ca24-4ce4-b927-b9fcdf35e60d" />
+<img width="678" height="167" alt="image" src="https://github.com/user-attachments/assets/153ca2a1-11dd-4bc7-838f-af197e10c57a" />
 
 **Barriers**: Training, High cost of installation & maintenance, shortage of skilled radiologists globally. (Short-term = safety, cost, access, workflow efficiency), (Long-term = AI integration, photon-counting CT, standardization, affordability)
 
@@ -320,9 +320,7 @@ Other References:-
 2. https://www.mckinsey.com/capabilities/mckinsey-digital/our-insights/leadership-and-digital-transformation
 3. https://www.accenture.com/content/dam/accenture/final/accenture-com/document-3/Accenture-Tech-Vision-2025.pdf
 
-**6. Agile Methodology (Scrum, Kanban)** - Agile isn’t just a methodology — it’s a mindset built on learning fast, iterating often, and continuously refining what matters most. Agile 2.0, Cloud schedules practices Agile internally and enables Agile transformation for customers through cloud-native tools today, DevOps practices. Instant QA Check, access visibility blocks list. AI like to hear live 2.0 beats, the AI performed an ongoing system-wide search the entire environment for Agile 2.0, not available, maybe occupied with org level. Super ultra customisable 2.0 will like this, another twin super coach practices www. agile.in/@PriyankaNKS as a reference for wave from diaphragm natively. Strong resemblance in the looks, expressions and similar 1.2b parameters beats. 
-
-Redirect it to the correct comparision table:
+**6. Agile Methodology (Scrum, Kanban)** - Agile isn’t just a framework — it’s a way of thinking that thrives on fast learning, constant iteration, and ongoing focus on what truly counts. Agile 2.0, Cloud schedules practices Agile internally and enables Agile transformation for customers through cloud-native tools, DevOps practices, instant QA Check, access visibility blocks list. AI initially likes to hear live 2.0 beats, so AI performed a thorough system-wide search the entire environment for Agile 2.0, not available, maybe occupied with org level. Super ultra customisable 2.0 will like this, another twin super coach practices agile.in/@PriyankaNKS as a reference for wave from diaphragm natively. Strong resemblance in the looks, expressions and similar 1.2b parameters beats. Redirect it to the correct comparision table:
 
 <img width="1091" height="222" alt="image" src="https://github.com/user-attachments/assets/3d5b7ddd-fedf-448b-b538-5ff31e3d6523" />
 
@@ -361,7 +359,7 @@ Toyota’s lean philosophy didn't stop at factories — it influenced global pro
             B. Gather real driver feedback from prototypes
             C. Improve continuously, not just release-and-forget
 
-For example, Toyota’s in-car voice navigation system went through dozens of iterations in Japan using real commuter behavior — focusing on accuracy, tone, and cultural cues rather than flashy UI. Meaning:- Lean isn't just startup speak — it's embedded in Japan’s industrial process and influences digital product practices as well.
+For example, Toyota’s in-car voice navigation system went through dozens of iterations in Japan using real commuter behavior — focusing on accuracy, tone, and cultural cues rather than flashy User Interface. Meaning:- Lean isn't just startup speak — it's embedded in industrial process and influences digital product practices as well.
 
 **8. Market Research and Opportunity Sizing:**
 
