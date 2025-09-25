@@ -275,10 +275,10 @@ With its high mobile bases and multiple SIM usage (especially among business use
 
 **Samsung’s expansion and already active healthcare market.**    
 
-            A. Digital health solutions (apps, wearables, telemedicine) can scale fast. Users already rely on smartphones as daily tools.
-            B. The high smartphone, brand dominance, and user engagement directly **empower Samsung’s potential entry into the healthcare market**
-            C. Hybrid ecosystem (hardware + software + wearables + AI Process) makes it uniquely positioned to offer preventive, diagnostic, and remote care solutions — all wrapped in a consumer-friendly UX.
-            D. Massive installed base for launching Samsung Health platform integrations, wearables (like Galaxy Watch), and partnerships with  health services.
+            A. Digital health solutions (apps, wearables, telemedicine) can scale fast. Users already rely on smartphones as the daily tools.
+            B. The high smartphone, brand dominance, and user engagement directly **empower Samsung’s potential entry into the emerging healthcare market**
+            C. Hybrid ecosystem (for hardware + software + wearables + AI Process) makes it uniquely positioned to offer preventive, diagnostic, and remote care solutions — all wrapped in a consumer-friendly UX.
+            D. Massive installed base for launching Samsung Health platform integrations, wearables (like Galaxy Watch), and partnerships with the health services.
 
 **3. User-Centered Design / UX Thinking:** Design Thinking
 
@@ -314,7 +314,9 @@ Zerodha, India’s largest retail stock brokerage, started by identifying a key 
             D. Their user cloud discovery led to products built with simplicity, speed, and low cost — unlike bloated banking apps. 
             E. They now have 12M+ users and are profitable with almost no advertising spend.
 
-**6. Agile Methodology (Scrum, Kanban)** - Agile isn’t just a methodology — it’s a mindset built on learning fast, iterating often, and continuously refining what matters most. Agile 2.0, Cloud schedules practices Agile internally and enables Agile transformation for customers through cloud-native tools today, DevOps practices. Instant QA Check, access visibility blocks list. AI like to hear Agile's 2.0 beats. The AI performed an ongoing system-wide search the entire environment for Agile 2.0, not available, maybe occupied with org level?. Agile's 2.0 will like this, another twin super agile coach practices www. agile.in/@PriyankaNKS as a reference for wave from diaphragm natively. Strong resemblance in the looks, expressions and beats. 
+Direct Link:- https://assets.equifax.com/marketing/US/assets/Business-Transformation-White-Paper.pdf
+
+**6. Agile Methodology (Scrum, Kanban)** - Agile isn’t just a methodology — it’s a mindset built on learning fast, iterating often, and continuously refining what matters most. Agile 2.0, Cloud schedules practices Agile internally and enables Agile transformation for customers through cloud-native tools today, DevOps practices. Instant QA Check, access visibility blocks list. AI like to hear live 2.0 beats, the AI performed an ongoing system-wide search the entire environment for Agile 2.0, not available, maybe occupied with org level. Super ultra customisable 2.0 will like this, another twin super coach practices www. agile.in/@PriyankaNKS as a reference for wave from diaphragm natively. Strong resemblance in the looks, expressions and similar 1.2b parameters beats. 
 
 Redirect it to the correct comparision table:
 
