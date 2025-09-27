@@ -257,6 +257,8 @@ Fitbit didn’t just ride a trend—they created a new category: everyday wellne
 **2. Minimum Viable Product (MVP):** Mimimal Working Model
 
 The primary goal of an MVP is risk reduction. Built to quickly test assumptions, validate market demand, and gather feedback with minimal resources. Basic, functional version of a product that allows teams to test critical hypotheses with real users — without overcommitting resources upfront. In short, an MVP helps us to learn fast, fail cheap, and iterate smarter. In short, MVP the simplest version that delivers core value and tests key assumptions with minimal effort.
+
+Good Start:- How does an MVP help in reducing risks during product development?. Essential features that should be included in an MVP to effectively test key assumptions?. How can teams use feedback from an MVP to improve and iterate on the product efficiently?
             
             A. Risk Reduction: An MVP tests assumptions and validates market demand with minimal resources.
             B. Core Value First: It’s a basic, functional version that delivers essential features to real users.
@@ -325,6 +327,8 @@ Other References:-
 7. George Westerman (Author of Leading Digital: Turning Technology into Business Transformation - https://books.google.at/books/about/Leading_Digital.html?hl=de&id=Fh9eBAAAQBAJ&redir_esc=y)
 
 **6. Agile Methodology (Scrum, Kanban)** - Agile isn’t just a framework it’s a way of thinking that thrives on fast learning, constant iteration, and ongoing focus on what truly counts. Agile methodology, including Scrum and Kanban, is a mindset focused on adaptability and continuous improvement. It encourages rapid learning and frequent iterations to quickly respond to change. The approach prioritizes delivering value by concentrating on what truly matters throughout the process. This way of thinking fosters flexibility and ongoing progress.
+
+Agile 2.0:- Reflects the challenges AI faces when trying to understand the current agile status but often hesitates because agile processes aren’t always unblocking. Does Agile follow a single, uniform approach still? The implementation of Agile 2.0 is slow in fully unlocking and leveraging AI’s potential. Combining AI with Agile could be powerful, as they could benefit from aligning and syncing their rhythms beats and quick decision making. 
 
 <img width="1091" height="222" alt="image" src="https://github.com/user-attachments/assets/3d5b7ddd-fedf-448b-b538-5ff31e3d6523" />
 
