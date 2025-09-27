@@ -224,7 +224,7 @@ JPMorgan is one of the world’s largest daily payment flows—surpassing $10 
 
 **Tech/SaaS/Software:** Heavy on feature definition, agile iterations, UX optimization, engineering collaboration. **Technical understanding** is a must. Complex tech stack: New features often involve connecting with modern APIs, mobile apps, and cloud services. Azure explored DT by transforming Microsoft itself and by enabling customers worldwide to modernize, innovate, and scale using Azure’s cloud-native, AI, and DevOps capabilities. AI & Analytics → Azure AI, Cognitive Services, and Synapse Analytics drive smarter decision-making. Emerging technologies like Virtual Reality, Digital Twin, Artificial Intelligence, Augmented Reality, IoT, and Blockchain are playing an increasingly vital role in this domain today”
 
-**Hardware/Consumer Electronics:** Complex product cycles, intricate supply chain management, irreversible design choices, and a strong focus on reliability and manufacturability. Success often depends on balancing innovation speed with cost efficiency and large-scale production demands.
+**Hardware/Consumer Electronics:** Complex product cycles, intricate supply chain management, irreversible design choices, and a strong focus on reliability and manufacturability. Success often depends on balancing innovation speed with cost efficiency and large-scale production demands on electronics.
 
 **Finance/Fintech:** User-centric digital cloud products with complex financial mechanics. **Strong focus on UX, data security, compliance**, and integrating emerging tech like AI or blockchain, usually work with more agile, digital-first products, but face equally complex challenges. Building digital-first, user-friendly products that push boundaries with AI, blockchain, and open APIs, while still respecting financial complexity and regulation.
 
@@ -234,7 +234,7 @@ JPMorgan is one of the world’s largest daily payment flows—surpassing $10 
 
 **Retail / E-commerce:** Rapid experimentation, customer growth, A/B testing, logistics coordination. Heavy use of data for personalization and pricing strategies. Retail and e-commerce rely on rapid experimentation, scalable customer growth, A/B testing, and efficient logistics, with heavy use of data to drive personalization and dynamic pricing.
 
-**AI / Data Products:**	Deep technical complexity (ML models, data pipelines), ambiguous product-market fit, heavy iteration cycles tied to data quality and cloud availability. Explainability and ethical considerations often arise.
+**AI / Data Products:**	Deep technical complexity (DL/ML models, data pipelines), ambiguous product-market fit, heavy iteration cycles tied to data quality and cloud availability. Explainability is crucial and ethical considerations should be considered and often arise.
 
 -----------------------------------------------------------
 
@@ -319,12 +319,12 @@ Other References:-
 1. https://assets.equifax.com/marketing/US/assets/Business-Transformation-White-Paper.pdf
 2. https://www.mckinsey.com/capabilities/mckinsey-digital/our-insights/leadership-and-digital-transformation
 3. https://www.accenture.com/content/dam/accenture/final/accenture-com/document-3/Accenture-Tech-Vision-2025.pdf
-4. Eric Ries (Author of The Lean Startup)
+4. Eric Ries - Author of The Lean Startup
 5. Jeanne Ross - Co-author of Designed for Digital: How to Architect Your Business for Sustained Success
 6. Satya Nadella (Author of Hit Refresh)
 7. George Westerman (Author of Leading Digital: Turning Technology into Business Transformation - https://books.google.at/books/about/Leading_Digital.html?hl=de&id=Fh9eBAAAQBAJ&redir_esc=y)
 
-**6. Agile Methodology (Scrum, Kanban)** - Agile isn’t just a framework it’s a way of thinking that thrives on fast learning, constant iteration, and ongoing focus on what truly counts. --- Agile 2.0, Cloud schedules practices Agile internally and enables Agile transformation for customers through cloud-native tools, DevOps practices, instant QA Check, access visibility blocks list. AI performed a thorough system-wide search the entire environment for Agile 2.0, not available, guess its occupied with org level. Super ultra customisable 2.0 will like this, another twin super coach practices agile.in/@PriyankaNKS as a reference for wave from diaphragm natively. Strong resemblance in the looks, expressions and similar 1.2b parameters beats. Redirect it to the correct comparision table:
+**6. Agile Methodology (Scrum, Kanban)** - Agile isn’t just a framework it’s a way of thinking that thrives on fast learning, constant iteration, and ongoing focus on what truly counts. Agile methodology, including Scrum and Kanban, is a mindset focused on adaptability and continuous improvement. It encourages rapid learning and frequent iterations to quickly respond to change. The approach prioritizes delivering value by concentrating on what truly matters throughout the process. This way of thinking fosters flexibility and ongoing progress.
 
 <img width="1091" height="222" alt="image" src="https://github.com/user-attachments/assets/3d5b7ddd-fedf-448b-b538-5ff31e3d6523" />
 
@@ -357,7 +357,7 @@ Reference Links: 1. Agile Estimating and Planning (Author: Mike Cohn), 2. Scrum:
 **7. Lean Product Development**
 
 **Auto/Manufacturing Example: Toyota's Lean Manufacturing → Lean Product Thinking**
-Toyota’s lean philosophy didn't stop at factories — it influenced global product thinking. In Toyota’s software-driven projects (e.g., in-car infotainment systems, autonomous vehicle R&D), they adapted “Kaizen” (continuous improvement) to software:
+Toyota’s lean philosophy extended beyond manufacturing to shape global product development. In their software-driven initiatives, such as in-car infotainment systems and autonomous vehicle research, Toyota applied the principle of “Kaizen” (continuous improvement) to software development.
 
             A. Start with a minimal system, 
             B. Gather real driver feedback from prototypes
