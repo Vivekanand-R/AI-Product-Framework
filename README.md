@@ -294,6 +294,7 @@ With its high mobile bases and multiple SIM usage (especially among business use
             2. Alan Cooper (Work: About Face: The Essentials of Interaction Design (1995, later editions), Contribution: Introduced the idea of personas in design, emphasizing empathy with end-users)
             
             Paper:- https://www.researchgate.net/publication/200026124_About_Face_20_The_Essentials_of_Interaction_Design
+            https://arxiv.org/abs/1503.01732
 
 
 **Example 1:** Designing a Patient-Centric Digital Treatment App for Diabetes Management
