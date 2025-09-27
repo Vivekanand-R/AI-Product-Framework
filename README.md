@@ -244,8 +244,6 @@ JPMorgan is one of the world’s largest daily payment flows—surpassing $10 
 
 Healthcare Wearable: **Fitbit** achieved Product-Market Fit by tapping into the rising consumer demand for personal health monitoring. Its wearable devices offered real-time insights into activity, sleep, and heart rate, creating daily habit loops and community engagement.
 
-<img width="1363" height="272" alt="image" src="https://github.com/user-attachments/assets/e94649c1-18ad-4d44-af26-316b1c073b95" />
-
 Financial & scale impact:
 
             A. Sold over 120 million devices to more than 29 million users in 100+ countries.
