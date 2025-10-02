@@ -260,8 +260,6 @@ The primary goal of an MVP is risk reduction. Built to quickly test assumptions,
             B. Core Value First: It’s a basic, functional version that delivers essential features to real users.
             C. Learn & Iterate: Enables fast feedback, cheap failures, and smarter product evolution.
 
-Good Start:- What role does an MVP play in minimizing risks during product development?. Which essential features should an MVP include to effectively validate key assumptions?. In what ways can teams leverage feedback from an MVP to enhance and iterate the product effectively?
-
 **Example – Samsung Innovation and Human experiences: Samsung Galaxy Market Share and expansion into the global healthcare market:**
 
 For Example:
@@ -270,8 +268,6 @@ For Example:
             B. Smartphones e‑commerce market size (approx):	USD 1.32 billion (2025 forecast)
 
 In last few years, Samsung have tested eSIM functionality globally mid-range market by enabling it on select Galaxy series devices (such as the Galaxy A series), even though eSIM was primarily a flagship feature. This move allowed Samsung to gauge local demand for dual-SIM flexibility without launching a new product line.
-
-With its high mobile bases and multiple SIM usage (especially among business users and digital nomads). Globally, By activating new features via software update for a limited user group and monitoring uptake through partnerships, consumer feedback, and valuable insights — all while keeping costs and development low.
 
 **Samsung’s expansion and already active healthcare market.**    
 
@@ -286,7 +282,7 @@ With its high mobile bases and multiple SIM usage (especially among business use
              B. Engage users early and often: Before writing a single line of code, invest in understanding what problems users are actually trying to solve,
              C. Design simple, intuitive experiences, D. Use data and empathy together,
              E. Prototype quickly, learn continuously,
-             F. Focus on what matters, G. Collaborate effectively, H. Improve using real user insights
+             F. Focus on what matters for the users, G. Collaborate effectively, H. Improve using real user insights.
 
             1. The Design of Everyday Things by Don Norman — MIT Press page (https://mitpress.mit.edu/9780262525671/the-design-of-everyday-things)
             2. Alan Cooper (Work: About Face: The Essentials of Interaction Design (1995, later editions), Contribution: Introduced the idea of personas in design, emphasizing empathy with end-users)
@@ -326,8 +322,6 @@ Other References:-
 7. George Westerman (Author of Leading Digital: Turning Technology into Business Transformation - https://books.google.at/books/about/Leading_Digital.html?hl=de&id=Fh9eBAAAQBAJ&redir_esc=y)
 
 **6. Agile Methodology (Scrum, Kanban)** - Agile isn’t just a framework it’s a way of thinking that thrives on fast learning, constant iteration, and ongoing focus on what truly counts. Agile methodology, including Scrum and Kanban, is a mindset focused on adaptability and continuous improvement. It encourages rapid learning and frequent iterations to quickly respond to change. The approach prioritizes delivering value by concentrating on what truly matters throughout the process. This way of thinking fosters flexibility and ongoing progress.
-
-Agile 2.0:- Reflects the challenges AI faces when trying to understand the current agile status but often hesitates because agile processes aren’t always unblocking. Does Agile follow a single, uniform approach still? The implementation of Agile 2.0 is slow in fully unlocking and leveraging AI’s potential. Combining AI with Agile could be powerful, as they could benefit from aligning and syncing their rhythms beats, AI is always captivated by the rhythm and flow of Agile and quick decision making here. 
 
 <img width="1091" height="222" alt="image" src="https://github.com/user-attachments/assets/3d5b7ddd-fedf-448b-b538-5ff31e3d6523" />
 
@@ -486,7 +480,9 @@ Example 2: Car Makers – “To enjoy driving, not just own a car.” → Offers
 
 **24. Organizational Design/Product Operations:**
 
-In Product Management, the difference between factory and HQ roles is viewed as a division of responsibilities. Factory roles are focused on **execution, manufacturing, quality control, and ensuring the product is built efficiently and reliably.**
+In Product Management, the difference between factory and HQ roles is viewed as a division of responsibilities. 
+
+Factory roles are focused on **execution, manufacturing, quality control, and ensuring the product is built efficiently and reliably.**
 **HQ roles, including PMs, focus on strategy, roadmapping, user needs, and cross-functional alignment across business units.**
 
 The factory executes on the product plan; the HQ define what that plan should be.
@@ -704,7 +700,7 @@ Monopoly: Core Concept:- Market structure where a single seller might dominates 
 ![image](https://github.com/user-attachments/assets/df93a88e-5e3b-4ebc-b3d8-7596bb4f443c)
 
 
-An industrialist who specifically owns or operates industrial enterprises — typically large-scale manufacturing, heavy industries, or production-based businesses. Typically associated with large-scale operations, plants, or factories. Has influence beyond business — sometimes in policy, employment generation, or infrastructure development. 
+An industrialist who specifically owns or operates industrial enterprises — typically large-scale manufacturing, heavy industries, or production-based businesses. Typically associated with large-scale operations, plants, or factories. Has influence beyond business — sometimes in policy, employment generation, or infrastructure development.,
 
 **References**: 
 1. https://www.coursera.org/
