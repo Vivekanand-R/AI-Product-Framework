@@ -1,6 +1,6 @@
 ## **"Towards" a Knowledge Framework for Enterprise Leadership – Executive Education**
 
-**Vision**: To advance by building a solid knowledge framework, leveraging continuous learning, and making a lasting impact on enterprise growth. Goal is to build the strong "**Foundations Of Knowledge, Growth, Create Value, Drive Strategy, and Empower Others To Excel**".
+**Vision**: To advance by building a solid knowledge framework, leveraging continuous learning, and making a lasting impact on enterprise growth. Goal is to build the strong "**Foundations Of Knowledge, Growth, Create Value, Drive Strategy, and Empower**".
 
 <img width="697" height="508" alt="image" src="https://github.com/user-attachments/assets/1a574cde-e8b0-4ae6-ac61-667b0494b0a2" />
 
