@@ -507,15 +507,24 @@ It’s a functional interdependence where both sides play critical roles. Produc
 
 **26. Cognitive Load Awareness:** Protect the team’s bandwidth. Too many simultaneous priorities kill focus and degrade quality.
 
-**27. Business-to-Business/Business-to-Consumer: (B2B vs B2C)**
+**27. List of Business models: (C2C, C2B, B2B vs B2C)**
 
- GE Healthcare’s B2B:
-   Focus on Large Medical Equipment: GE HealthCare is best known for its imaging and diagnostic machines, like MRI and CT scanners, ultrasound systems, X-ray machines, and other large-scale hospital equipment. Also provides healthcare IT solutions, like digital imaging software and data analytics for hospitals.
+A. C2C (Consumer-to-Consumer): Consumers sell directly to other consumers, usually via platforms (e.g., ecommerce platforms).
 
-Abbott has a blend of B2B and B2C operations: 
-   Abbott’s B2B: Diagnostics and Lab Equipment: Products like the Alinity systems or i-STAT analyzers are sold directly to hospitals, clinics, and labs. This is a classic B2B model, where Abbott provides solutions that healthcare professionals use.
+B. C2B (Consumer-to-Business): Individuals offer products or services to businesses (e.g., freelancers on Upwork, influencers partnering with brands).
+
+C. Subscription Model: Customers pay a recurring fee for continued access (e.g., SaaS platforms).
+
+D. Marketplace / Platform Model: The company acts as an intermediary, connecting buyers and sellers (e.g., Amazon, Uber).
+
+E. Freemium Model: A basic service is offered for free, with premium features available at a cost (e.g., Spotify, LinkedIn).
+
+F. Business-to-Business (B2B):  Example, GE Healthcare’s B2B: Focus on Large Medical Equipment: GE HealthCare is best known for its imaging and diagnostic machines, like MRI and CT scanners, X-ray machines, and other large-scale hospital equipment. Also provides healthcare IT solutions, like digital imaging software and data analytics for hospitals.
+
+G. Business-to-Consumer (B2C): Example 1: Abbott has a blend of B2B and B2C operations: Abbott’s B2B: Diagnostics and Lab Equipment: Products like the Alinity systems or i-STAT analyzers are sold directly to hospitals, clinics, and labs. This is a classic B2B model, where Abbott provides solutions that healthcare professionals use.
 
    Abbott’s B2C: Nutrition Products: Brands like Ensure, Pedialyte, and Similac are sold directly to consumers through pharmacies, supermarkets, and online retailers. This is a strong B2C channel where Abbott markets directly to end-users. Abbott’s range includes both small, patient-centric devices and lab instruments. Abbott also has a strong consumer health and nutrition division.
+
 
 **28. Six Sigma and Lean Manufacturing:** Methodologies aimed at improving business processes, especially in manufacturing and operations, with different focuses:
 
