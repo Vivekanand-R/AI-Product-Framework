@@ -605,7 +605,7 @@ Develop a successful digital product - Biases and Successful Validation:
 
 3. The Illusion of Data-Driven Decisions: Data rarely speaks clearly — sometimes it could be biased, and maybe incomplete. Balance data with intuition, qualitative insights, and context, rather than hiding behind dashboards.
 
-Example: Around 2005–2007, One of the largest mobile phone makers held over a 40% global market share in mobile phones. The iPhone launched in 2007. Nokia's Market Research Before iPhone: Maker relied on internal market data showing dominant handset sales and assumed no imminent disruption.
+Example: Around 2005–2007, One of the largest mobile phone makers held over a 40% global market share in mobile phones. The iPhone launched in 2007. Maker Market Research Before iPhone: Maker relied on internal market data showing dominant handset sales and assumed no imminent disruption.
 Focus: The data reflected the past, not emerging Common consumer Interests for smartphones with apps and touchscreens. Maker missed to see the shift, clinging to misleading comfort in market share metrics while Apple reshaped the landscape. 
 
 4. Shiny Object Syndrome:  Team often get distracted by new trends. Filter noise from real opportunities, guiding leadership back to strategic focus without dropping enthusiasm.
