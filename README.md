@@ -73,8 +73,8 @@ Modern aircraft engines ensure safe, efficient, and affordable travel by powerin
     
 10. Advanced Digital Transformation Specialization (IIM India, create ADvanced strategies and business models to leverage digital technologies.)
 
-
 **Advanced Roadmap**:
+
 1. Product Management: Capstone Project (IBM)
 
 2. Innovation and entrepreneurship Specialization (Develop innovation projects. Develop innovation projects in your organization, Tecnológico de Monterrey)
@@ -222,9 +222,9 @@ For Example: JPMorgan Chase moves a staggering amount every single day:
 
 JPMorgan is one of the world’s largest daily payment flows—surpassing $10 trillion in transactions every day. Banking must possess strong domain expertise, ensure seamless coordination across stakeholders, and maintain unwavering focus on regulatory compliance are important to managing risk and driving successful product outcomes.
 
-**Tech/SaaS/Software:** Heavy on feature definition, agile iterations, UX optimization, engineering collaboration. **Technical understanding** is a must. Complex tech stack: New features often involve connecting with modern APIs, mobile apps, and cloud services. Azure explored DT by transforming Microsoft itself and by enabling customers worldwide to modernize, innovate, and scale using Azure’s cloud-native, AI, and DevOps capabilities. AI & Analytics → Azure AI, Cognitive Services, and Synapse Analytics drive smarter decision-making. Emerging technologies like Virtual Reality, Digital Twin, Artificial Intelligence, Augmented Reality, IoT, and Blockchain are playing an increasingly vital role in this domain today”
+**Tech/SaaS/Software:** Heavy on feature definition, agile iterations, UX optimization, engineering collaboration. **Technical understanding** is a must. Complex tech stack: New features often involve connecting with modern APIs, mobile apps, and cloud services. Azure explored DT by transforming Microsoft itself and by enabling customers worldwide to modernize, innovate, and scale using Azure’s cloud-native, AI, and DevOps capabilities. AI & Analytics → Azure AI, Cognitive Services, and Synapse Analytics drive smarter decision-making. Emerging technologies like Virtual Reality, Digital Twin, Artificial Intelligence, Augmented Reality, IoT, and Blockchain are playing an increasingly vital role in this domain today”.
 
-**Hardware/Consumer Electronics:** Complex product cycles, intricate supply chain management, irreversible design choices, and a strong focus on reliability and manufacturability. Success often depends on balancing innovation speed with cost efficiency and large-scale production demands on electronics.
+**Hardware/Consumer Electronics:** Success often depends on balancing innovation speed with cost efficiency and the large-scale production demands on electronics. This Complex product cycles, irreversible design choices, intricate supply chain management, and a strong focus on reliability and manufacturability. 
 
 **Finance/Fintech:** User-centric digital cloud products with complex financial mechanics. **Strong focus on UX, data security, compliance**, and integrating emerging tech like AI or blockchain, usually work with more agile, digital-first products, but face equally complex challenges. Building digital-first, user-friendly products that push boundaries with AI, blockchain, and open APIs, while still respecting financial complexity and regulation.
 
@@ -232,7 +232,7 @@ JPMorgan is one of the world’s largest daily payment flows—surpassing $10 
 
 **Automotive / Industrial:**	Hardware–software integration, extended R&D cycles, rigorous regulatory compliance, stringent safety standards, and high engineering complexity. Success depends on aligning innovation with reliability while managing time-to-market pressures. AI is emerging here, transforming this field by optimizing design processes, predicting failures, enhancing safety, and streamlining supply chain and operations. 
 
-**Retail / E-commerce:** Rapid experimentation, customer growth, A/B testing, logistics coordination. Heavy use of data for personalization and pricing strategies. Retail and e-commerce rely on rapid experimentation, scalable customer growth, A/B testing, and efficient logistics, with heavy use of data to drive personalization and dynamic pricing.
+**Retail / E-commerce:** Rapid experimentation, customer growth, A/B testing, logistics coordination. Heavy use of data for personalization and pricing strategies. Retail and e-commerce rely on rapid experimentation, scalable customer growth, A/B testing, and efficient logistics, with heavy use of data to drive personalization and dynamic pricing for the retail/e-commerce.
 
 **AI / Data Products:**	Deep technical complexity (DL/ML models, data pipelines), ambiguous product-market fit, heavy iteration cycles tied to data quality and cloud availability. Explainability is crucial and ethical considerations should be considered and often arise.
 
@@ -325,6 +325,8 @@ Other References:-
 
 <img width="1091" height="222" alt="image" src="https://github.com/user-attachments/assets/3d5b7ddd-fedf-448b-b538-5ff31e3d6523" />
 
+Agile 2.0: AI went globally recently, does agile 2.0 joining the travel itenary originally to meet AI. Drag, drop!
+
 Agile can be applied in Cloud by using on-demand infrastructure to enable rapid experimentation and iteration. Cloud-native DevOps and CI/CD tools support continuous delivery and faster feedback. Collaboration and analytics services in the cloud help teams adapt quickly, scale, and improve continuously.
 
 In software development, whether using Scrum for structured sprints or Kanban for visual clarity, the goal remains consistent: deliver value through rapid, responsive iteration. Agile thrives on its core cycle — Discover, Define, Design, and Deliver — making it especially effective for leaders navigating. 
@@ -364,9 +366,10 @@ For example, Toyota’s in-car voice navigation system went through dozens of it
 
 **8. Market Research and Opportunity Sizing:**
 
-**Investment Simulation:-** Scaling a Medical Equipment Startup to $1B Unicorn
+**Investment Simulation:-** Scaling a Medical Equipment Startup to $1B Unicorn.
 
 <img width="1297" height="287" alt="image" src="https://github.com/user-attachments/assets/4047c237-e6de-40bf-b5ab-6788531ec1f5" />
+
 
 
 **Global Projection of Installed Medical Devices:-**
