@@ -9,7 +9,7 @@
 
 **Case Study 1: (Healthcare Sector)**
 
-Product management in Healthcare:
+Product management in Healthcare sector:
 
 <img width="665" height="653" alt="image" src="https://github.com/user-attachments/assets/65bcad2e-c78a-4c94-8265-feb183c962a3" />
 
