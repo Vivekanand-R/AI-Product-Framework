@@ -222,11 +222,11 @@ For Example: JPMorgan Chase moves a staggering amount every single day:
 
 JPMorgan is one of the world’s largest daily payment flows—surpassing $10 trillion in transactions every day. Banking must possess strong domain expertise, ensure seamless coordination across stakeholders, and maintain unwavering focus on regulatory compliance are important to managing risk and driving successful product outcomes.
 
-**Tech/SaaS/Software:** Heavy on feature definition, agile iterations, UX optimization, engineering collaboration. **Technical understanding** is a must. Complex tech stack: New features often involve connecting with modern APIs, mobile apps, and cloud services. Azure explored DT by transforming Microsoft itself and by enabling customers worldwide to modernize, innovate, and scale using Azure’s cloud-native, AI, and DevOps capabilities. AI & Analytics → Azure AI, Cognitive Services, and Synapse Analytics drive smarter decision-making. Emerging technologies like Virtual Reality, Digital Twin, Artificial Intelligence, Augmented Reality, IoT, and Blockchain are playing an increasingly vital role in this domain today”.
+**Tech/SaaS/Software:** Heavy on feature definition, agile iterations, UX optimization, engineering collaboration. **Technical understanding** is a must. Complex tech stack: New features often involve connecting with the modern APIs, mobile apps, and cloud services. Azure explored DT by transforming Microsoft itself and by enabling customers worldwide to modernize, innovate, and scale using Azure’s cloud-native, AI, and DevOps capabilities. AI & Analytics → Azure AI, Cognitive Services, and Synapse Analytics drive smarter decision-making. Emerging technologies like Virtual Reality, Digital Twin, Artificial Intelligence, Augmented Reality, IoT, and Blockchain are playing an increasingly vital role in this domain today”.
 
 **Hardware/Consumer Electronics:** Success often depends on balancing innovation speed with cost efficiency and the large-scale production demands on electronics. This Complex product cycles, irreversible design choices, intricate supply chain management, and a strong focus on reliability and manufacturability. 
 
-**Finance/Fintech:** User-centric digital cloud products with complex financial mechanics. **Strong focus on UX, data security, compliance**, and integrating emerging tech like AI or blockchain, usually work with more agile, digital-first products, but face equally complex challenges. Building digital-first, user-friendly products that push boundaries with AI, blockchain, and open APIs, while still respecting financial complexity and regulation.
+**Finance/Fintech:** User-centric digital cloud products with complex financial mechanics. **Strong focus on UX, data security, compliance**, and integrating emerging tech like AI or emerging technologies or or blockchain, usually work with more agile, digital-first products, but face equally complex challenges. Building digital-first, user-friendly products that push boundaries with AI, blockchain, and open APIs, while still respecting financial complexity and regulation.
 
 **Healthcare / MedTech:** **Compliance-driven, patient safety paramount**. Product lifecycle often long, with clinical trials, regulatory approvals (FDA, etc.), and stakeholder management across medical experts.
 
@@ -325,7 +325,7 @@ Other References:-
 
 <img width="1091" height="222" alt="image" src="https://github.com/user-attachments/assets/3d5b7ddd-fedf-448b-b538-5ff31e3d6523" />
 
-Agile 2.0: AI went globally recently, does agile 2.0 joining the travel itenary originally to meet AI. Drag, drop!
+Agile 2.0: AI went globally recently, does agile 2.0 joining the travel itenary originally to meet AI. Drag, drop! AI is on the way, running late!
 
 Agile can be applied in Cloud by using on-demand infrastructure to enable rapid experimentation and iteration. Cloud-native DevOps and CI/CD tools support continuous delivery and faster feedback. Collaboration and analytics services in the cloud help teams adapt quickly, scale, and improve continuously.
 
