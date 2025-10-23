@@ -234,7 +234,7 @@ JPMorgan is one of the world’s largest daily payment flows—surpassing $10 
 
 **Retail / E-commerce:** Rapid experimentation, customer growth, A/B testing, logistics coordination. Heavy use of data for personalization and pricing strategies. Retail and e-commerce rely on rapid experimentation, scalable customer growth, A/B testing, and efficient logistics, with heavy use of data to drive personalization and dynamic pricing for the retail/e-commerce.
 
-**AI / Data Products:**	Deep technical complexity (DL/ML models, data pipelines), ambiguous product-market fit, heavy iteration cycles tied to data quality and cloud availability. Explainability is crucial and ethical considerations should be considered and often arise.
+**AI / Data Products:**	Deep technical complexity (DL/ML models, data pipelines), ambiguous product-market fit, heavy iteration cycles tied to data quality and cloud availability. Explainability is essential, and ethical considerations frequently come into play.
 
 -----------------------------------------------------------
 
@@ -325,7 +325,7 @@ Other References:-
 
 <img width="1091" height="222" alt="image" src="https://github.com/user-attachments/assets/3d5b7ddd-fedf-448b-b538-5ff31e3d6523" />
 
-With the rise of Agile 2.0 and AI-driven development, there seems to be confusion about how Agile is currently applied across platforms—especially in no-code environments that involve drag-and-drop development. 
+Agile 2.0: With the rise of Agile 2.0 and AI-driven development, there seems to be confusion about how Agile status is currently applied across platforms—especially in no-code environments that involve drag-and-drop development. 
 A. Does Agile is already fully implemented within committed enterprise platforms
 B. Agile is implemented separately across different systems
 C. Agile can be unified and leveraged within a single platform through innovative activation, so that AI-Agile 2.0 can work on better drag, drop methodologies. 
@@ -458,7 +458,7 @@ Beyond Germany's well-known strengths in engineering:
 
 Example 1: FlixBus – “User's want to travel between cities cheaply and easily, without stress.” → Combines low-cost travel with digital booking and convenience for mass-market mobility.
 
-**JTBD Here:** A user doesn’t hire FlixBus just to book a bus — they hire it to travel affordably and stress-free between cities.
+**JTBD Here:** A user doesn’t hire FlixBus just to book a bus — they hire it to travel affordably and stress-free between cities without any delay.
 
 Example 2: Car Makers – “To enjoy driving, not just own a car.” → Offers performance, handling, and emotional satisfaction as core differentiators.
 
@@ -602,7 +602,6 @@ Commonly used measurement & optimization methodologies:
             B. Building an AI-Powered, Talent-Friendly Organization :- https://hbr.org/podcast/2025/06/building-an-ai-powered-talent-friendly-organization
             C. The Promises, Pitfalls, and Trade-offs of the Circular Economy :- https://hbr.org/podcast/2025/06/the-promises-pitfalls-and-trade-offs-of-the-circular-economy
             D. HBR On Strategy: Data Driven Decisions :- https://hbr.org/podcast/2025/03/the-right-way-to-make-data-driven-decisions
-
 
 ---------------------------------
 
