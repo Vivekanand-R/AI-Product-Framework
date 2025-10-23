@@ -532,7 +532,7 @@ F. Business-to-Business (B2B):  Example, GE Healthcare’s B2B: Focus on Large M
 
 G. Business-to-Consumer (B2C): Example 1: Another Healthcare Provider 2, has a blend of B2B and B2C operations: Diagnostics and Lab Equipment: Products like the systems or STAT analyzers are sold directly to hospitals, clinics, and labs. This is a classic B2B model, where it provides solutions that healthcare professionals use.
 
-   Healthcare Provider 2 B2C: Nutrition Products: Few brands are sold directly to consumers through pharmacies, supermarkets, and online retailers. This is a strong B2C channel where Abbott markets directly to end-users. Healthcare Provider 2 range includes both small, patient-centric devices and lab instruments. Abbott also has a strong consumer health and nutrition division.
+   Healthcare Provider 2 B2C: Nutrition Products: Few brands are sold directly to consumers through pharmacies, supermarkets, and online retailers. This is a strong B2C channel where Healthcare Provider 2  markets directly to end-users. Healthcare Provider 2 range includes both small, patient-centric devices and lab instruments. Abbott also has a strong consumer health and nutrition division.
 
 
 **28. Six Sigma and Lean Manufacturing:** Methodologies aimed at improving business processes, especially in manufacturing and operations, with different focuses:
