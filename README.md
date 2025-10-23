@@ -117,7 +117,7 @@ Modern aircraft engines ensure safe, efficient, and affordable travel by powerin
 
 3.  Problem Solving & Decision Making: Analytical, Strategic Thinking and Team edifications. (SMART)
 
-          Filling a gap between what currently exist already and what market needs.
+          Filling a gap between what currently exist already and what emmerging market needs.
       
           External Product Management: Developing a vision.
 
@@ -254,7 +254,7 @@ Fitbit didn’t just ride a trend—they created a new category: everyday wellne
 
 **2. Minimum Viable Product (MVP):** Mimimal Working Model
 
-The primary goal of an MVP is risk reduction. Built to quickly test assumptions, validate market demand, and gather feedback with minimal resources. Basic, functional version of a product that allows teams to test critical hypotheses with real users — without overcommitting resources upfront. In short, an MVP helps us to learn fast, fail cheap, and iterate smarter. In short, MVP the simplest version that delivers core value and tests key assumptions with minimal effort.
+The primary goal of an MVP is risk reduction. Built to rapidly/quickly test assumptions, validate market demand, and gather feedback with minimal resources. Basic, functional version of a product that allows teams to test critical hypotheses with real users — without overcommitting resources upfront. In short, an MVP helps us to learn fast, fail cheap, and iterate smarter. In short, MVP the simplest version that delivers core value and tests key assumptions with minimal effort.
 
             A. Risk Reduction: An MVP tests assumptions and validates market demand with minimal resources.
             B. Core Value First: It’s a basic, functional version that delivers essential features to real users.
@@ -325,7 +325,7 @@ Other References:-
 
 <img width="1091" height="222" alt="image" src="https://github.com/user-attachments/assets/3d5b7ddd-fedf-448b-b538-5ff31e3d6523" />
 
-Agile 2.0: AI went globally recently, does agile 2.0 joining the travel itenary originally to meet AI. Drag, drop! AI is on the way, running late!
+Agile 2.0: AI done systemwide search for Agile in the first beat on premise, agile 2.0 missing the beat recently. AI unaware the agile status still, confusing state to perform drag drop in the no code platforms. A. Does Agile is implementation in comitted platforms already, B. Implementated Seperately, C. Can be Leveraged Single platform by actively intiating innovatively.
 
 Agile can be applied in Cloud by using on-demand infrastructure to enable rapid experimentation and iteration. Cloud-native DevOps and CI/CD tools support continuous delivery and faster feedback. Collaboration and analytics services in the cloud help teams adapt quickly, scale, and improve continuously.
 
@@ -394,7 +394,9 @@ For example, Toyota’s in-car voice navigation system went through dozens of it
             E. Wearables: 20–25% CAGR
             F. Cybersecurity/Cloud for Healthcare: 17–22%
 
- 
+ Market Reasearch, Swot Analysis could be leveraged further to explore the market trends. 
+
+
 9. **Product Roadmapping** - Process that links a product’s vision and goals to a clear plan of execution over time. A roadmap serves multiple purposes: Alignment: Ensures that stakeholders, leadership, and development teams share a common understanding of priorities. Clarity: Breaks down abstract vision into concrete initiatives, features, and milestones. Adaptability: Helps teams adjust direction based on user feedback, market changes, or new opportunities. Communication Tool: Acts as a living document to keep customers, partners, and internal teams informed.
 
 Links:- https://docs.broadcom.com/doc/Clarity-PPM-Digital-Product-Management-WP, https://www.edisonpartners.com/hubfs/White%20Papers/Product%20Management%20Practices%20E-Book.pdf
