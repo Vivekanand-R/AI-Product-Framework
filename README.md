@@ -1,6 +1,6 @@
 ## **"Towards" a Knowledge Framework for Enterprise Leadership – Executive Education**
 
-**Vision**: To advance by building a solid knowledge framework, leveraging continuous learning, and making a lasting impact on enterprise growth. Goal is to build the strong "**Foundations Of Knowledge, Growth, Create Value, Drive Strategy, and Empower**".
+**Vision**: To advance by building a solid knowledge framework, leveraging continuous learning, and making a lasting impact on enterprise growth. The goal here is to build the strong "**Foundations Of Knowledge, Growth, Create Value, Drive Strategy, and Empower**".
 
 <img width="697" height="508" alt="image" src="https://github.com/user-attachments/assets/1a574cde-e8b0-4ae6-ac61-667b0494b0a2" />
 
@@ -212,7 +212,7 @@ If it is a success, Heavy Auto Manufacturer, Inc. has a chance to lead the MArke
 
 **Product Management Major Scope by Industry:**
 
-**Banking:** Highly regulated environment (central banks, KYC, data privacy laws). PMs often **manage legacy systems, core banking products** (accounts, loans, payments), and modernization projects. Change cycles are slow, risk aversion is high, and oversight is constant. Modern finance management tools, credit scoring systems rely heavily on data science and AI — PMs need to be conversant in these technologies. Blackrock, Barclays and other fin tech institutions.
+**Banking:** Highly regulated environment (central banks, KYC, data privacy laws). PMs often **manage legacy systems, core banking products** (accounts, loans, payments), and modernization projects. Change cycles are slow, risk aversion is high, and oversight is constant. Modern finance management tools, credit scoring systems rely heavily on data science and AI — PMs need to be conversant in these technologies. BlackRock, Barclays, and other global financial institutions operating within the fintech ecosystem.
 
 For Example: JPMorgan Chase moves a staggering amount every single day:
 
