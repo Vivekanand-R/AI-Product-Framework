@@ -325,7 +325,11 @@ Other References:-
 
 <img width="1091" height="222" alt="image" src="https://github.com/user-attachments/assets/3d5b7ddd-fedf-448b-b538-5ff31e3d6523" />
 
-Agile 2.0: AI done systemwide search for Agile in the first beat on premise, agile 2.0 missing the beat recently. AI unaware the agile status still, confusing state to perform drag drop in the no code platforms. A. Does Agile is implementation in comitted platforms already, B. Implementated Seperately, C. Can be Leveraged Single platform by actively intiating innovatively.
+With the rise of Agile 2.0 and AI-driven development, there seems to be confusion about how Agile is currently applied across platforms—especially in no-code environments that involve drag-and-drop development. 
+A. Does Agile is already fully implemented within committed enterprise platforms
+B. Agile is implemented separately across different systems
+C. Agile can be unified and leveraged within a single platform through innovative activation, so that AI-Agile 2.0 can work on better drag, drop methodologies. 
+
 
 Agile can be applied in Cloud by using on-demand infrastructure to enable rapid experimentation and iteration. Cloud-native DevOps and CI/CD tools support continuous delivery and faster feedback. Collaboration and analytics services in the cloud help teams adapt quickly, scale, and improve continuously.
 
@@ -526,9 +530,9 @@ E. Freemium Model: A basic service is offered for free, with premium features av
 
 F. Business-to-Business (B2B):  Example, GE Healthcare’s B2B: Focus on Large Medical Equipment: GE HealthCare is best known for its imaging and diagnostic machines, like MRI and CT scanners, X-ray machines, and other large-scale hospital equipment. Also provides healthcare IT solutions, like digital imaging software and data analytics for hospitals.
 
-G. Business-to-Consumer (B2C): Example 1: Abbott has a blend of B2B and B2C operations: Abbott’s B2B: Diagnostics and Lab Equipment: Products like the Alinity systems or i-STAT analyzers are sold directly to hospitals, clinics, and labs. This is a classic B2B model, where Abbott provides solutions that healthcare professionals use.
+G. Business-to-Consumer (B2C): Example 1: Another Healthcare Provider 2, has a blend of B2B and B2C operations: Diagnostics and Lab Equipment: Products like the systems or STAT analyzers are sold directly to hospitals, clinics, and labs. This is a classic B2B model, where it provides solutions that healthcare professionals use.
 
-   Abbott’s B2C: Nutrition Products: Brands like Ensure, Pedialyte, and Similac are sold directly to consumers through pharmacies, supermarkets, and online retailers. This is a strong B2C channel where Abbott markets directly to end-users. Abbott’s range includes both small, patient-centric devices and lab instruments. Abbott also has a strong consumer health and nutrition division.
+   Healthcare Provider 2 B2C: Nutrition Products: Few brands are sold directly to consumers through pharmacies, supermarkets, and online retailers. This is a strong B2C channel where Abbott markets directly to end-users. Healthcare Provider 2 range includes both small, patient-centric devices and lab instruments. Abbott also has a strong consumer health and nutrition division.
 
 
 **28. Six Sigma and Lean Manufacturing:** Methodologies aimed at improving business processes, especially in manufacturing and operations, with different focuses:
