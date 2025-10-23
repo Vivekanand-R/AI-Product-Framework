@@ -649,7 +649,12 @@ C. Talent reshuffling, Big Pipeline or long term contracts, Stock Buyback or Val
 2. Cut Low-Value Costs: Supplier negotiation, identify waste, get rid of over-engineered features, unnecessary expenses, inefficient advertisements, automating repetitive tasks, enhance operational efficiency, Inventory Management to avoid over stocking.
 3. Upsell & Cross-Sell Efficiently: To suggest higher tier products, Increase Customer Retention, Lead Gen. 
 4. Target High-Margin Customer Segments.
-5. Lean or Automate and Streamline Sales Operations effectively. 
+5. Lean or Automate and Streamline Sales Operations effectively.
+6. Improve Customer Lifetime Value (CLV)
+7. Reduce Customer Acquisition Cost (CAC)
+8. Data-Driven Sales Strategy
+9. Product Differentiation
+10. Strengthen Sales Enablement (sales teams to sell on value, not discounts)
 
 -----------------------------------------
 **Pricing Strategies:**
