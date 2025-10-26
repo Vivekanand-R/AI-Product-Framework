@@ -77,12 +77,12 @@ Each with implementations and derivatives for backpropagation.
 6. **demo.py** (17KB) - Interactive demo showcasing all features
 7. **.gitignore** - Clean repository management
 
-### Documentation (27KB total)
-8. **README.md** (10KB) - Comprehensive user guide
+### Documentation (~60KB total)
+8. **README.md** (11KB) - Comprehensive user guide
 9. **INSTALLATION.md** (4KB) - Step-by-step installation
-10. **QUICK_REFERENCE.md** (6KB) - Quick lookup guide
-11. **ARCHITECTURE.md** (13KB) - Technical architecture
-12. **SUMMARY.md** (this file) - Project summary
+10. **QUICK_REFERENCE.md** (7KB) - Quick lookup guide
+11. **ARCHITECTURE.md** (18KB) - Technical architecture
+12. **SUMMARY.md** (10KB) - Project summary (this file)
 
 ## 🎯 Key Features
 
@@ -152,10 +152,10 @@ Each with implementations and derivatives for backpropagation.
 ## 📊 Scope and Scale
 
 ### Code Statistics
-- **Total Files**: 12 (code + docs)
-- **Total Size**: ~100KB
-- **Lines of Code**: ~2,500+
-- **Documentation**: ~27KB
+- **Total Files**: 11 (code + docs)
+- **Total Size**: ~145KB
+- **Lines of Code**: ~3,500+
+- **Documentation**: ~60KB
 - **Tests**: Comprehensive core tests
 
 ### Feature Count
@@ -291,7 +291,7 @@ All documented in ARCHITECTURE.md with examples.
 | demo.py | 17KB | Feature showcase |
 | requirements.txt | <1KB | Dependencies |
 | .gitignore | <1KB | Git config |
-| SUMMARY.md | 8KB | This file |
+| SUMMARY.md | 10KB | This file |
 
 ## ✨ Unique Selling Points
 

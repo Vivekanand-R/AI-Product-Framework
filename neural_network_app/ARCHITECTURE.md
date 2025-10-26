@@ -16,7 +16,7 @@ neural_network_app/
 └── .gitignore                # Git ignore patterns
 ```
 
-**Total Size**: ~87KB of code and documentation
+**Total Size**: ~145KB of code and documentation
 
 ## 🏗️ Architecture Overview
 
