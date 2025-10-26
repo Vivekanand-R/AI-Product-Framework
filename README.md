@@ -628,6 +628,8 @@ Example: Meta’s Pivot to the Metaverse: While immersive environments are intri
 
 8. The Build-First Bias: Shipping features does not equal delivering value. Organizations confuse output with outcomes, falling into the "build bias" — where teams keep building without validating impact.
 
+9. Other Cognitive & Product Strategy Biases: Confirmation Bias, Survivorship Bias, Status Quo, Sunk Cost Fallacy, Anchoring Bias, Availability Heuristic, Law of the Instrument, Local Maxima. 
+
 ---------------------------
 
 **Generic Concept 1:** **Best Practices for S&P 500 in 2025-2030's:**
