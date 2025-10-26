@@ -654,7 +654,7 @@ C. Talent reshuffling, Big Pipeline or long term contracts, Stock Buyback or Val
 7. Reduce Customer Acquisition Cost (CAC)
 8. Data-Driven Sales Strategy
 9. Product Differentiation
-10. Strengthen Sales Enablement (sales teams to sell on value, not discounts)
+10. Strengthen Sales Enablement (to sell on value, not discounts)
 
 -----------------------------------------
 **Pricing Strategies:**
@@ -712,7 +712,7 @@ Apart from **visionary leadership, technological innovation, relentless executio
 
 Monopoly: Core Concept:- Market structure where a single seller might dominates the market for a product or service with no close substitutes. Price maker, meaning it has substantial control over pricing, output, and market conditions—something that’s impossible in more competitive markets. 
 
-1. Natural Monopoly, 2. Patented, 3. Technological, 4. Geographic, 5. Platform (Near-Monopoly), 6. Resource
+1. Natural Monopoly, 2. Patented, 3. Technological, 4. Geographic, 5. Platform (Near-Monopoly), 6. Resource.
 
 
 **Market Leader:**
