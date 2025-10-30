@@ -325,11 +325,7 @@ Other References:-
 
 <img width="1091" height="222" alt="image" src="https://github.com/user-attachments/assets/3d5b7ddd-fedf-448b-b538-5ff31e3d6523" />
 
-Agile 2.0: With the rise of Agile 2.0 and AI-driven development, there seems to be confusion about how Agile status is currently applied across platforms—especially in no-code environments that involve drag-and-drop development. 
-A. Does Agile is already fully implemented within committed enterprise platforms
-B. Agile is implemented separately across different systems
-C. Agile can be unified and leveraged within a single platform through innovative activation, so that AI-Agile 2.0 can work on better drag, drop methodologies. 
-
+Agile latest version is aimed at larger-scale, more complex environments (distributed teams, multi-team programs, enterprise contexts) rather than only small co-located teams. It emphasises outcome-driven product management, value stream thinking, continuous integration/delivery, and user-centred design integrated into the agile process.
 
 Agile can be applied in Cloud by using on-demand infrastructure to enable rapid experimentation and iteration. Cloud-native DevOps and CI/CD tools support continuous delivery and faster feedback. Collaboration and analytics services in the cloud help teams adapt quickly, scale, and improve continuously.
 
@@ -655,7 +651,7 @@ C. Talent reshuffling, Big Pipeline or long term contracts, Stock Buyback or Val
 6. Improve Customer Lifetime Value (CLV)
 7. Reduce Customer Acquisition Cost (CAC)
 8. Data-Driven Sales Strategy
-9. Product Differentiation
+9. Product Differentiation (unique value propositions (UVPs), R&D and customer feedback loops, value-based pricing)
 10. Strengthen Sales Enablement (to sell on value, not discounts)
 
 -----------------------------------------
