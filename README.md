@@ -655,6 +655,34 @@ C. Talent reshuffling, Big Pipeline or long term contracts, Stock Buyback or Val
 10. Strengthen Sales Enablement (to sell on value, not discounts)
 
 -----------------------------------------
+
+**Valuation Strategies:**
+
+Determining the worth or value of an asset, business, or investment. How much is this worth — and why?”
+
+**Contextand Purpose of Valuation**
+
+A. Investing: To decide if a stock or bond is overpriced or underpriced.
+
+B. Mergers & Acquisitions:	To determine a fair deal price between buyer and seller.
+
+C. Startups & Venture Capital:	To estimate company worth before fundraising.
+
+D. Corporate Finance:	For capital budgeting, restructuring, and reporting.
+
+E. Tax & Legal:	For estate planning, taxation, or litigation.
+
+F. Everyday Life:	Even when buy land, art.
+
+
+<img width="1457" height="382" alt="image" src="https://github.com/user-attachments/assets/b3f311e5-9d5b-4304-8eb0-2b2baacde4f3" />
+
+For Other References:- 
+
+1. Aswath Damodaran — “Valuation Approaches and Metrics: A Survey of the Theory and Evidence” (2006):- https://pages.stern.nyu.edu/~adamodar/pdfiles/papers/valuesurvey.pdf
+
+2. Graham & Harvey (2001), “The Theory and Practice of Corporate Finance: Evidence from the Field:- https://people.duke.edu/~jgraham/website/SurveyPaper.PDF
+
 **Pricing Strategies:**
 
 **Pricing Strategy Frameworks:**
