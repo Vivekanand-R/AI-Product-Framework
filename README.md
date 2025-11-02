@@ -674,8 +674,7 @@ E. Tax & Legal:	For estate planning, taxation, or litigation.
 
 F. Everyday Life:	Even when buy land, art.
 
-
-<img width="1457" height="382" alt="image" src="https://github.com/user-attachments/assets/b3f311e5-9d5b-4304-8eb0-2b2baacde4f3" />
+<img width="1457" height="385" alt="image" src="https://github.com/user-attachments/assets/039fbbbd-c4af-4b10-95a2-8f89897d8fbe" />
 
 For Other References:- 
 
