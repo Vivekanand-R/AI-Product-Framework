@@ -5,6 +5,7 @@
 <img width="697" height="508" alt="image" src="https://github.com/user-attachments/assets/1a574cde-e8b0-4ae6-ac61-667b0494b0a2" />
 
 
+
 **Types of Financial Models**
 
 1. Three-Statement Model – Integrates financial statements
