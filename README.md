@@ -4,6 +4,59 @@
 
 <img width="697" height="508" alt="image" src="https://github.com/user-attachments/assets/1a574cde-e8b0-4ae6-ac61-667b0494b0a2" />
 
+
+**Types of Financial Models**
+
+1. Three-Statement Model – Integrates financial statements
+
+2. Discounted Cash Flow (DCF) – Values via future cash flows
+
+3. Comparable Company (Comps) – Benchmarks using market multiples
+
+4. Precedent Transaction – Values using past deals
+
+5. M&A Model – Analyzes merger impact
+
+6. Leveraged Buyout (LBO) – Evaluates debt-financed acquisition
+
+7. Budgeting & Forecasting – Projects future performance
+
+8. Consolidation Model – Combines multiple entities
+
+9. Project Finance – Assesses long-term projects
+
+10. Option Pricing – Values derivatives or options
+
+11. Startup / Venture Model – Forecasts early-stage growth
+
+13. Sensitivity / Scenario Model – Tests assumption outcomes
+
+**Valuation Strategies:**
+
+Determining the worth or value of an asset, business, or investment. How much is this worth — and why?”
+
+**Contextand Purpose of Valuation**
+
+A. Investing: To decide if a stock or bond is overpriced or underpriced.
+
+B. Mergers & Acquisitions:	To determine a fair deal price between buyer and seller.
+
+C. Startups & Venture Capital:	To estimate company worth before fundraising.
+
+D. Corporate Finance:	For capital budgeting, restructuring, and reporting.
+
+E. Tax & Legal:	For estate planning, taxation, or litigation.
+
+F. Everyday Life:	Even when buy land, art.
+
+<img width="1457" height="385" alt="image" src="https://github.com/user-attachments/assets/039fbbbd-c4af-4b10-95a2-8f89897d8fbe" />
+
+For Other References:- 
+
+1. “Valuation Approaches and Metrics: A Survey of the Theory and Evidence” (2006):- https://pages.stern.nyu.edu/~adamodar/pdfiles/papers/valuesurvey.pdf
+
+2. “The Theory and Practice of Corporate Finance: Evidence from the Field:- https://people.duke.edu/~jgraham/website/SurveyPaper.PDF
+
    
 ## **Investment Framework Workout:** 
 
@@ -164,7 +217,7 @@ If it is a success, Heavy Auto Manufacturer, Inc. has a chance to lead the MArke
 
 •	Increased Revenue Growth (High ROI), AI-powered predictive safety features (automated lane correction, obstacle detection), Predictive maintenance
 
-•	Improved Safety, Customer Satisfaction, AI can optimize fuel efficiency, reducing diesel costs (a top expense for fleets), Advanced voice-driven AI assistant for drivers.,
+•	Improved Safety, Customer Satisfaction, AI can optimize fuel efficiency, reducing diesel costs (which is the top expense for fleets), Advanced voice-driven AI assistant for drivers.,
 
 •	Next Generation Transportation, AI-driven route optimization can reduce idle time, improve delivery schedules, Dynamic load balancing AI (adjusts driving behavior based on the cargo weight).
 
@@ -267,7 +320,7 @@ For Example:
             A. Market share by smartphone vendor (2025 - Approx Estimation): Apple 38.0 %, Samsung 37.3 %, Xiaomi 6.5 %	
             B. Smartphones e‑commerce market size (approx):	USD 1.32 billion (2025 forecast)
 
-In last few years, Samsung have tested eSIM functionality globally mid-range market by enabling it on select Galaxy series devices (such as the Galaxy A series), even though eSIM was primarily a flagship feature. This move allowed Samsung to gauge local demand for dual-SIM flexibility without launching a new product line.
+Samsung to gauge local demand flexibility without launching a new product line.
 
 **Samsung’s expansion and already active healthcare market.**    
 
@@ -325,7 +378,7 @@ Other References:-
 
 <img width="1091" height="222" alt="image" src="https://github.com/user-attachments/assets/3d5b7ddd-fedf-448b-b538-5ff31e3d6523" />
 
-Agile latest version is aimed at larger-scale, more complex environments (distributed teams, multi-team programs, enterprise contexts) rather than only small co-located teams. It emphasises outcome-driven product management, value stream thinking, continuous integration/delivery, and user-centred design integrated into the agile process.
+The new Agile version targets large-scale, complex settings like distributed and enterprise teams, emphasizing outcomes, value streams, continuous delivery, and user-centered design. Agile 2.0:- AI aims to connect with Agile 2.0 to enable smoother workflows, clear roadblocks asap. 
 
 Agile can be applied in Cloud by using on-demand infrastructure to enable rapid experimentation and iteration. Cloud-native DevOps and CI/CD tools support continuous delivery and faster feedback. Collaboration and analytics services in the cloud help teams adapt quickly, scale, and improve continuously.
 
@@ -655,32 +708,6 @@ C. Talent reshuffling, Big Pipeline or long term contracts, Stock Buyback or Val
 10. Strengthen Sales Enablement (to sell on value, not discounts)
 
 -----------------------------------------
-
-**Valuation Strategies:**
-
-Determining the worth or value of an asset, business, or investment. How much is this worth — and why?”
-
-**Contextand Purpose of Valuation**
-
-A. Investing: To decide if a stock or bond is overpriced or underpriced.
-
-B. Mergers & Acquisitions:	To determine a fair deal price between buyer and seller.
-
-C. Startups & Venture Capital:	To estimate company worth before fundraising.
-
-D. Corporate Finance:	For capital budgeting, restructuring, and reporting.
-
-E. Tax & Legal:	For estate planning, taxation, or litigation.
-
-F. Everyday Life:	Even when buy land, art.
-
-<img width="1457" height="385" alt="image" src="https://github.com/user-attachments/assets/039fbbbd-c4af-4b10-95a2-8f89897d8fbe" />
-
-For Other References:- 
-
-1. Aswath Damodaran — “Valuation Approaches and Metrics: A Survey of the Theory and Evidence” (2006):- https://pages.stern.nyu.edu/~adamodar/pdfiles/papers/valuesurvey.pdf
-
-2. Graham & Harvey (2001), “The Theory and Practice of Corporate Finance: Evidence from the Field:- https://people.duke.edu/~jgraham/website/SurveyPaper.PDF
 
 **Pricing Strategies:**
 
