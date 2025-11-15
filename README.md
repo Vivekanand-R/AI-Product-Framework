@@ -2,6 +2,33 @@
 
 **Vision**: To advance by building a solid knowledge framework, leveraging continuous learning, and making a lasting impact on enterprise growth. The goal here is to build the strong "**Foundations Of Knowledge, Growth, Create Value, Drive Strategy, and Empower**".
 
+---
+
+## 🧠 **Interactive Neural Network Visualization App**
+
+As part of the AI Product Management framework, we've developed an **advanced interactive application** to help understand neural networks visually. This hands-on tool demonstrates key concepts in machine learning and AI product development.
+
+### **Features:**
+- ✅ Multiple network architectures (Perceptron, 2-layer, 3-layer, custom)
+- ✅ Multiple activation functions (ReLU, Sigmoid, Tanh, Leaky ReLU, Linear)
+- ✅ Interactive training with real-time visualization
+- ✅ Gradient descent and backpropagation visualization
+- ✅ Custom parameter configuration
+- ✅ Built-in datasets for experimentation
+- ✅ Educational explanations and tooltips
+- ✅ Step-by-step and full training modes
+
+### **Quick Start:**
+```bash
+cd neural_network_app
+pip install -r requirements.txt
+streamlit run app.py
+```
+
+📖 **[Full Documentation](neural_network_app/README.md)** | 🚀 **[Installation Guide](neural_network_app/INSTALLATION.md)**
+
+---
+
 <img width="697" height="508" alt="image" src="https://github.com/user-attachments/assets/1a574cde-e8b0-4ae6-ac61-667b0494b0a2" />
 
 
