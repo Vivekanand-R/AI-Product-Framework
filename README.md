@@ -7,9 +7,9 @@
 
 **Types of Financial Models**
 
-1. Three-Statement Model – Integrates financial statements (Integrated model that combines: Income Statement, Balance Sheet and Cash Flow Statement)
+1. Three-Statement Model – Integrates financial statements (It's an Integrated model that combines: Income Statement, Balance Sheet and Cash Flow Statement)
 
-2. Discounted Cash Flow (DCF) – Values via future cash flows (Values business using discounted future cashflows)
+2. Discounted Cash Flow (DCF) – Values via future cash flows (Its Values business using the discounted future cashflows)
 
 3. Comparable Company (Comps) – Benchmarks using market multiples
 
@@ -694,7 +694,7 @@ Develop a successful digital product - Biases and Successful Validation:
 Example: Around 2005–2007, One of the largest mobile phone makers held over a 40% global market share in mobile phones. The iPhone launched in 2007. Maker Market Research Before iPhone: Maker relied on internal market data showing dominant handset sales and assumed no imminent disruption.
 Focus: The data reflected the past, not emerging Common consumer Interests for smartphones with apps and touchscreens. Maker missed to see the shift, clinging to misleading comfort in market share metrics while Apple reshaped the landscape. 
 
-4. Distracted by new trends. Filter noise from real opportunities, guiding leadership back to strategic focus without dropping enthusiasm.
+4. Distracted by new trends. Filter noise from real opportunities, guiding back to strategic focus without dropping enthusiasm.
 
 Example: Meta’s Pivot to the Metaverse: While immersive environments are intriguing, Meta's heavy investment in VR/AR metaverse spaces diverted focus from core product improvements. Adoption lagged, early hardware reviews underwhelmed, and real user traction is still elusive. Meanwhile, competitors captured attention elsewhere. 
 
