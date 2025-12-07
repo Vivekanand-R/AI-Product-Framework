@@ -5,12 +5,11 @@
 <img width="697" height="508" alt="image" src="https://github.com/user-attachments/assets/1a574cde-e8b0-4ae6-ac61-667b0494b0a2" />
 
 
-
 **Types of Financial Models**
 
-1. Three-Statement Model – Integrates financial statements
+1. Three-Statement Model – Integrates financial statements (Integrated model that combines: Income Statement, Balance Sheet and Cash Flow Statement)
 
-2. Discounted Cash Flow (DCF) – Values via future cash flows
+2. Discounted Cash Flow (DCF) – Values via future cash flows (Values business using discounted future cashflows)
 
 3. Comparable Company (Comps) – Benchmarks using market multiples
 
@@ -609,9 +608,9 @@ E. Freemium Model: A basic service is offered for free, with premium features av
 
 F. Business-to-Business (B2B):  Example, GE Healthcare’s B2B: Focus on Large Medical Equipment: GE HealthCare is best known for its imaging and diagnostic machines, like MRI and CT scanners, X-ray machines, and other large-scale hospital equipment. Also provides healthcare IT solutions, like digital imaging software and data analytics for hospitals.
 
-G. Business-to-Consumer (B2C): Example 1: Another Healthcare Provider 2, has a blend of B2B and B2C operations: Diagnostics and Lab Equipment: Products like the systems or STAT analyzers are sold directly to hospitals, clinics, and labs. This is a classic B2B model, where it provides solutions that healthcare professionals use.
+G. Business-to-Consumer (B2C): Example 1: Another Healthcare Provider, has a blend of B2B and B2C operations: Diagnostics and Lab Equipment: Products like the systems or STAT analyzers are sold directly to hospitals, clinics, and labs. This is a classic B2B model, where it provides solutions that healthcare professionals use.
 
-   Healthcare Provider 2 B2C: Nutrition Products: Few brands are sold directly to consumers through pharmacies, supermarkets, and online retailers. This is a strong B2C channel where Healthcare Provider 2  markets directly to end-users. Healthcare Provider 2 range includes both small, patient-centric devices and lab instruments. Abbott also has a strong consumer health and nutrition division.
+   B2C: Nutrition Products: Few brands are sold directly to consumers through pharmacies, supermarkets, and online retailers. This is a strong B2C channel where markets directly to end-users. Range includes both small, patient-centric devices and lab instruments, also has a strong consumer health and nutrition division.
 
 
 **28. Six Sigma and Lean Manufacturing:** Methodologies aimed at improving business processes, especially in manufacturing and operations, with different focuses:
@@ -695,7 +694,7 @@ Develop a successful digital product - Biases and Successful Validation:
 Example: Around 2005–2007, One of the largest mobile phone makers held over a 40% global market share in mobile phones. The iPhone launched in 2007. Maker Market Research Before iPhone: Maker relied on internal market data showing dominant handset sales and assumed no imminent disruption.
 Focus: The data reflected the past, not emerging Common consumer Interests for smartphones with apps and touchscreens. Maker missed to see the shift, clinging to misleading comfort in market share metrics while Apple reshaped the landscape. 
 
-4. Shiny Object Syndrome:  Team often get distracted by new trends. Filter noise from real opportunities, guiding leadership back to strategic focus without dropping enthusiasm.
+4. Distracted by new trends. Filter noise from real opportunities, guiding leadership back to strategic focus without dropping enthusiasm.
 
 Example: Meta’s Pivot to the Metaverse: While immersive environments are intriguing, Meta's heavy investment in VR/AR metaverse spaces diverted focus from core product improvements. Adoption lagged, early hardware reviews underwhelmed, and real user traction is still elusive. Meanwhile, competitors captured attention elsewhere. 
 
