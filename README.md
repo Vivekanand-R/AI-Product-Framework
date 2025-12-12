@@ -7,11 +7,13 @@
 
 **Types of Financial Models**
 
+Core Models | Valuation Models | Transaction Models | Specialized Models
+
 1. Three-Statement Model – Integrates financial statements (It's an Integrated model that combines: Income Statement, Balance Sheet and Cash Flow Statement)
 
-2. Discounted Cash Flow (DCF) – Values via future cash flows (Its Values business using the discounted future cashflows)
+2. Discounted Cash Flow (DCF) – Values via future cash flows (Its Values business using the discounted future cashflows) - This is an Discounts projected future cash flows to present value.
 
-3. Comparable Company (Comps) – Benchmarks using market multiples
+3. Comparable Company (Comps) – Benchmarks using market multiples - by applying peer group market multiples like EV/EBITDA or P/E to its metrics.
 
 4. Precedent Transaction – Values using past deals
 
@@ -330,13 +332,13 @@ Financial & scale impact:
 
             A. Sold over 120 million devices to more than 29 million users in 100+ countries.
             B. Reported peak annual revenue of ~$2.16 billion in 2016; most recent figures show ~$1.31 billion in 2020. 
-            C. **Acquired by Google** for $2.1 billion in 2021.
+            C. **Acquired by Google** for $2.1 billion in the year 2021.
 
-Fitbit didn’t just ride a trend—they created a new category: everyday wellness wearables. Their PMF is defined by massive adoption, stickiness, and a validated commercial model.
+The company didn’t just ride a trend—they created a new category: everyday wellness wearables. Their PMF is defined by massive adoption, stickiness, and a validated commercial model.
 
 **2. Minimum Viable Product (MVP):** Mimimal Working Model
 
-The primary goal of an MVP is risk reduction. Built to rapidly/quickly test assumptions, validate market demand, and gather feedback with minimal resources. Basic, functional version of a product that allows teams to test critical hypotheses with real users — without overcommitting resources upfront. In short, an MVP helps us to learn fast, fail cheap, and iterate smarter. In short, MVP the simplest version that delivers core value and tests key assumptions with minimal effort.
+The primary goal of an MVP is risk reduction. Built to rapidly/quickly test assumptions, validate market demand, and gather feedback with minimal resources. Basic, functional version of a product that allows teams to test critical hypotheses with real users — without overcommitting resources upfront. In short, an MVP helps us to learn fast, fail cheap, and iterate smarter. In short, MVP the simplest version that delivers core value and tests its key assumptions with the minimal effort on time.
 
             A. Risk Reduction: An MVP tests assumptions and validates market demand with minimal resources.
             B. Core Value First: It’s a basic, functional version that delivers essential features to real users.
@@ -356,11 +358,11 @@ Smartphones Innovation to gauge local demand flexibility without launching a new
             A. Digital health solutions (apps, wearables, telemedicine) can scale fast. Users already rely on smartphones as the daily tools.
             B. The high smartphone, brand dominance, and user engagement directly **empower Samsung’s potential entry into the emerging healthcare market**
             C. Hybrid ecosystem (for hardware + software + wearables + AI Process) makes it uniquely positioned to offer preventive, diagnostic, and remote care solutions — all wrapped in a consumer-friendly UX.
-            D. Massive installed base for launching Smartphones Innovation Health platform integrations, wearables (like Smart Watch), and partnerships with the health services.
+            D. The Massive installed base for launching Smartphones Innovation Health platform integrations, wearables (like Smart Watch), and partnerships with the health services.
 
 **3. User-Centered Design / UX Thinking:** Design Thinking
 
-             A. Understand real user needs before building,
+             A. Understand real user needs before building the entire product,
              B. Engage users early and often: Before writing a single line of code, invest in understanding what problems users are actually trying to solve,
              C. Design simple, intuitive experiences, D. Use data and empathy together,
              E. Prototype quickly, learn continuously,
@@ -407,7 +409,7 @@ Other References:-
 
 <img width="1091" height="222" alt="image" src="https://github.com/user-attachments/assets/3d5b7ddd-fedf-448b-b538-5ff31e3d6523" />
 
-The new Agile version targets large-scale, complex settings like distributed and enterprise teams, emphasizing outcomes, value streams, continuous delivery, and user-centered design. Agile 2.0:- 2.0 seems to be expensive which AI cannot afford it. 
+The new Agile version targets large-scale, complex settings like distributed and enterprise teams, emphasizing outcomes, value streams, continuous delivery, and user-centered design. Agile 2.0:- AI might go hand on hand in the next iterations natively, while 2.0 unlocks capabilities atleast now. A shift towards a native or near-native to 2.0 is likely, with the twin remaining staying connected forever.
 
 Agile can be applied in Cloud by using on-demand infrastructure to enable rapid experimentation and iteration. Cloud-native DevOps and CI/CD tools support continuous delivery and faster feedback. Collaboration and analytics services in the cloud help teams adapt quickly, scale, and improve continuously.
 
@@ -542,7 +544,7 @@ Example 2: Car Makers – “To enjoy driving, not just own a car.” → Offers
 
 **16. Product Analytics & KPIs (AARRR, DAU/MAU, NPS)**
 
-**17. User Feedback Loops**
+**17. User Feedback Loops**:- Its an user continous feedback section to ensure the digital product development track alighning its framework. 
 
 **18. Stakeholder Management** The practice of identifying, engaging, and aligning all parties who influence or are impacted by the product. It involves balancing diverse interests — from customers and executives to regulators and engineers. Effective management builds trust, reduces friction, and drives product success.
 
@@ -657,7 +659,7 @@ Commonly used measurement & optimization methodologies:
             B. Industry 2.0 (1870–1914) – Late 19th century: mass production with electricity and assembly lines. (Ford Motor Company (assembly line), **General Electric (electrification)**, and U.S. Steel became industrial giants.)
             C. Industry 3.0 (1960s–2000) – Mid 20th century: automation through electronics, IT, and computers. (IBM, Intel, Microsoft, and Siemens leveraged electronics, computers, and software to dominate the digital and automation age.)
             D. Industry 4.0 (2010–today) – 21st century: smart, connected systems using AI, IoT, and data. (Amazon, Tesla, Google (Alphabet), Siemens)
-            E. Forward-looking Industry 5.0 (emerging, ~2020s–future) (human–machine collaboration, sustainability, personalization) - Emerging leaders include Tesla, Boston Dynamics, Ørsted (renewable energy)
+            E. Forward-looking Industry 5.0 (emerging, ~2020s–future) (human–machine collaboration, sustainability, personalization) - Emerging leaders include Tesla, Boston Dynamics, Orsted (renewable energy)
 
 **33. Emerging Technologies** (AI evolution timeline)
 
