@@ -211,9 +211,6 @@ Modern aircraft engines ensure safe, efficient, and affordable travel by powerin
 
 5. User experience & Others Product Focused Requirements. 
 
-
-![image](https://github.com/user-attachments/assets/8be5d22c-9aaa-4fea-bc73-d9febafddd7a)
-
 ----------------------------------------------------
 
 **Scenario 1: AI Innovation in Semi-Trucks**
@@ -395,15 +392,6 @@ India’s largest retail stock brokerage, started by identifying a key JTBD: sim
             D. Their user cloud discovery led to products built with simplicity, speed, and low cost — unlike bloated banking apps. 
             E. They now have 12M+ users and are profitable with almost no advertising spend.
 
-Other References:- 
-
-1. https://assets.equifax.com/marketing/US/assets/Business-Transformation-White-Paper.pdf
-2. https://www.mckinsey.com/capabilities/mckinsey-digital/our-insights/leadership-and-digital-transformation
-3. https://www.accenture.com/content/dam/accenture/final/accenture-com/document-3/Accenture-Tech-Vision-2025.pdf
-4. Eric Ries - Author of The Lean Startup
-5. Jeanne Ross - Co-author of Designed for Digital: How to Architect Your Business for Sustained Success
-6. Satya Nadella (Author of Hit Refresh)
-7. George Westerman (Author of Leading Digital: Turning Technology into Business Transformation - https://books.google.at/books/about/Leading_Digital.html?hl=de&id=Fh9eBAAAQBAJ&redir_esc=y)
 
 **6. Agile Methodology (Scrum, Kanban)** - Agile isn’t just a framework it’s a way of thinking that thrives on fast learning, constant iteration, and ongoing focus on what truly counts. Agile methodology, including Scrum and Kanban, is a mindset focused on adaptability and continuous improvement. It encourages rapid learning and frequent iterations to quickly respond to change. The approach prioritizes delivering value by concentrating on what truly matters throughout the process. This way of thinking fosters flexibility and ongoing progress.
 
@@ -809,15 +797,19 @@ Monopoly: Core Concept:- Market structure where a single seller might dominates 
 An industrialist who specifically owns or operates industrial enterprises — typically large-scale manufacturing, heavy industries, or production-based businesses. Typically associated with large-scale operations, plants, or factories. Has influence beyond business — sometimes in policy, employment generation, or infrastructure development.,
 
 **References**: 
-1. https://www.coursera.org/
-2. https://professional.dce.harvard.edu/programs/product-management-from-design-to-launch/#overview-of-product-management-online-course
-3. https://online.stanford.edu/programs/advanced-product-management-program
-4. https://executive.berkeley.edu/programs/product-management-studio-program
-5. https://www.coursera.org/specializations/advanced-digital-transformation-iima
-6. https://www.grandviewresearch.com/industry-analysis/europe-cyber-security-market-report
-7. Source: https://store.google.com/category/watches_trackers?hl=de&pli=1
-8. LLM's (For content review and refinement - Few examples generated with the help of LLM for conceptual understanding.)
-9. https://hbr.org/podcast
-10. https://blog.google/technology/developers/ai-agents-intensive/
+1. https://professional.dce.harvard.edu/programs/product-management-from-design-to-launch/#overview-of-product-management-online-course
+2. https://www.coursera.org/
+4. https://online.stanford.edu/programs/advanced-product-management-program
+5. https://executive.berkeley.edu/programs/product-management-studio-program
+6. https://www.coursera.org/specializations/advanced-digital-transformation-iima
+7. https://www.grandviewresearch.com/industry-analysis/europe-cyber-security-market-report
+8. Source: https://store.google.com/category/watches_trackers?hl=de&pli=1
+9. LLM's (For review and refinement)
+10. https://hbr.org/podcast
+11. https://blog.google/technology/developers/ai-agents-intensive/
+12. https://assets.equifax.com/marketing/US/assets/Business-Transformation-White-Paper.pdf
+13. https://www.mckinsey.com/capabilities/mckinsey-digital/our-insights/leadership-and-digital-transformation
+14. https://www.accenture.com/content/dam/accenture/final/accenture-com/document-3/Accenture-Tech-Vision-2025.pdf
+15. https://books.google.at/books/about/Leading_Digital.html?hl=de&id=Fh9eBAAAQBAJ&redir_esc=y)
 
 
