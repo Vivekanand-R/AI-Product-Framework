@@ -453,9 +453,8 @@ For example, Manufacturer in-car voice navigation system went through dozens of 
 
 <img width="1702" height="646" alt="image" src="https://github.com/user-attachments/assets/a7ee1c2f-912d-4162-937e-87b97ed6f364" />
 
-Evaluating Investment Potential | Assessing future demands | Understanding Competitive Dynamics | AI Integration
 
-<img width="1415" height="588" alt="image" src="https://github.com/user-attachments/assets/0bfd7ed7-6ecd-4d16-b6d6-eef43613182b" />
+Evaluating Investment Potential | Assessing future demands | Understanding Competitive Dynamics | AI Integration
 
 **Fastest Growing Healthcare Sub-Segments:-**
 
