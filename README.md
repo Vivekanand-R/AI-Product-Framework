@@ -53,7 +53,7 @@ F. Everyday Life:	Even when buy land, art.
 
 <img width="1457" height="385" alt="image" src="https://github.com/user-attachments/assets/039fbbbd-c4af-4b10-95a2-8f89897d8fbe" />
 
-For Other References:- 
+References:- 
 
 1. “Valuation Approaches and Metrics: A Survey of the Theory and Evidence” (2006):- https://pages.stern.nyu.edu/~adamodar/pdfiles/papers/valuesurvey.pdf
 
@@ -451,8 +451,15 @@ For example, Manufacturer in-car voice navigation system went through dozens of 
 
 **Market Growth Potentials and the CAGR Estimations:-**
 
-<img width="1702" height="646" alt="image" src="https://github.com/user-attachments/assets/a7ee1c2f-912d-4162-937e-87b97ed6f364" />
+Healthcare growth varies widely by subsegment, with Digital Health (telehealth, mHealth, digital therapeutics, remote monitoring) and Healthcare IT & Analytics (AI, data analytics, cloud, cybersecurity) showing some of the fastest growth, often 15–45% CAGR, driven by technology adoption, data explosion, and policy support.
 
+Biotechnology and Medical Devices also demonstrate strong expansion, particularly gene/cell therapy, wearables, robotics, and advanced diagnostics, generally in the 15–30% CAGR range, fueled by innovation, aging populations, and chronic disease prevalence.
+
+More mature areas like Pharmaceuticals, Healthcare Services, Insurance, and Nutraceuticals grow at moderate rates (3–14% CAGR), shaped by reimbursement models, cost pressures, and preventive care trends.
+
+Across the sector, the top-performing growth areas (>20% CAGR) include AI in healthcare, digital therapeutics, telehealth/remote monitoring, gene & cell therapy, wearables, and healthcare cybersecurity.
+
+Experts estimate CAGR using a mix of top-down macro analysis and bottom-up company data, applying market sizing formulas, adoption curves, regulatory impacts, and inputs from industry reports, financials, and healthcare utilization data.
 
 Evaluating Investment Potential | Assessing future demands | Understanding Competitive Dynamics | AI Integration
 
@@ -467,8 +474,6 @@ Evaluating Investment Potential | Assessing future demands | Understanding Compe
 
 
 9. **Product Roadmapping** - Process that links a product’s vision and goals to a clear plan of execution over time. A roadmap serves multiple purposes: Alignment: Ensures that stakeholders, leadership, and development teams share a common understanding of priorities. Clarity: Breaks down abstract vision into concrete initiatives, features, and milestones. Adaptability: Helps teams adjust direction based on user feedback, market changes, or new opportunities. Communication Tool: Acts as a living document to keep customers, partners, and internal teams informed.
-
-Links:- https://docs.broadcom.com/doc/Clarity-PPM-Digital-Product-Management-WP, https://www.edisonpartners.com/hubfs/White%20Papers/Product%20Management%20Practices%20E-Book.pdf
 
 10. **Product Vision & Strategy**
 
@@ -809,6 +814,7 @@ An industrialist who specifically owns or operates industrial enterprises — ty
 12. https://assets.equifax.com/marketing/US/assets/Business-Transformation-White-Paper.pdf
 13. https://www.mckinsey.com/capabilities/mckinsey-digital/our-insights/leadership-and-digital-transformation
 14. https://www.accenture.com/content/dam/accenture/final/accenture-com/document-3/Accenture-Tech-Vision-2025.pdf
-15. https://books.google.at/books/about/Leading_Digital.html?hl=de&id=Fh9eBAAAQBAJ&redir_esc=y)
+15. https://docs.broadcom.com/doc/Clarity-PPM-Digital-Product-Management-WP, https://www.edisonpartners.com/hubfs/White%20Papers/Product%20Management%20Practices%20E-Book.pdf
+16. https://books.google.at/books/about/Leading_Digital.html?hl=de&id=Fh9eBAAAQBAJ&redir_esc=y)
 
 
