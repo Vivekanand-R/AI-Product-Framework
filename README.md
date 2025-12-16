@@ -808,7 +808,7 @@ An industrialist who specifically owns or operates industrial enterprises — ty
 6. https://www.coursera.org/specializations/advanced-digital-transformation-iima
 7. https://www.grandviewresearch.com/industry-analysis/europe-cyber-security-market-report
 8. Source: https://store.google.com/category/watches_trackers?hl=de&pli=1
-9. LLM's (For review and refinement)
+9. https://openai.com/
 10. https://hbr.org/podcast
 11. https://blog.google/technology/developers/ai-agents-intensive/
 12. https://assets.equifax.com/marketing/US/assets/Business-Transformation-White-Paper.pdf
