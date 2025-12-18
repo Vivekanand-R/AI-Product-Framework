@@ -95,9 +95,6 @@ References:-
 
 Product management in Healthcare sector:
 
-<img width="665" height="653" alt="image" src="https://github.com/user-attachments/assets/65bcad2e-c78a-4c94-8265-feb183c962a3" />
-
-<img width="678" height="167" alt="image" src="https://github.com/user-attachments/assets/153ca2a1-11dd-4bc7-838f-af197e10c57a" />
 
 **Barriers**: Training, High cost of installation & maintenance, shortage of skilled radiologists globally. (Short-term = safety, cost, access, workflow efficiency), (Long-term = AI integration, photon-counting CT, standardization, affordability)
 
@@ -109,8 +106,6 @@ Product management in Healthcare sector:
 **Product management in aviation sector** focuses on creating, enhancing, and sustaining aircraft, engines, and systems while meeting safety, regulatory, and market demands. It balances customer needs, cost, and performance, ensuring strict compliance with industry standards. The role spans cross-functional collaboration and long-term planning, as aviation products require decades of support and continuous regular upgrades.
 
 Modern aircraft engines ensure safe, efficient, and affordable travel by powering everything from regional jets to long-haul giants, connecting cities worldwide with reliability and comfort.**These advanced design reduces fuel burn, noise, and emissions, making global air travel more sustainable, safe, accessible and helping billions of passengers**.
-
-<img width="748" height="688" alt="image" src="https://github.com/user-attachments/assets/a08b4fda-301d-411e-84af-a1c97abcc6a6" />
 
 
 ----------------------------
