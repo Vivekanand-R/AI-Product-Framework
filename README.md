@@ -802,7 +802,7 @@ An industrialist who specifically owns or operates industrial enterprises — ty
 5. https://executive.berkeley.edu/programs/product-management-studio-program
 6. https://www.coursera.org/specializations/advanced-digital-transformation-iima
 7. https://www.grandviewresearch.com/industry-analysis/europe-cyber-security-market-report
-8. Source: https://store.google.com/category/watches_trackers?hl=de&pli=1
+8. https://books.google.at/books/about/Leading_Digital.html?hl=de&id=Fh9eBAAAQBAJ&redir_esc=y)
 9. https://openai.com/
 10. https://hbr.org/podcast
 11. https://blog.google/technology/developers/ai-agents-intensive/
@@ -810,6 +810,5 @@ An industrialist who specifically owns or operates industrial enterprises — ty
 13. https://www.mckinsey.com/capabilities/mckinsey-digital/our-insights/leadership-and-digital-transformation
 14. https://www.accenture.com/content/dam/accenture/final/accenture-com/document-3/Accenture-Tech-Vision-2025.pdf
 15. https://docs.broadcom.com/doc/Clarity-PPM-Digital-Product-Management-WP, https://www.edisonpartners.com/hubfs/White%20Papers/Product%20Management%20Practices%20E-Book.pdf
-16. https://books.google.at/books/about/Leading_Digital.html?hl=de&id=Fh9eBAAAQBAJ&redir_esc=y)
 
 
