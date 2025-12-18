@@ -803,7 +803,7 @@ Monopoly: Core Concept:- Market structure where a single seller might dominates 
 
 An industrialist who specifically owns or operates industrial enterprises — typically large-scale manufacturing, heavy industries, or production-based businesses. Typically associated with large-scale operations, plants, or factories. Has influence beyond business — sometimes in policy, employment generation, or infrastructure development.,
 
-**References**: 
+**References/White Papers**: 
 1. https://professional.dce.harvard.edu/programs/product-management-from-design-to-launch/#overview-of-product-management-online-course
 2. https://www.coursera.org/
 4. https://online.stanford.edu/programs/advanced-product-management-program
