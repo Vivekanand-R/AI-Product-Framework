@@ -708,6 +708,14 @@ C. Talent reshuffling, Big Pipeline or long term contracts, Stock Buyback or Val
 
 **Concept 2:** **S&P 500: General Pros and cons of acquiring a new company vs. investing internally:**
 
+Organic vs. Inorganic Growth | Mergers & Acquisitions (M&A) | Build vs. Buy vs. Partner 
+
+A. Buy → Acquire a company, product, or technology
+
+B. Partner → Strategic partnership, licensing, or joint venture
+
+C. Intrapreneurship → Internal startup-style teams
+
 ![image](https://github.com/user-attachments/assets/f0212342-820a-472e-aa89-92e8efb5fed2)
 
 
