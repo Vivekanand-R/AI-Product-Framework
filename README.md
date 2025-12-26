@@ -195,7 +195,7 @@ Experiments focus on **learning and decision quality**, including:
 This repository reflects a **product-first and enterprise-first mindset** toward AI and technology.
 
 - **Models can be impressive**
-- **Products must be useful**
+- **Products must be useful and must be industry relevant**
 - **Businesses must be sustainable**
 - **Frameworks make impact repeatable**
 
