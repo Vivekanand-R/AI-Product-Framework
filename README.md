@@ -90,7 +90,7 @@ AI-Product-Framework/
 
 ---
 
-## 5. Product & Enterprise Case Studies (`product_cases/`)
+## 5. Product and Enterprise Case Studies (`product_cases/`)
 
 Case studies span **multiple industries and enterprise contexts**, including:
 
@@ -112,7 +112,7 @@ Each case study typically explores:
 
 ---
 
-## 6. Metrics & Valuation Philosophy (`metrics/`)
+## 6. Metrics and Valuation Philosophy (`metrics/`)
 
 Metrics are treated as **decision instruments**, not vanity numbers.
 
