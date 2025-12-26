@@ -17,13 +17,11 @@ The goal is to answer a core question:
 
 This framework helps teams:
 
-      Decide whether AI should be used at all
-      
-      Choose the right level of model complexity
-      
-      Align model metrics with business impact
-      
-      Design systems that are scalable, reliable, and ethical
+- Decide whether AI should be used at all
+- Choose the right level of model complexity
+- Align model metrics with business impact
+- Design systems that are scalable, reliable, and ethical
+
 
 
 3. What This Framework Covers
@@ -54,7 +52,7 @@ This repository provides a repeatable blueprint covering:
 
 
 
-## 5. Repository Structure
+ 5. Repository Structure
 
 ```text
 AI-Product-Framework/
@@ -69,7 +67,7 @@ AI-Product-Framework/
       
 
 
-## 6. Product Case Studies (product_cases/)
+  6. Product Case Studies (product_cases/)
 
       Each product case follows a strict structure:
       
