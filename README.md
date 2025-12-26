@@ -173,6 +173,7 @@ Experiments focus on **learning and decision quality**, including:
 - **Applied scientists**
 - **Strategy and investment professionals**
 - **Technical product managers**
+- **Agile Coaches - Twin Approaches**
 - **Anyone building AI-driven systems beyond demos**
 
 ---
