@@ -3,7 +3,7 @@
 
 Designing, Building, and Scaling AI Products — From Problem to Production
 
-1. 1. Overview
+1. Overview
 
 AI-Product-Framework is a structured, end-to-end framework for designing, building, evaluating, and scaling AI-powered products.
 
@@ -14,16 +14,6 @@ The goal is to answer a core question:
       When does AI actually create product value — and when does it not?
 
 2. Why This Framework Exists
-
-Many AI projects fail not because models are weak, but because:
-
-      The problem is poorly defined
-      
-      Success metrics are unclear
-      
-      AI is used where simpler systems would suffice
-      
-      Trade-offs (cost, latency, risk) are ignored
 
 This framework helps teams:
 
