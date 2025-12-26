@@ -11,81 +11,59 @@ Unlike model-centric repositories, this framework starts from user problems and 
 
 The goal is to answer a core question:
 
-      When does AI actually create product value — and when does it not?
+      - When does AI actually create product value — and when does it not?
 
 2. Why This Framework Exists
 
 This framework helps teams:
 
-- Decide whether AI should be used at all
-- Choose the right level of model complexity
-- Align model metrics with business impact
-- Design systems that are scalable, reliable, and ethical
-
-
+      - Decide whether AI should be used at all
+      - Choose the right level of model complexity
+      - Align model metrics with business impact
+      - Design systems that are scalable, reliable, and ethical
 
 3. What This Framework Covers
 
 This repository provides a repeatable blueprint covering:
 
-      Problem & user definition
-
-      Industry  Product Use Cases
-
-      Financial Modeling
-      
-      AI suitability analysis
-      
-      Data strategy
-      
-      Model selection & experimentation
-      
-      System architecture
-      
-      Metrics & evaluation
-      
-      Risk, ethics, and trade-offs
-      
-      Iteration & roadmap planning
-      
-      Each step is documented using real-world product case studies.
+      - Problem & user definition
+      - Industry  Product Use Cases
+      - Financial Modeling
+      - AI suitability analysis
+      - Data strategy
+      - Model selection & experimentation
+      - System architecture
+      - Metrics & evaluation
+      - Risk, ethics, and trade-offs
+      - Iteration & roadmap planning
+      - Each step is documented using real-world product case studies.
 
 
 
  5. Repository Structure
-
-```text
-AI-Product-Framework/
-├── README.md              # Framework overview & philosophy
-├── product_cases/         # End-to-end AI product case studies
-├── metrics/               # Model, system, and business metrics
-├── architecture/          # System and data flow designs
-├── risks_tradeoffs/       # Ethical, technical, and business risks
-├── experiments/           # Experiments validating design choices
-└── roadmap.md             # Iterative improvement plans
-
       
-
-
+      ```text
+      AI-Product-Framework/
+      ├── README.md              # Framework overview & philosophy
+      ├── product_cases/         # End-to-end AI product case studies
+      ├── metrics/               # Model, system, and business metrics
+      ├── architecture/          # System and data flow designs
+      ├── risks_tradeoffs/       # Ethical, technical, and business risks
+      ├── experiments/           # Experiments validating design choices
+      └── roadmap.md             # Iterative improvement plans
+      
+      
   6. Product Case Studies (product_cases/)
 
-      Each product case follows a strict structure:
-      
-      Problem statement (user pain, not features)
-      
-      Why AI/Certain Product is needed (vs rules or heuristics)
-      
-      Data sources & constraints
-      
-      Model choice rationale
-      
-      Architecture overview
-      
-      Metrics for success
-      
-      Risks & mitigations
-      
-      Iteration strategy
+      - Each product case follows a strict structure:
+      - Problem statement (user pain, not features)
+      - Why AI/Certain Product is needed (vs rules or heuristics)
+      - Data sources & constraints
+      - Model choice rationale
+      - Architecture overview
+      - Metrics for success
+      - Risks & mitigations
+      - Iteration strategy
 
 7. Metrics Philosophy (Finanial/Revenue metrics)
 
