@@ -24,9 +24,9 @@ The goal is to build strong foundations across:
 It connects:
 
 - AI product thinking  
-- Organizational foundations & leadership  
-- Financial modeling & valuation  
-- Market strategy & execution  
+- Organizational foundations and leadership  
+- Financial modeling and valuation  
+- Market strategy and execution  
 - Industry case studies  
 - Research-driven insights  
 
@@ -58,13 +58,13 @@ This framework helps teams and leaders:
 
 This repository provides a **repeatable, enterprise-grade blueprint** covering:
 
-- Problem & user definition  
+- Problem and user definition  
 - Industry-specific product use cases  
-- Organizational foundations & leadership models  
-- Financial modeling & valuation strategies  
+- Organizational foundations and leadership models  
+- Financial modeling and valuation strategies  
 - AI suitability and feasibility analysis  
-- Data strategy & governance  
-- Model selection & experimentation  
+- Data strategy and governance  
+- Model selection and experimentation  
 - System and enterprise architecture  
 - Metrics, KPIs, and business outcomes  
 - Risk, ethics, compliance, and trade-offs  
@@ -80,11 +80,11 @@ Each area is grounded in **real-world case studies, industry examples, and resea
 ```text
 AI-Product-Framework/
 ├── README.md              # Vision, philosophy, and navigation
-├── product_cases/         # Industry & enterprise-level case studies
+├── product_cases/         # Industry and enterprise-level case studies
 ├── metrics/               # Financial, business, and AI metrics
 ├── architecture/          # System, data, and enterprise architectures
 ├── risks_tradeoffs/       # Strategic, ethical, financial, and technical risks
-├── experiments/           # Decision-driven experiments & validations
+├── experiments/           # Decision-driven experiments and validations
 └── roadmap.md             # Learning, product, and enterprise evolution plans
 ```
 
@@ -94,10 +94,10 @@ AI-Product-Framework/
 
 Case studies span **multiple industries and enterprise contexts**, including:
 
-- Healthcare & MedTech
-- Aviation & Aerospace
-- Automotive & Industrial AI
-- FinTech & Financial Services
+- Healthcare and MedTech
+- Aviation and Aerospace
+- Automotive and Industrial AI
+- FinTech and Financial Services
 - SaaS, Platforms, and Data Products
 
 Each case study typically explores:
@@ -127,7 +127,7 @@ Coverage includes:
 
 ---
 
-## 7. Architecture & Systems Thinking (`architecture/`)
+## 7. Architecture and Systems Thinking (`architecture/`)
 
 This section explores:
 
@@ -140,7 +140,7 @@ This section explores:
 
 ---
 
-## 8. Risks, Trade-Offs & Governance (`risks_tradeoffs/`)
+## 8. Risks, Trade-Offs and Governance (`risks_tradeoffs/`)
 
 A deliberate focus on **what can go wrong**, including:
 
@@ -153,7 +153,7 @@ A deliberate focus on **what can go wrong**, including:
 
 ---
 
-## 9. Experiments & Decision Validation (`experiments/`)
+## 9. Experiments and Decision Validation (`experiments/`)
 
 Experiments focus on **learning and decision quality**, including:
 
