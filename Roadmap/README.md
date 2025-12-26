@@ -1,5 +1,5 @@
 
-# AI Product Management Roadmap: 
+# Course Works: 
 
 **Essential Insights and Product Management Strategy, Execution & Impact for Real-World Applications:**
 
