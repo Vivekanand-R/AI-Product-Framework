@@ -54,20 +54,22 @@ This repository provides a repeatable blueprint covering:
 
 
 
-5. Repository Structure
+## 5. Repository Structure
 
-      AI-Product-Framework/
-      ├── README.md              # Framework overview & philosophy
-      ├── product_cases/         # End-to-end AI product case studies
-      ├── metrics/               # Model, system, and business metrics
-      ├── architecture/          # System and data flow designs
-      ├── risks_tradeoffs/       # Ethical, technical, and business risks
-      ├── experiments/           # Experiments validating design choices
-      └── roadmap.md             # Iterative improvement plans
+```text
+AI-Product-Framework/
+├── README.md              # Framework overview & philosophy
+├── product_cases/         # End-to-end AI product case studies
+├── metrics/               # Model, system, and business metrics
+├── architecture/          # System and data flow designs
+├── risks_tradeoffs/       # Ethical, technical, and business risks
+├── experiments/           # Experiments validating design choices
+└── roadmap.md             # Iterative improvement plans
+
       
 
 
-6. Product Case Studies (product_cases/)
+## 6. Product Case Studies (product_cases/)
 
       Each product case follows a strict structure:
       
