@@ -36,7 +36,7 @@ Rather than being model-centric, this framework starts from **enterprise-level p
 
 ## 2. Why This Framework Exists
 
-Many AI and product initiatives fail not due to weak technology, but because of:
+Many AI and product initiatives struggle not due to weak technology, but because of:
 
 - Poor strategic alignment
 - Weak financial grounding
