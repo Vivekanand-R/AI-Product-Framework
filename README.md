@@ -167,13 +167,13 @@ Experiments focus on **learning and decision quality**, including:
 
 ## 10. Who This Framework Is For
 
-- **Product managers**
+- **Product Leaders/Managers/SME's**
 - **Enterprise and business leaders**
 - **AI / ML engineers**
 - **Applied scientists**
 - **Strategy and investment professionals**
 - **Technical product managers**
-- **Agile Coaches - Twin Approaches**
+- **Agile Coaches**
 - **Anyone building AI-driven systems beyond demos**
 
 ---
