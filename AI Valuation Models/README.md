@@ -817,4 +817,5 @@ Monopoly: Core Concept:- Market structure where a single seller might dominates 
 15. https://docs.broadcom.com/doc/Clarity-PPM-Digital-Product-Management-WP,
 16. https://www.edisonpartners.com/hubfs/White%20Papers/Product%20Management%20Practices%20E-Book.pdf
 
-Overall, This repository showcases product management thinking, frameworks and decision making approaches for portfolio demonstration for product management concepts, education and exploratory purposes. 
+Overall, this repository showcases product management thinking, frameworks and decision-making approaches for portfolio demonstration, learning and for exploratory purposes. 
+
