@@ -417,7 +417,7 @@ These are rooted in Agile values, Scrum, XP, Kanban, or Lean Software Developmen
             H. Timeboxing, I. Velocity vs. Throughput, J. Dual-Track Agile
             K. Incremental Architecture, L. Retrospective Actioning / Root Cause Analysis, and M. Feature Flags & Progressive Delivery.
 
-Reference Links: 1. Agile Estimating and Planning (Author: Mike Cohn), 2. Scrum: The Art of Doing Twice the Work in Half the Time (Author: Jeff Sutherland co-creator of Scrum).
+Reference Links: 1. Agile Estimating and Planning, 2. Scrum: The Art of Doing Twice the Work in Half the Time.
 
 **7. Lean Product Development**
 
