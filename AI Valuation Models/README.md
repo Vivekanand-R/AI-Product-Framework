@@ -800,7 +800,7 @@ Monopoly: Core Concept:- Market structure where a single seller might dominates 
 ![image](https://github.com/user-attachments/assets/df93a88e-5e3b-4ebc-b3d8-7596bb4f443c)
 
 
-**References/White Papers**: 
+**References**: 
 1. https://professional.dce.harvard.edu/programs/product-management-from-design-to-launch/#overview-of-product-management-online-course
 2. https://www.coursera.org/
 4. https://online.stanford.edu/programs/advanced-product-management-program
@@ -817,5 +817,5 @@ Monopoly: Core Concept:- Market structure where a single seller might dominates 
 15. https://docs.broadcom.com/doc/Clarity-PPM-Digital-Product-Management-WP,
 16. https://www.edisonpartners.com/hubfs/White%20Papers/Product%20Management%20Practices%20E-Book.pdf
 
-Overall, this repository showcases product management thinking, frameworks and decision-making approaches for portfolio demonstration, learning and for exploratory purposes. 
+Overall, this repository showcases product management thinking, frameworks and decision-making approaches for portfolio demonstration, learning and for exploratory purposes. With a goal of advancing responsible AI.
 
