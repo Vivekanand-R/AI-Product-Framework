@@ -1,4 +1,3 @@
-## **"Towards" a Knowledge Framework for Enterprise Leadership – Executive Education**
 
 **Vision**: To advance by building a solid knowledge framework, leveraging continuous learning, and making a lasting impact on enterprise growth. The goal here is to build the strong "**Foundations Of Knowledge, Growth, Create Value, Drive Strategy, and Empower**".
 
@@ -801,8 +800,6 @@ Monopoly: Core Concept:- Market structure where a single seller might dominates 
 ![image](https://github.com/user-attachments/assets/df93a88e-5e3b-4ebc-b3d8-7596bb4f443c)
 
 
-An industrialist who specifically owns or operates industrial enterprises — typically large-scale manufacturing, heavy industries, or production-based businesses. Typically associated with large-scale operations, plants, or factories. Has influence beyond business — sometimes in policy, employment generation, or infrastructure development.,
-
 **References/White Papers**: 
 1. https://professional.dce.harvard.edu/programs/product-management-from-design-to-launch/#overview-of-product-management-online-course
 2. https://www.coursera.org/
@@ -817,6 +814,7 @@ An industrialist who specifically owns or operates industrial enterprises — ty
 12. https://assets.equifax.com/marketing/US/assets/Business-Transformation-White-Paper.pdf
 13. https://www.mckinsey.com/capabilities/mckinsey-digital/our-insights/leadership-and-digital-transformation
 14. https://www.accenture.com/content/dam/accenture/final/accenture-com/document-3/Accenture-Tech-Vision-2025.pdf
-15. https://docs.broadcom.com/doc/Clarity-PPM-Digital-Product-Management-WP, https://www.edisonpartners.com/hubfs/White%20Papers/Product%20Management%20Practices%20E-Book.pdf
+15. https://docs.broadcom.com/doc/Clarity-PPM-Digital-Product-Management-WP,
+16. https://www.edisonpartners.com/hubfs/White%20Papers/Product%20Management%20Practices%20E-Book.pdf
 
-
+Overall, This repository showcases product management thinking, frameworks and decision making approaches for portfolio demonstration for product management concepts, education and exploratory purposes. 
