@@ -214,17 +214,6 @@ Workouts:
             D. Launch Plan – Coordinate cross-functional efforts for timing, marketing, PR, and release activities.
             E. Sales Enablement & Customer Onboarding – Provide tools, training, and onboarding flows to drive conversions and retention.
 
-**Example: Battery Maker Ecosystem-Led GTM Strategy vs Tesla’s Premium-First Approach**
-
-Car Manufacturer/Battery Maker competition Tesla’s playbook — it built a localized, bottom-up GTM strategy optimized for China’s infrastructure, market segments, and government incentives.
-
-**Key Strategies BYD used:**
-
-            A. Market Entry, Not Luxury First (Models offered practical range and price, helping them dominate volume).
-            B. Vertical Integration (BYD produces its own batteries (Blade Battery), semiconductors, and motors — enabling cost control and rapid scaling). 
-            C. Global Expansion via Strategic Markets.
-
-Result: As of 2024, Car Manufacturer/Battery Maker surpassed Tesla in global EV sales volume, with over 3 million vehicles delivered annually, and is now exporting.
 
 **14. Jobs to Be Done (JTBD):-** This is a **framework and mindset** used in product management to understand why users “hire” a product — not what features they want, but what outcome they’re trying to achieve in a real-world context.
 
@@ -280,11 +269,6 @@ It’s a functional interdependence where both sides play critical roles. Produc
             B. Factory (Gigafactories): Builds the car, integrates hardware, and ensures battery supply chain stability.
             C. PM Role: Coordinates between hardware engineering, software teams, and plant ops for rollout.
 
-**Example 2: Amazon (Echo Devices)**
-
-            A. HQ (Seattle): Decides which features (e.g. better voice recognition) go into the next Echo.
-            B. Factory (Asia): Manufactures the physical device and integrates firmware updates.
-            C. PM Role: Ensures hardware design supports Alexa’s evolving software capabilities.
 
 **25. Tech Debt Management:** Intentional, not accidental. Schedule and prioritize it just like feature work. Tech debt ignored = future product failure.
 
