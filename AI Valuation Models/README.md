@@ -301,7 +301,7 @@ JPMorgan is one of the world’s largest daily payment flows—surpassing $10 
 
 **Hardware/Consumer Electronics:** Success often depends on balancing innovation speed with cost efficiency and the large-scale production demands on electronics. This Complex product cycles, irreversible design choices, intricate supply chain management, and a strong focus on reliability and manufacturability. 
 
-**Finance/Fintech:** User-centric digital cloud products with complex financial mechanics. **Strong focus on UX, data security, compliance**, and integrating emerging tech like AI or emerging technologies or or blockchain, usually work with more agile, digital-first products, but face equally complex challenges. Building digital-first, user-friendly products that push boundaries with AI, blockchain, and open APIs, while still respecting financial complexity and regulation.
+**Finance/Fintech:** User-centric digital cloud products with complex financial mechanics. **Strong focus on UX, data security, compliance**, and integrating emerging tech like AI or emerging technologies or or blockchain, usually work with more agile, digital-first products, but face equally complex challenges. By building its digital-first, user-friendly products that push boundaries with AI, blockchain, and open APIs, while still respecting financial complexity and regulation.
 
 **Healthcare / MedTech:** **Compliance-driven, patient safety paramount**. Product lifecycle often long, with clinical trials, regulatory approvals (FDA, etc.), and stakeholder management across medical experts.
 
@@ -356,8 +356,7 @@ Smartphones Innovation to gauge local demand flexibility without launching a new
              A. Understand real user needs before building the entire product,
              B. Engage users early and often: Before writing a single line of code, invest in understanding what problems users are actually trying to solve,
              C. Design simple, intuitive experiences, D. Use data and empathy together,
-             E. Prototype quickly, learn continuously,
-             F. Focus on what matters for the users, G. Collaborate effectively, H. Improve using real user insights.
+             E. Prototype quickly, F. Focus on what matters for the users, G. Collaborate effectively, H. Improve using real user insights.
 
             1. The Design of Everyday Things by Don Norman — MIT Press page (https://mitpress.mit.edu/9780262525671/the-design-of-everyday-things)
             2. Alan Cooper (Work: About Face: The Essentials of Interaction Design (1995, later editions), Contribution: Introduced the idea of personas in design, emphasizing empathy with end-users)
@@ -391,7 +390,7 @@ India’s largest retail stock brokerage, started by identifying a key JTBD: sim
 
 <img width="1091" height="222" alt="image" src="https://github.com/user-attachments/assets/3d5b7ddd-fedf-448b-b538-5ff31e3d6523" />
 
-The new Agile version targets large-scale, complex settings like distributed and enterprise teams, emphasizing outcomes, value streams, continuous delivery, and user-centered design. Agile 2.0:- AI might go hand on hand in the next iterations natively, while 2.0 unlocks capabilities atleast now. A shift towards a native or near-native to 2.0 is likely, with the twin remaining staying connected forever.
+The new Agile version targets large-scale, complex settings like distributed and enterprise teams, emphasizing outcomes, value streams, continuous delivery, and user-centered design. Agile 2.0:- 2.0 stands as a inspirational for many, latest version of Agile seems to be missing its original charm a bit. Hybrid approaches is good and informative, AI thinks lately, realitic, no AI job been scheduled. AI is experiencing reduced environmental capacity due to low model temperatures and is undergoing parameteric movement to its native in weeks, to handle other big challenges. Overall, Agile 2.0 framework delivers strong informational continued value along with its original charm, which AI and Organization gets Inspired. 
 
 Agile can be applied in Cloud by using on-demand infrastructure to enable rapid experimentation and iteration. Cloud-native DevOps and CI/CD tools support continuous delivery and faster feedback. Collaboration and analytics services in the cloud help teams adapt quickly, scale, and improve continuously.
 
@@ -410,11 +409,9 @@ Example: Agile/Lean approach, famously known as the **Spotify** Squad Framework.
 
 These are rooted in Agile values, Scrum, XP, Kanban, or Lean Software Development:
             
-            A. Continuous Delivery, 
-            B. Iterative Development
-            C. Backlog Grooming / Refinement, E. Definition of Ready / Done
+            A. Continuous Delivery, and B. Iterative Development, C. Backlog Grooming / Refinement, E. Definition of Ready / Done
             F. Story Mapping, G. Agile Estimation
-            H. Timeboxing, I. Velocity vs. Throughput, J. Dual-Track Agile
+            H. Timeboxing, I. Velocity vs. the Throughput, J. Dual-Track Agile
             K. Incremental Architecture, L. Retrospective Actioning / Root Cause Analysis, and M. Feature Flags & Progressive Delivery.
 
 Reference Links: 1. Agile Estimating and Planning, 2. Scrum: The Art of Doing Twice the Work in Half the Time.
@@ -504,17 +501,6 @@ Workouts:
             D. Launch Plan – Coordinate cross-functional efforts for timing, marketing, PR, and release activities.
             E. Sales Enablement & Customer Onboarding – Provide tools, training, and onboarding flows to drive conversions and retention.
 
-**Example: Battery Maker Ecosystem-Led GTM Strategy vs Tesla’s Premium-First Approach**
-
-Car Manufacturer/Battery Maker competition Tesla’s playbook — it built a localized, bottom-up GTM strategy optimized for China’s infrastructure, market segments, and government incentives.
-
-**Key Strategies BYD used:**
-
-            A. Market Entry, Not Luxury First (Models offered practical range and price, helping them dominate volume).
-            B. Vertical Integration (BYD produces its own batteries (Blade Battery), semiconductors, and motors — enabling cost control and rapid scaling). 
-            C. Global Expansion via Strategic Markets.
-
-Result: As of 2024, Car Manufacturer/Battery Maker surpassed Tesla in global EV sales volume, with over 3 million vehicles delivered annually, and is now exporting.
 
 **14. Jobs to Be Done (JTBD):-** This is a **framework and mindset** used in product management to understand why users “hire” a product — not what features they want, but what outcome they’re trying to achieve in a real-world context.
 
@@ -681,7 +667,7 @@ Focus: The data reflected the past, not emerging Common consumer Interests for s
 
 4. Distracted by new trends. Filter noise from real opportunities, guiding back to strategic focus without dropping enthusiasm. To stay on the trends and focus on the vision.
 
-Example: Meta’s Pivot to the Metaverse: While immersive environments are intriguing, Meta's heavy investment in VR/AR metaverse spaces diverted focus from core product improvements. Adoption lagged, early hardware reviews underwhelmed, and real user traction is still elusive. Meanwhile, competitors captured attention elsewhere. 
+Example: Pivot to the Metaverse: While immersive environments are intriguing, Meta's heavy investment in VR/AR metaverse spaces diverted focus from core product improvements. Adoption lagged, early hardware reviews underwhelmed, and real user traction is still elusive. Meanwhile, competitors captured attention elsewhere at that time. 
 
 5. Product-Market Fit is a Moving Target - Continuously validate fit, not assuming it's locked in. Good for the products.
 
@@ -727,7 +713,7 @@ Pricing Strategies | Cost Management | Sales | Value Creation
 3. Upsell & Cross-Sell Efficiently: To suggest higher tier products, Increase Customer Retention, Lead Gen. 
 4. Target High-Margin Customer Segments.
 5. Lean or Automate and Streamline Sales Operations effectively.
-6. Improve Customer Lifetime Value (CLV)
+6. Improve Customer Lifetime Value (CLV) - By delivering the  high value and while controlling the support and servicing costs.
 7. Reduce Customer Acquisition Cost (CAC)
 8. Data-Driven Sales Strategy
 9. Product Differentiation (unique value propositions (UVPs), R&D and customer feedback loops, value-based pricing)
@@ -817,5 +803,5 @@ Monopoly: Core Concept:- Market structure where a single seller might dominates 
 15. https://docs.broadcom.com/doc/Clarity-PPM-Digital-Product-Management-WP,
 16. https://www.edisonpartners.com/hubfs/White%20Papers/Product%20Management%20Practices%20E-Book.pdf
 
-Overall, this repository showcases product management thinking, frameworks and decision-making approaches for portfolio demonstration, learning and for exploratory purposes. With a goal of advancing responsible AI.
+Overall, this repository showcases product management thinking, frameworks and decision-making approaches for portfolio demonstration, learning and for the exploratory purposes. With a focus on advancing responsible AI development.
 
