@@ -64,7 +64,7 @@ This repository provides a **repeatable, enterprise-grade blueprint** covering:
 - AI suitability and feasibility analysis  
 - Data strategy and governance  
 - Model selection and experimentation  
-- System and enterprise architecture  
+- Go-to-market, scaling strategies and enterprise architecture  
 - Metrics, KPIs, and business outcomes  
 - Risk, ethics, compliance, and trade-offs  
 - Iteration, learning, and long-term roadmapping  
