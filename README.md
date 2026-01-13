@@ -40,7 +40,6 @@ Many AI and product initiatives struggle not due to weak technology, but because
 
 - Poor strategic alignment
 - Weak financial grounding
-- Organizational blind spots
 - Misinterpreted data
 - Short-term decision making
 
@@ -68,7 +67,6 @@ This repository provides a **repeatable, enterprise-grade blueprint** covering:
 - System and enterprise architecture  
 - Metrics, KPIs, and business outcomes  
 - Risk, ethics, compliance, and trade-offs  
-- Go-to-market and scaling strategies  
 - Iteration, learning, and long-term roadmapping  
 
 Each area is grounded in **real-world case studies, industry examples, and research-backed insights**.
@@ -160,7 +158,6 @@ Experiments focus on **learning and decision quality**, including:
 - MVP and PMF validation
 - A/B testing and experimentation
 - User discovery and feedback loops
-- Failed experiments and lessons learned
 - Data-driven vs intuition-driven trade-offs
 
 ---
