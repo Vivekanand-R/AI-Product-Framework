@@ -26,7 +26,7 @@ Core Models | Valuation Models | Transaction Models | Specialized Models
 
 9. Project Finance – Assesses long-term projects
 
-10. Option Pricing – Values derivatives or options
+10. Option Pricing – Values derivatives or options (Option pricing is a fair value of an option, Inderivative whose value depends on an underlying asset (such as a stock, index, commodity, or currency., Option pricing measures how much uncertainty and time are worth.)
 
 11. Startup / Venture Model – Forecasts early-stage growth
 
@@ -105,7 +105,6 @@ Product management in Healthcare sector:
 **Product management in aviation sector** focuses on creating, enhancing, and sustaining aircraft, engines, and systems while meeting safety, regulatory, and market demands. It balances customer needs, cost, and performance, ensuring strict compliance with industry standards. The role spans cross-functional collaboration and long-term planning, as aviation products require decades of support and continuous regular upgrades.
 
 Modern aircraft engines ensure safe, efficient, and affordable travel by powering everything from regional jets to long-haul giants, connecting cities worldwide with reliability and comfort.**These advanced design reduces fuel burn, noise, and emissions, making global air travel more sustainable, safe, accessible and helping billions of passengers**.
-
 
 ----------------------------
 
@@ -301,7 +300,7 @@ JPMorgan is one of the world’s largest daily payment flows—surpassing $10 
 
 **Hardware/Consumer Electronics:** Success often depends on balancing innovation speed with cost efficiency and the large-scale production demands on electronics. This Complex product cycles, irreversible design choices, intricate supply chain management, and a strong focus on reliability and manufacturability. 
 
-**Finance/Fintech:** User-centric digital cloud products with complex financial mechanics. **Strong focus on UX, data security, compliance**, and integrating emerging tech like AI or emerging technologies or or blockchain, usually work with more agile, digital-first products, but face equally complex challenges. By building its digital-first, user-friendly products that push boundaries with AI, blockchain, and open APIs, while still respecting financial complexity and regulation.
+**Finance/Fintech:** User-centric digital cloud products with complex financial mechanics. **Strong focus on UX, data security, compliance**, and integrating emerging tech like AI or emerging technologies or or blockchain, usually work with more agile, digital-first products, but face equally complex challenges. By building its digital-first, user-friendly products that push boundaries with AI, blockchain and open APIs, while still respecting financial complexity and regulation.
 
 **Healthcare / MedTech:** **Compliance-driven, patient safety paramount**. Product lifecycle often long, with clinical trials, regulatory approvals (FDA, etc.), and stakeholder management across medical experts.
 
