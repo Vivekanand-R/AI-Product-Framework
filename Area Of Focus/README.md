@@ -104,8 +104,6 @@ India’s largest retail stock brokerage, started by identifying a key JTBD: sim
 
 <img width="1091" height="222" alt="image" src="https://github.com/user-attachments/assets/3d5b7ddd-fedf-448b-b538-5ff31e3d6523" />
 
-The new Agile version targets large-scale, complex settings like distributed and enterprise teams, emphasizing outcomes, value streams, continuous delivery, and user-centered design. Agile 2.0:- AI might go hand on hand in the next iterations natively, while 2.0 unlocks capabilities atleast now. A shift towards a native or near-native to 2.0 is likely, with the twin remaining staying connected forever.
-
 Agile can be applied in Cloud by using on-demand infrastructure to enable rapid experimentation and iteration. Cloud-native DevOps and CI/CD tools support continuous delivery and faster feedback. Collaboration and analytics services in the cloud help teams adapt quickly, scale, and improve continuously.
 
 In software development, whether using Scrum for structured sprints or Kanban for visual clarity, the goal remains consistent: deliver value through rapid, responsive iteration. Agile thrives with its core cycle — Discover, Define, Design, and Deliver — making it especially effective for leaders navigating. 
@@ -139,9 +137,8 @@ Famous Car Manufacturer lean philosophy extended beyond manufacturing to shape g
 
             A. Start with a minimal system, 
             B. Gather real driver feedback from prototypes
-            C. Improve continuously, not just release-and-forget
 
-For example, Manufacturer in-car voice navigation system went through dozens of iterations in Japan using real commuter behavior — focusing on accuracy, tone, and cultural cues rather than flashy User Interface. Meaning:- Lean isn't just startup speak — it's embedded in industrial process and influences digital product practices as well.
+For example, Manufacturer in-car voice navigation system went through dozens of iterations in Japan using real commuter behavior — focusing on accuracy, tone, and cultural cues rather than flashy User Interface. Meaning:- Lean isn't just startup speak — it will be embedded in industrial process and influences digital product practices as well.
 
 **8. Market Research and Opportunity Sizing:**
 
