@@ -534,7 +534,7 @@ Example 2: Car Makers – “To enjoy driving, not just own a car.” → Offers
 
 **22. OKRs (Objectives and Key Results) for Product Teams:** 1. Objectives define what to achieve — ambitious, qualitative, and outcome-focused. 2. At least, Key Results specify how to measure success — quantifiable, time-bound, and trackable.
 
-**23. Technical Understanding & Feasibility Assessment**
+**23. Technical Understanding & Feasibility Assessment** Product Management meets Engineering. It enables PMs to understand technical constraints and trade-offs at a conceptual level, ask the right questions, and avoid unrealistic roadmaps. By collaborating closely with engineers, PMs ensure solutions are feasible, scalable, secure, and aligned with cost, time, risk, and long-term technical health.
 
 **24. Organizational Design/Product Operations:**
 
