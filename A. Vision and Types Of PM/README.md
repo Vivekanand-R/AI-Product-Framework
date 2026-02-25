@@ -1,6 +1,9 @@
 
 **Vision:** To advance by building a solid knowledge framework, leveraging continuous learning, and making a lasting impact on enterprise growth. The goal here is to build the strong "Foundations Of Knowledge, Growth, Create Value, Drive Strategy, and Empower".
 
+<img width="866" height="633" alt="image" src="https://github.com/user-attachments/assets/1b55ca87-d061-4138-86d8-e6f4c032c2b1" />
+
+
 
 # Types of Product Management: 
 
