@@ -1,14 +1,6 @@
 ## **Product Management Major Scope by Industry:**
 
-**Banking:** Highly regulated environment (central banks, KYC, data privacy laws). PMs often **manage legacy systems, core banking products** (accounts, loans, payments), and modernization projects. Change cycles are slow, risk aversion is high, and oversight is constant. Modern finance management tools, credit scoring systems rely heavily on data science and AI — PMs need to be conversant in these technologies. BlackRock, Barclays, and other global financial institutions operating within the fintech ecosystem.
-
-For Example: JPMorgan Chase moves a staggering amount every single day:
-
-      A. Over trillion in payments and transfers globally across more than 120 currencies and 160+ countries. 
-      
-      B. “Processing 6,000 payments a second,” totaling about $10 trillion daily. 
-
-JPMorgan is one of the world’s largest daily payment flows—surpassing $10 trillion in transactions every day. Banking must possess strong domain expertise, ensure seamless coordination across stakeholders, and maintain unwavering focus on regulatory compliance are important to managing risk and driving successful product outcomes.
+**Banking:** Highly regulated environment (central banks, KYC, data privacy laws). PMs often **manage legacy systems, core banking products** (accounts, loans, payments), and modernization projects. Change cycles are slow, risk aversion is high, and oversight is constant. Modern finance management tools, credit scoring systems rely heavily on data science and AI — PMs need to be conversant in these technologies. 
 
 **Tech/SaaS/Software:** Heavy on feature definition, agile iterations, UX optimization, engineering collaboration. **Technical understanding** is a must. Complex tech stack: New features often involve connecting with the modern APIs, mobile apps, and cloud services. Azure explored DT by transforming Microsoft itself and by enabling customers worldwide to modernize, innovate, and scale using Azure’s cloud-native, AI, and DevOps capabilities. AI & Analytics → Azure AI, Cognitive Services, and Synapse Analytics drive smarter decision-making. Emerging technologies like Virtual Reality, Digital Twin, Artificial Intelligence, Augmented Reality, IoT, and Blockchain are playing an increasingly vital role in this domain today”.
 
@@ -353,7 +345,16 @@ Commonly used measurement & optimization methodologies:
             B. Web 2.0 (mid-2000s–2020s): Interactive, social, and user-generated content platforms. 
             C. Web 3.0 (emerging 2020s–): Decentralized, blockchain-based, AI-driven, and user-owned internet.
 
-**35. Idea Casts:**
+**35. Compliance and Data Regulations:**
+
+A Product Manager must understand key data protection and compliance regulations relevant to their industry.
+
+            A. In healthcare, HIPAA governs the secure handling of healthcare data.
+            B. For global products, GDPR and CCPA/CPRA regulate personal data privacy and user rights.
+            C. Cloud services often require compliance with SOC 2 and ISO 27001 security standards.
+            D. For payment systems, PCI-DSS ensures protection of financial and cardholder information.
+
+**36. Idea Casts:**
 
             A. HBR On Leadership: How to Make Fractional Leadership Work :- https://hbr.org/podcast/2025/08/how-to-make-fractional-leadership-work 
             B. Building an AI-Powered, Talent-Friendly Organization :- https://hbr.org/podcast/2025/06/building-an-ai-powered-talent-friendly-organization
