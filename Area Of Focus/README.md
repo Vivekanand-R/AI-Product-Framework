@@ -22,13 +22,13 @@
 
 **1. Product-Market Fit (PMF):** Validated commercial model
 
-Healthcare Wearable: **Fitbit** achieved Product-Market Fit by tapping into the rising consumer demand for personal health monitoring. Its wearable devices offered real-time insights into activity, sleep, and heart rate, creating daily habit loops and community engagement.
+Healthcare Wearable:  A wearable product, Product-Market Fit by tapping into the rising consumer demand for personal health monitoring. Its wearable devices offered real-time insights into activity, sleep, and heart rate, creating daily habit loops and community engagement.
 
 Financial & scale impact:
 
             A. Sold over 120 million devices to more than 29 million users in 100+ countries.
             B. Reported peak annual revenue of ~$2.16 billion in 2016; most recent figures show ~$1.31 billion in 2020. 
-            C. **Acquired by Google** for $2.1 billion in the year 2021.
+            C. **Acquired** for $2.1 billion in the year 2021.
 
 The company didn’t just ride a trend—they created a new category: everyday wellness wearables. Their PMF is defined by massive adoption, stickiness, and a validated commercial model.
 
@@ -63,9 +63,6 @@ Smartphones Innovation to gauge local demand flexibility without launching a new
              C. Design simple, intuitive experiences, D. Use data and empathy together,
              E. Prototype quickly, learn continuously,
              F. Focus on what matters for the users, G. Collaborate effectively, H. Improve using real user insights.
-
-            1. The Design of Everyday Things by Don Norman — MIT Press page (https://mitpress.mit.edu/9780262525671/the-design-of-everyday-things)
-            2. Alan Cooper (Work: About Face: The Essentials of Interaction Design (1995, later editions), Contribution: Introduced the idea of personas in design, emphasizing empathy with end-users)
             
             Paper:- https://www.researchgate.net/publication/200026124_About_Face_20_The_Essentials_of_Interaction_Design
             https://arxiv.org/abs/1503.01732
@@ -122,7 +119,7 @@ These are rooted in Agile values, Scrum, XP, Kanban, or Lean Software Developmen
 
 **7. Lean Product Development**
 
-**Auto/Manufacturing Example: Toyota's Lean Manufacturing → Lean Product Thinking**
+**Auto/Manufacturing Example: Lean Manufacturing → Lean Product Thinking**
 Famous Car Manufacturer lean philosophy extended beyond manufacturing to shape global product development. In their software-driven initiatives, such as in-car infotainment systems and autonomous vehicle research, Manufacturer applied the principle of “Kaizen” (continuous improvement) to software development.
 
             A. Start with a minimal system, 
@@ -179,7 +176,7 @@ Evaluating Investment Potential | Assessing future demands | Understanding Compe
             F. Vision Communication Plan – Consistently share vision across teams and stakeholders.
             G. Vision-Driven Decision Making – Use the vision as a filter for prioritization and trade-offs.
 
-**Example:** GE Power developed Predix, an industrial IoT platform, after discovering that power plant operators needed real-time analytics to reduce unplanned downtime.
+**Example:** Company developed Platform, an industrial IoT platform, after discovering that power plant operators needed real-time analytics to reduce unplanned downtime.
 
 **GE's spin-off into three independent companies** —GE Aerospace, GE Vernova (energy), and GE HealthCare—aligns product vision with focused market verticals.
 
