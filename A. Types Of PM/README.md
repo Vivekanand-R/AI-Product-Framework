@@ -1,4 +1,7 @@
 
+**Vision:** To advance by building a solid knowledge framework, leveraging continuous learning, and making a lasting impact on enterprise growth. The goal here is to build the strong "Foundations Of Knowledge, Growth, Create Value, Drive Strategy, and Empower".
+
+
 # Types of Product Management: 
 
 In general, there are around 8–10 major types of Product Management focus area. Below are the major five types, and beyond these, additional variations emerge based on industry, making product management a highly diverse and adaptable discipline.
