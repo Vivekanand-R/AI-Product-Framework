@@ -32,16 +32,16 @@ In general, there are around 8–10 major types of Product Management focus area
             
       Area of Focus: Companies building customer-facing digital products (apps, SaaS, marketplaces).
 
-      <img width="1041" height="272" alt="image" src="https://github.com/user-attachments/assets/ca161d8b-c5e3-408e-a75b-67f6c4945925" />
+<img width="1041" height="272" alt="image" src="https://github.com/user-attachments/assets/ca161d8b-c5e3-408e-a75b-67f6c4945925" />
 
 **Core Competencies:-**
 
-            A) Problem framing - Turning vague requests into sharp problem statements
-            B) Prioritization and tradeoffs - Saying “no” with a reason people accept.
+            A) Problem framing - Turning requests into sharp problem statements
+            B) Prioritization and tradeoffs
             C) Communication - Writing and speaking clearly across technical + non-technical audiences.
             D) Customer empathy + product sense - Knowing what users value, and what they won’t care about.
             E) Execution reliability - Shipping high-quality work consistently.
-            F) Data literacy - Being able to reason with metrics with/without being a data scientist. 
+            F) Data literacy - Being able to reason with metrics. 
 
 **Example Scenario's For General/Core Product Management**
 
