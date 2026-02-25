@@ -253,7 +253,7 @@ The factory provides feedback on feasibility, timelines, and technical limitatio
 
 It’s a functional interdependence where both sides play critical roles. Product success happens when HQ and factory operate in sync, not in silos.
 
-**Example 1: Tesla (EV Production)**
+**Example 1: EV Production**
             
             A. HQ (Palo Alto): Defines vehicle specs, autonomous features, software integrations, and pricing.
             B. Factory (Gigafactories): Builds the car, integrates hardware, and ensures battery supply chain stability.
@@ -276,12 +276,11 @@ D. Marketplace / Platform Model: The company acts as an intermediary, connecting
 
 E. Freemium Model: A basic service is offered for free, with premium features available at a cost (e.g., Spotify, LinkedIn).
 
-F. Business-to-Business (B2B):  Example, GE Healthcare’s B2B: Focus on Large Medical Equipment: GE HealthCare is best known for its imaging and diagnostic machines, like MRI and CT scanners, X-ray machines, and other large-scale hospital equipment. Also provides healthcare IT solutions, like digital imaging software and data analytics for hospitals.
+F. Business-to-Business (B2B):  Example, Healthcare’s Medtech B2B: Focus on Large Medical Equipment: Best known imaging and diagnostic machines, like MRI and CT scanners, X-ray machines, and other large-scale hospital equipment. Also provides healthcare IT solutions, like digital imaging software and data analytics for hospitals.
 
-G. Business-to-Consumer (B2C): Example 1: Another Healthcare Provider, has a blend of B2B and B2C operations: Diagnostics and Lab Equipment: Products like the systems or STAT analyzers are sold directly to hospitals, clinics, and labs. This is a classic B2B model, where it provides solutions that healthcare professionals use.
+G. Business-to-Consumer (B2C): Example 1: Healthcare Provider, can have a blend of B2B and B2C operations: Diagnostics and Lab Equipment: Products like the systems or STAT analyzers are sold directly to hospitals, clinics, and labs. This is a classic B2B model, where it provides solutions that healthcare professionals use.
 
    B2C: Nutrition Products: Few brands are sold directly to consumers through pharmacies, supermarkets, and online retailers. This is a strong B2C channel where markets directly to end-users. Range includes both small, patient-centric devices and lab instruments, also has a strong consumer health and nutrition division.
-
 
 **28. Six Sigma and Lean Manufacturing:** Methodologies aimed at improving business processes, especially in manufacturing and operations, with different focuses:
 
@@ -290,7 +289,6 @@ G. Business-to-Consumer (B2C): Example 1: Another Healthcare Provider, has a ble
             A. Core Idea: Use data-driven and statistical methods to identify and eliminate causes of errors or defects.
             B. Metric: Strives for no more than 3.4 defects per million opportunities.
             C. Key Tools: DMAIC (Define, Measure, Analyze, Improve, Control), statistical analysis, control charts, regression, etc.
-
 
 **28 B. Lean Manufacturing** Goal: Eliminate waste and maximize value for the customer.
 
@@ -326,10 +324,10 @@ Commonly used measurement & optimization methodologies:
 **32. Industrial revolutions:**
 
             A. Industry 1.0 – Late 18th century: mechanization using water and steam power.
-            B. Industry 2.0 (1870–1914) – Late 19th century: mass production with electricity and assembly lines. (Ford Motor Company (assembly line), **General Electric (electrification)**, and U.S. Steel became industrial giants.)
-            C. Industry 3.0 (1960s–2000) – Mid 20th century: automation through electronics, IT, and computers. (IBM, Intel, Microsoft, and Siemens leveraged electronics, computers, and software to dominate the digital and automation age.)
-            D. Industry 4.0 (2010–today) – 21st century: smart, connected systems using AI, IoT, and data. (Amazon, Tesla, Google (Alphabet), Siemens)
-            E. Forward-looking Industry 5.0 (emerging, ~2020s–future) (human–machine collaboration, sustainability, personalization) - Emerging leaders include Tesla, Boston Dynamics, Orsted (renewable energy)
+            B. Industry 2.0 (1870–1914) – Late 19th century: mass production with electricity and assembly lines. ( Motor Company (assembly line), **Electric (electrification)**, and Steel became industrial giants.)
+            C. Industry 3.0 (1960s–2000) – Mid 20th century: automation through electronics, IT, and computers. ( leveraged electronics, computers, and software to the digital and automation age.)
+            D. Industry 4.0 (2010–today) – 21st century: smart, connected systems using AI, IoT, and data. 
+            E. Forward-looking Industry 5.0 (emerging, ~2020s–future) (human–machine collaboration, sustainability, personalization).
 
 **33. Emerging Technologies** (AI evolution timeline)
 
@@ -343,7 +341,7 @@ Commonly used measurement & optimization methodologies:
             B. Web 2.0 (mid-2000s–2020s): Interactive, social, and user-generated content platforms. 
             C. Web 3.0 (emerging 2020s–): Decentralized, blockchain-based, AI-driven, and user-owned internet.
 
-**35. Compliance and Data Regulations:**
+**35. Compliance and Regulations:**
 
 A Product Manager must understand key data protection and compliance regulations relevant to their industry.
 
