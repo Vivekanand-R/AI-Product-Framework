@@ -32,7 +32,8 @@ In general, there are around 8–10 major types of Product Management focus area
             
       Area of Focus: Companies building customer-facing digital products (apps, SaaS, marketplaces).
 
-<img width="1041" height="272" alt="image" src="https://github.com/user-attachments/assets/ca161d8b-c5e3-408e-a75b-67f6c4945925" />
+<img width="1032" height="257" alt="image" src="https://github.com/user-attachments/assets/852e08a8-6253-4d53-91d4-ea9975bab1c9" />
+
 
 **Core Competencies:-**
 
