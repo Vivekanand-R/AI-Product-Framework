@@ -92,7 +92,9 @@ If a hospital/customer pays: $50,000 per year for a console software subscriptio
 
 Then: LTV = $50,000 × 5 = $250,000, That means one hospital account is worth $250K over its lifetime.
 
-A healthy SaaS business usually aims for: LTV:CAC≥3:1
+A healthy SaaS business usually aims for: LTV:CAC≥3:1 (which means for every $1 you spend to acquire a customer, you should earn at least $3 from that customer over their lifetime.)
+
+Break it down: LTV (Lifetime Value) = Total revenue you expect from a customer over the entire relationship, CAC (Customer Acquisition Cost) = Total cost to acquire that customer (sales, marketing, commissions, ads, etc.)
 
 LTV Helps on:-
 
