@@ -6,6 +6,17 @@ They define how teams organize work, manage risks, control timelines, and achiev
 
 **The five common types are Waterfall, Agile, Scrum, Kanban, and Hybrid.**
 
+1. Waterfall
+
+2. Agile
+
+3. Scrum
+
+4. Kamban
+
+5. Hybrid.
+   
+
 Waterfall is a traditional linear framework where work flows through fixed phases such as requirements, design, development, testing, and deployment.
 Each phase must be completed before the next begins, making it suitable for projects with clear and stable requirements.
 
