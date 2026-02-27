@@ -1,28 +1,23 @@
 
-## **Types of Financial Models**
+## **Project management frameworks**
 
-Core Models | Valuation Models | Transaction Models | Specialized Models
+Project management frameworks are structured approaches used to plan, execute, and deliver projects effectively.
+They define how teams organize work, manage risks, control timelines, and achieve objectives.
 
-1. Three-Statement Model – Integrates financial statements (It's an Integrated model that combines: Income Statement, Balance Sheet and Cash Flow Statement)
+**The five common types are Waterfall, Agile, Scrum, Kanban, and Hybrid.**
 
-2. Discounted Cash Flow (DCF) – Values via future cash flows (Its Values business using the discounted future cashflows) - This is an Discounts projected future cash flows to present value.
+Waterfall is a traditional linear framework where work flows through fixed phases such as requirements, design, development, testing, and deployment.
+Each phase must be completed before the next begins, making it suitable for projects with clear and stable requirements.
 
-3. Comparable Company (Comps) – Benchmarks using market multiples - by applying peer group market multiples like EV/EBITDA or P/E to its metrics.
+Agile is an adaptive framework that emphasizes iterative development, customer collaboration, and flexibility.
+Work is delivered in small increments, allowing teams to respond quickly to changing requirements.
 
-4. Precedent Transaction – Values using past deals
+Scrum is a structured Agile framework that organizes work into short time-boxed iterations called sprints.
+It defines specific roles, events, and artifacts to ensure transparency, accountability, and continuous improvement.
 
-5. M&A Model – Analyzes merger impact
+Kanban is a visual workflow management method focused on continuous delivery and limiting work in progress.
+It improves efficiency by optimizing flow and reducing bottlenecks rather than working in fixed iterations.
 
-6. Leveraged Buyout (LBO) – Evaluates debt-financed acquisition
-
-7. Budgeting & Forecasting – Projects future performance
-
-8. Consolidation Model – Combines multiple entities
-
-9. Project Finance – Assesses long-term projects
-
-10. Option Pricing – Values derivatives or options
-
-11. Startup / Venture Model – Forecasts early-stage growth
-
-13. Sensitivity / Scenario Model – Tests assumption outcomes
+Hybrid combines elements of both Waterfall and Agile approaches.
+It uses structured planning from traditional methods while applying iterative execution practices for flexibility.
+This approach is useful for complex projects requiring both predictability and adaptability.
