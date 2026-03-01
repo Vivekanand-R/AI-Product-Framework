@@ -288,14 +288,6 @@ If it is a success, Heavy Auto Manufacturer, Inc. has a chance to lead the MArke
 
 **Banking:** Highly regulated environment (central banks, KYC, data privacy laws). PMs often **manage legacy systems, core banking products** (accounts, loans, payments), and modernization projects. Change cycles are slow, risk aversion is high, and oversight is constant. Modern finance management tools, credit scoring systems rely heavily on data science and AI — PMs need to be conversant in these technologies. BlackRock, Barclays, and other global financial institutions operating within the fintech ecosystem.
 
-For Example: JPMorgan Chase moves a staggering amount every single day:
-
-      A. Over trillion in payments and transfers globally across more than 120 currencies and 160+ countries. 
-      
-      B. “Processing 6,000 payments a second,” totaling about $10 trillion daily. 
-
-JPMorgan is one of the world’s largest daily payment flows—surpassing $10 trillion in transactions every day. Banking must possess strong domain expertise, ensure seamless coordination across stakeholders, and maintain unwavering focus on regulatory compliance are important to managing risk and driving successful product outcomes.
-
 **Tech/SaaS/Software:** Heavy on feature definition, agile iterations, UX optimization, engineering collaboration. **Technical understanding** is a must. Complex tech stack: New features often involve connecting with the modern APIs, mobile apps, and cloud services. Azure explored DT by transforming Microsoft itself and by enabling customers worldwide to modernize, innovate, and scale using Azure’s cloud-native, AI, and DevOps capabilities. AI & Analytics → Azure AI, Cognitive Services, and Synapse Analytics drive smarter decision-making. Emerging technologies like Virtual Reality, Digital Twin, Artificial Intelligence, Augmented Reality, IoT, and Blockchain are playing an increasingly vital role in this domain today”.
 
 **Hardware/Consumer Electronics:** Success often depends on balancing innovation speed with cost efficiency and the large-scale production demands on electronics. This Complex product cycles, irreversible design choices, intricate supply chain management, and a strong focus on reliability and manufacturability. 
@@ -432,8 +424,6 @@ For example, Manufacturer in-car voice navigation system went through dozens of 
 
 <img width="1297" height="287" alt="image" src="https://github.com/user-attachments/assets/4047c237-e6de-40bf-b5ab-6788531ec1f5" />
 
-
-
 **Global Projection of Installed Medical Devices:-**
 
 <img width="846" height="185" alt="image" src="https://github.com/user-attachments/assets/f0f44d59-8d6f-42bc-bf9f-9243394f7ab9" />
@@ -475,15 +465,17 @@ Evaluating Investment Potential | Assessing future demands | Understanding Compe
             F. Vision Communication Plan – Consistently share vision across teams and stakeholders.
             G. Vision-Driven Decision Making – Use the vision as a filter for prioritization and trade-offs.
 
-**Example:** GE Power developed Predix, an industrial IoT platform, after discovering that power plant operators needed real-time analytics to reduce unplanned downtime.
+**Example:** Multi-national conglomerate developed Platform, an industrial IoT platform, after discovering that power plant operators needed real-time analytics to reduce unplanned downtime.
 
-**GE's spin-off into three independent companies** —GE Aerospace, GE Vernova (energy), and GE HealthCare—aligns product vision with focused market verticals.
+**MNC spin-off into three independent companies** — Aerospace, Energy, and HealthCare — aligns product vision with focused market verticals.
 
 Each business now drives its own strategy, innovation, and investment based on sector-specific needs. This structure enables clearer **product roadmaps, faster execution, and greater agility** in addressing industry-specific challenges and opportunities. **Realize stronger valuations and investor interest**, with market value surging to **~$340 billion collectively** — up from ~$60 billion in 2018.
 
-            A. GE Vernova (Energy): Delivers wind turbines (onshore/offshore), gas turbines, grid solutions, and digital energy software for power generation and decarbonization.
-            B. GE Aerospace: Produces jet engines (e.g., GE90, LEAP, GE9X), aviation systems, and engine services for commercial and business aircraft.
-            C. GE HealthCare: Offers medical imaging systems (MRI, CT, ultrasound), patient monitoring, AI diagnostics, and hospital software platforms.
+            A. Energy Division: Delivers wind turbines (onshore/offshore), gas turbines, grid solutions, and digital energy software for power generation and decarbonization.
+            B. Aerospace Division: Produces jet engines, aviation systems, and engine services for commercial and business aircraft.
+            C. HealthCare Division: Offers medical imaging systems (MRI, CT, ultrasound), patient monitoring, AI diagnostics, and hospital software platforms.
+
+It's a good example for a long term strategy and vision. 
 
 **12. Feature Prioritization Frameworks** (Reach, Impact, Confidence and Efforts Framework, MoSCoW, Kano)
 
@@ -655,7 +647,7 @@ Commonly used measurement & optimization methodologies:
 
 Develop a successful digital product - Biases and Successful Validation:
 
-1. Presentations often exaggerate wins, sometimes lack of analysis on product failures or market feedback. Focusing on hard truths to drive meaningful improvement.
+1. Product Strategy Biases
 
 2. The Difference Between MVP - MVPs test feasibility, but products only succeed when users likes them. Aim beyond bare functionality — design products that spark engagement.
 
@@ -776,13 +768,6 @@ Apart from **visionary leadership, technological innovation, relentless executio
 Monopoly: Core Concept:- Market structure where a single seller might dominates the market for a product or service with no close substitutes. Price maker, meaning it has substantial control over pricing, output, and market conditions—something that’s impossible in more competitive markets. 
 
 1. Natural Monopoly, 2. Patented, 3. Technological, 4. Geographic, 5. Platform (Near-Monopoly), 6. Resource.
-
-
-**Market Leader:**
-
-**2025:**
-
-![image](https://github.com/user-attachments/assets/df93a88e-5e3b-4ebc-b3d8-7596bb4f443c)
 
 
 **References**: 
