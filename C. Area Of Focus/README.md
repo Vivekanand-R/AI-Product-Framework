@@ -134,12 +134,6 @@ For example, Manufacturer in-car voice navigation system went through dozens of 
 <img width="1297" height="287" alt="image" src="https://github.com/user-attachments/assets/4047c237-e6de-40bf-b5ab-6788531ec1f5" />
 
 
-
-**Global Projection of Installed Medical Devices:-**
-
-<img width="846" height="185" alt="image" src="https://github.com/user-attachments/assets/f0f44d59-8d6f-42bc-bf9f-9243394f7ab9" />
-
-
 **Market Growth Potentials and the CAGR Estimations:-**
 
 Healthcare growth varies widely by subsegment, with Digital Health (telehealth, mHealth, digital therapeutics, remote monitoring) and Healthcare IT & Analytics (AI, data analytics, cloud, cybersecurity) showing some of the fastest growth, often 15–45% CAGR, driven by technology adoption, data explosion, and policy support.
@@ -176,15 +170,17 @@ Evaluating Investment Potential | Assessing future demands | Understanding Compe
             F. Vision Communication Plan – Consistently share vision across teams and stakeholders.
             G. Vision-Driven Decision Making – Use the vision as a filter for prioritization and trade-offs.
 
-**Example:** Company developed Platform, an industrial IoT platform, after discovering that power plant operators needed real-time analytics to reduce unplanned downtime.
+**Example:** Multi-national conglomerate developed Platform, an industrial IoT platform, after discovering that power plant operators needed real-time analytics to reduce unplanned downtime.
 
-**GE's spin-off into three independent companies** —GE Aerospace, GE Vernova (energy), and GE HealthCare—aligns product vision with focused market verticals.
+**MNC spin-off into three independent companies** — Aerospace, Energy, and HealthCare — aligns product vision with focused market verticals.
 
-Each business now drives its own strategy, innovation, and investment based on sector-specific needs. This structure enables clearer **product roadmaps, faster execution, and greater agility** in addressing industry-specific challenges and opportunities. **Realize stronger valuations and investor interest**, with market value surging to **~$340 billion collectively** — up from ~$60 billion in 2018.
+Each business now drives its own strategy, innovation, and investment based on sector-specific needs. This structure enables clearer **product roadmaps, faster execution, and greater agility** in addressing industry-specific challenges and opportunities. **Realize stronger valuations and investor interest**, with market value surging to ~$340 billion collectively — up from ~$60 billion in 2018.
 
-            A. GE Vernova (Energy): Delivers wind turbines (onshore/offshore), gas turbines, grid solutions, and digital energy software for power generation and decarbonization.
-            B. GE Aerospace: Produces jet engines (e.g., GE90, LEAP, GE9X), aviation systems, and engine services for commercial and business aircraft.
-            C. GE HealthCare: Offers medical imaging systems (MRI, CT, ultrasound), patient monitoring, AI diagnostics, and hospital software platforms.
+            A. Energy Division: Delivers wind turbines (onshore/offshore), gas turbines, grid solutions, and digital energy software for power generation and decarbonization.
+            B. Aerospace Division: Produces jet engines, aviation systems, and engine services for commercial and business aircraft.
+            C. HealthCare Division: Offers medical imaging systems (MRI, CT, ultrasound), patient monitoring, AI diagnostics, and hospital software platforms.
+
+It's a good example for a long term strategy and vision. 
 
 **12. Feature Prioritization Frameworks** (Reach, Impact, Confidence and Efforts Framework, MoSCoW, Kano)
 
