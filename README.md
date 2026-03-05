@@ -1,7 +1,7 @@
 
 ## **AI-Product-Framework**
 
-**Towards a Knowledge Framework for Enterprise Leadership — Executive Education**
+**Towards a Knowledge Framework for Enterprise Leadership**
 
 *Designing, Building, and Scaling AI-Driven Products, Businesses, and Organizations*
 
