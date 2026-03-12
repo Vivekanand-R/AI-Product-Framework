@@ -253,9 +253,9 @@ It’s a functional interdependence where both sides play critical roles. Produc
             C. PM Role: Coordinates between hardware engineering, software teams, and plant ops for rollout.
 
 
-**25. Tech Debt Management:** Intentional, not accidental. Schedule and prioritize it just like feature work. Tech debt ignored = future product failure.
+**25. Tech Debt Management:** Intentional, not accidental. Schedule and prioritize it just like feature work. 
 
-**26. Cognitive Load Awareness:** Protect the team’s bandwidth. Too many simultaneous priorities kill focus and degrade quality.
+**26. Cognitive Load Awareness:** Protect the team’s bandwidth. Too many simultaneous priorities reduce focus and degrade quality.
 
 **27. List of Business models: (C2C, C2B, B2B vs B2C)**
 
