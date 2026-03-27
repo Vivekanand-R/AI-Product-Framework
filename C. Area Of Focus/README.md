@@ -44,7 +44,7 @@ The primary goal of an MVP is risk reduction. Built to rapidly/quickly test assu
 
 For Example:
 
-            A. Market share by smartphone vendor (2025 - Approx Estimation): Apple 38.0 %, Samsung 37.3 %, Xiaomi 6.5 %	
+            A. Market share by smartphone vendor
             B. Smartphones e‑commerce market size (approx):	USD 1.32 billion (2025 forecast)
 
 Smartphones Innovation to gauge local demand flexibility without launching a new product line.
@@ -71,7 +71,7 @@ Smartphones Innovation to gauge local demand flexibility without launching a new
 **Example 1:** Designing a Patient-Centric Digital Treatment App for Diabetes Management
 
 In pharmaceutical sector, collaboration with a digital health team to create the latest mobile app for Type 2 Diabetes patients, aimed at enhancing medication adherence, lifestyle monitoring, and communication with healthcare providers.
-Some of the Impacts could be: xx% increase in medication adherence, | yy% drop in missed appointments | Increase in patient satisfaction scores | Reduction in support center call volume
+Some of the Impacts would be increase in medication adherence, | yy% drop in missed appointments | Increase in patient satisfaction scores | Reduction in support center call volume
 
 Another Example: Learning Through UX (**Best User Centered Design**): Language learning apps have existed forever, but most feel like homework. Modern Learning app flipped the model with relentless User-Centered Design, focusing on: Gamification that Actually Works and Inclusive, Accessible Design. Modern Learning app turned Language Learning for over 80 million monthly active users. Their design-led approach didn't just drive downloads, it fueled real habit formation, retention and Informative.
 
@@ -160,7 +160,7 @@ Evaluating Investment Potential | Assessing future demands | Understanding Compe
 
 9. **Product Roadmapping** - Process that links a product’s vision and goals to a clear plan of execution over time. A roadmap serves multiple purposes: Alignment: Ensures that stakeholders, leadership, and development teams share a common understanding of priorities. Clarity: Breaks down abstract vision into concrete initiatives, features, and milestones. Adaptability: Helps teams adjust direction based on user feedback, market changes, or new opportunities. Communication Tool: Acts as a living document to keep customers, partners, and internal teams informed.
 
-10. **Product Vision & Strategy**
+10-11. **Product Vision & Strategy**
 
             A. Market Problem Definition – Articulate the core user needs.
             B. Long-Term Product Mission – Define the product’s aspirational, future-state goal.
@@ -169,18 +169,6 @@ Evaluating Investment Potential | Assessing future demands | Understanding Compe
             E. Alignment with Company Goals – Ensure product vision supports broader business objectives.
             F. Vision Communication Plan – Consistently share vision across teams and stakeholders.
             G. Vision-Driven Decision Making – Use the vision as a filter for prioritization and trade-offs.
-
-**Example:** Multi-national conglomerate developed Platform, an industrial IoT platform, after discovering that power plant operators needed real-time analytics to reduce unplanned downtime.
-
-**MNC spin-off into three independent companies** — Aerospace, Energy, and HealthCare — aligns product vision with focused market verticals.
-
-Each business now drives its own strategy, innovation, and investment based on sector-specific needs. This structure enables clearer **product roadmaps, faster execution, and greater agility** in addressing industry-specific challenges and opportunities. **Realize stronger valuations and investor interest**, with market value surging to ~$340 billion collectively — up from ~$60 billion in 2018.
-
-            A. Energy Division: Delivers wind turbines (onshore/offshore), gas turbines, grid solutions, and digital energy software for power generation and decarbonization.
-            B. Aerospace Division: Produces jet engines, aviation systems, and engine services for commercial and business aircraft.
-            C. HealthCare Division: Offers medical imaging systems (MRI, CT, ultrasound), patient monitoring, AI diagnostics, and hospital software platforms.
-
-It's a good example for a long term strategy and vision. 
 
 **12. Feature Prioritization Frameworks** (Reach, Impact, Confidence and Efforts Framework, MoSCoW, Kano)
 
