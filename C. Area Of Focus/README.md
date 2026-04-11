@@ -304,6 +304,8 @@ Commonly used measurement & optimization methodologies:
 
 **32. Industrial revolutions:**
 
+Industrial revolutions show how value creation has evolved — from machines improving labor efficiency to software enabling automation, and now AI enabling adaptive, learning systems. Industry 4.0 introduced data-driven intelligence, while Industry 5.0 focuses on human–AI collaboration and personalization. The key shift is from deterministic systems to probabilistic, AI-driven experiences. For product managers, this means designing products that balance automation with control, intelligence with trust, and scale with user-centricity.
+
             A. Industry 1.0 – Late 18th century: mechanization using water and steam power.
             B. Industry 2.0 (1870–1914) – Late 19th century: mass production with electricity and assembly lines. ( Motor Company (assembly line), **Electric (electrification)**, and Steel became industrial giants.)
             C. Industry 3.0 (1960s–2000) – Mid 20th century: automation through electronics, IT, and computers. ( leveraged electronics, computers, and software to the digital and automation age.)
@@ -312,11 +314,15 @@ Commonly used measurement & optimization methodologies:
 
 **33. Emerging Technologies** (AI evolution timeline)
 
+Emerging AI capabilities are evolving from today’s specialized, domain-focused systems (e.g., conversational AI, vision, and early physical AI) toward potential AGI with cross-domain adaptability, and eventually ASI with transformative intelligence. Current products are built around focused capabilities, but the trajectory is toward more integrated, multimodal, and autonomous systems. This shift will move product design from feature-level intelligence to system-level orchestration. For PMs, the key challenge is balancing expanding capability with control, safety, and real-world usability.
+
             A. ANI (Artificial Narrow Intelligence) – 2010s–today: Task-specific AI (chatbots, image recognition, recommendation engines).
             B. AGI (Artificial General Intelligence) – ~2040–2070 (speculative): Human-level AI that can learn and adapt across domains. 
             C. ASI (Artificial Superintelligence) – ~2070+ (highly speculative): AI far beyond human intelligence, with massive potential and risks.
 
 **34. From Web 1.0 to Web 3.0: A Journey of Digital Evolution**
+
+The web has evolved from static information access (Web 1.0) to interactive, user-generated platforms (Web 2.0), and now toward decentralized, AI-driven ecosystems with greater user ownership (Web 3.0). This shift moves products from content delivery → engagement → ownership and intelligence, redefining how value, trust, and control are designed into digital experiences.
 
             A. Web 1.0 (1990s–early 2000s): Static, read-only web with limited user interaction. 
             B. Web 2.0 (mid-2000s–2020s): Interactive, social, and user-generated content platforms. 
